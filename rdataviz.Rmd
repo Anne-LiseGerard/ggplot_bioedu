@@ -1,0 +1,45 @@
+---
+title: "Data Visualisation with ggplot2"
+output: html_document
+date: "2026-05-04"
+---
+
+# Load libraries
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library(dplyr)
+library(hexbin)
+library(ggplot2)
+library(patchwork)
+
+```
+
+# Setting up a dataset 
+
+```{r}
+
+MYCN <- read.delim("data/zcc_MYCN_exp.tsv") 
+colnames(MYCN)[7:8] <- paste("MYCN_",colnames(MYCN)[7:8], sep = "")
+
+ALK  <- read.delim("data/zcc_ALK_exp.tsv") 
+colnames(ALK)[7:8] <- paste("ALK_",colnames(ALK)[7:8], sep = "")
+
+MYCN_ALK <- inner_join(MYCN, ALK %>% dplyr::select(X,ALK_zscore,ALK_TPM.Values))
+
+```
+
+# Example plots 
+
+```{r}
+#boxplot
+ggplot(MYCN_ALK, aes(x = log2(MYCN_TPM.Values), y = category))+ geom_boxplot() + theme_bw()
+
+#correlations
+ggplot(MYCN_ALK, aes(x = log2(MYCN_TPM.Values), y = log2(ALK_TPM.Values))) + geom_point() + theme_bw()
+
+#facet
+ggplot(MYCN_ALK, aes(log2(MYCN_TPM.Values), log2(ALK_TPM.Values))) + geom_hex() + facet_wrap(~category) + theme_bw()
+
+```

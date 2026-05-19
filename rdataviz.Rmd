@@ -20,10 +20,10 @@ library(patchwork)
 
 ```{r}
 
-MYCN <- read.delim("data/zcc_MYCN_exp.tsv") 
+MYCN <- read.delim("zcc_MYCN_exp.tsv") 
 colnames(MYCN)[7:8] <- paste("MYCN_",colnames(MYCN)[7:8], sep = "")
 
-ALK  <- read.delim("data/zcc_ALK_exp.tsv") 
+ALK  <- read.delim("zcc_ALK_exp.tsv") 
 colnames(ALK)[7:8] <- paste("ALK_",colnames(ALK)[7:8], sep = "")
 
 MYCN_ALK <- inner_join(MYCN, ALK %>% dplyr::select(X,ALK_zscore,ALK_TPM.Values))
@@ -31,15 +31,101 @@ MYCN_ALK <- inner_join(MYCN, ALK %>% dplyr::select(X,ALK_zscore,ALK_TPM.Values))
 ```
 
 # Example plots 
+Currently just a code vomit of plots - comments include ideas of what we can use to introduce different ggplot concepts and their utility.
 
 ```{r}
 #boxplot
 ggplot(MYCN_ALK, aes(x = log2(MYCN_TPM.Values), y = category))+ geom_boxplot() + theme_bw()
 
+#violin
+ggplot(MYCN_ALK, aes(x = log2(MYCN_TPM.Values), y = category))+ geom_violin() + theme_bw()
+
 #correlations
 ggplot(MYCN_ALK, aes(x = log2(MYCN_TPM.Values), y = log2(ALK_TPM.Values))) + geom_point() + theme_bw()
+# can use this to add line on top and do quick linear regression?
 
 #facet
 ggplot(MYCN_ALK, aes(log2(MYCN_TPM.Values), log2(ALK_TPM.Values))) + geom_hex() + facet_wrap(~category) + theme_bw()
 
+#barplot
+ggplot(MYCN_ALK, aes(x = category, fill = category)) + geom_bar() + theme_bw()
+# this is good example to introduce theme components & show how to change axis labels 90 degrees
+ggplot(MYCN_ALK, aes(x = category, fill = category)) + geom_bar() + theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
 ```
+
+
+# Plots for slides
+## 1. Why ggplot?
+```{r}
+library(tidyverse)
+
+dot_data <- MYCN_ALK %>%
+  pivot_longer(
+    cols = c(MYCN_TPM.Values, ALK_TPM.Values),
+    names_to = "gene",
+    values_to = "expression"
+  ) %>%
+  group_by(category, gene) %>%
+  summarise(
+    avg_expression = mean(log1p(expression), na.rm = TRUE),  
+    pct_expressed  = mean(expression > 1, na.rm = TRUE) * 100,
+    .groups = "drop"
+  ) %>%
+  mutate(gene = recode(gene,
+    "MYCN_TPM.Values" = "MYCN",
+    "ALK_TPM.Values"  = "ALK"
+  )) %>%
+  filter(category != "")
+
+# simple
+p1 <- ggplot(dot_data, aes(x = gene, y = category)) +
+  geom_point(aes(size = pct_expressed, color = avg_expression)) +
+  scale_size_continuous(range = c(1, 10), limits = c(0, 100), name = "% patients expressed") +
+  scale_color_gradient(low  = "blue", high = "red", name = "Avg log1p(TPM)") +
+  labs(x = NULL, y = NULL, title = "Gene expression in ZERO2 patients") +
+  theme_bw()
+
+# flexible
+library(ggsci)
+library(ggpubr)
+pal <- pal_npg()(2)
+
+p2 <- ggplot(dot_data, aes(x = gene, y = category)) +
+  geom_point(aes(size = pct_expressed, color = avg_expression)) +
+  scale_size_continuous(range = c(1, 10), limits = c(0, 100), name = "% patients expressed") +
+  scale_color_gradient(low  = pal[2], high = pal[1], name = "Avg log1p(TPM)") +
+  labs(x = NULL, y = NULL, title = "Gene expression in ZERO2 patients") +
+  theme_pubr(base_size = 7,           
+             base_family = "Helvetica",
+             legend = "right") +
+  theme(legend.title = element_text(size = 7),
+        legend.text  = element_text(size = 6))
+
+library(ThemePark)
+p3 <- ggplot(dot_data, aes(x = gene, y = category)) +
+  geom_point(aes(size = pct_expressed, color = avg_expression)) +
+  scale_size_continuous(range = c(1, 10), limits = c(0, 100), name = "% patients expressed") +
+  scale_color_gradient(low  = "pink", high = "deeppink", name = "Avg log1p(TPM)") +
+  labs(x = NULL, y = NULL, title = "Gene expression in ZERO2 patients") +  
+  theme_barbie()
+
+# reproducible
+spoods <- readRDS("wst_aus_traits.rds")
+
+p4 <- ggplot(spoods, aes(x = trait.name, y = taxonomy.family)) +
+  geom_point(aes(size = pct_recorded, color = avg_value)) +
+  scale_size_continuous(range = c(1, 8), limits = c(0, 100), name = "% species with data") +
+  scale_color_gradient(low = "pink", high = "deeppink", name = "Mean length (mm)") +
+  labs(x = NULL, y = NULL, title = "Morphometry of Australian spiders") +
+  theme_barbie()
+
+pdf("ggplot_examples.pdf", width = 8.5, height = 18)
+plot_grid(p1, p2, p3, p4,
+  ncol       = 1,
+  align      = "hv",
+  axis       = "lr"
+)
+dev.off()
+
+```
+

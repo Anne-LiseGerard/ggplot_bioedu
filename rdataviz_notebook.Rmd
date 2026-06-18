@@ -232,6 +232,7 @@ ggplot(MYCN_ALK, aes(y = log2(MYCN_TPM + 1), x = category, color = category)) +
   geom_violin() + scale_x_discrete(labels = abbreviate) + 
   scale_colour_brewer(palette = "Dark2") + theme_barbie()
 ```
+
 + The theme() function can help further fine tune visual aspects of your plots, such as gridlines, text font and orientation, tick marks, legend position. Here's is a list of every single thing you can modify - https://ggplot2.tidyverse.org/reference/theme.html. 
 + The element functions (element_text(), element_line() etc.) are used to specify these modifications. Details of each of these functions can be found here ; https://ggplot2.tidyverse.org/reference/element.html. 
 
@@ -248,7 +249,9 @@ ggplot(MYCN_ALK, aes(y = log2(MYCN_TPM + 1), x = category, color = category)) +
         legend.position = "bottom")
 
 ```
+
 + Labels - Axes and legend labels and plot title can be modified easily in ggplot2. 
+
 ```{r labels}
 ggplot(MYCN_ALK, aes(y = log2(MYCN_TPM + 1), x = category, color = category)) + 
   geom_violin() +
@@ -377,6 +380,7 @@ ggplot(MYCN_ALK_2, aes(x = gene, y = log2(tpm + 1))) + geom_violin() + theme_bw(
   )
 
 ```
+
 And this also works with facet plots:
 
 ```{r signif_facet}
@@ -391,6 +395,7 @@ ggplot(MYCN_ALK_2, aes(x = gene, y = log2(tpm + 1), fill = gene)) +
 scale_y_continuous(expand = expansion(mult = c(0.05, 0.15)))
 
 ```
+
 #### Exercise 
 
 + Correlations

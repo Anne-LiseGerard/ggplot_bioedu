@@ -1,0 +1,478 @@
+---
+title: "Plotting can be fun with ggplot2"
+output:
+  html_document:
+    df_print: paged
+---
+
+### Install packages
+
+Packages only have to be installed once. 
+
+```{r setup,message = FALSE, warning = FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+if (!require("tidyverse"))        install.packages("dplyr")
+if (!require("hexbin"))       install.packages("hexbin")
+if (!require("patchwork"))    install.packages("patchwork")
+if (!require("RColorBrewer")) install.packages("RColorBrewer")
+if (!require("ggsignif"))     install.packages("ggsignif")
+if (!require("ggpubr"))       install.packages("ggpubr")
+if (!require("ggpubr"))       install.packages("ggsci")
+if (!require("ThemePark"))    remotes::install_github("MatthewBJane/ThemePark")
+```
+
+### Load libraries
+
+```{r load}
+library(tidyverse)
+library(hexbin)
+library(patchwork)
+library(RColorBrewer)
+library(ThemePark)
+library(ggsignif)
+library(ggpubr)
+library(ggsci)
+```
+
+---
+
+### Read and format sample data.
+
+The test dataset consists of two tables with expression data for MYCN and ALK for all ZERO patients. The first step is to prepare our data by joining the two tables. 
+
+```{r format}
+MYCN <- read.delim("data/zcc_MYCN_exp.tsv") 
+colnames(MYCN)[6:7] <- paste("MYCN_",colnames(MYCN)[6:7], sep = "")
+ALK  <- read.delim("data/zcc_ALK_exp.tsv") 
+colnames(ALK)[6:7] <- paste("ALK_",colnames(ALK)[6:7], sep = "")
+
+#combine the tables into one
+MYCN_ALK <- inner_join(MYCN, ALK %>% dplyr::select(patient_id,ALK_zscore,ALK_TPM))
+
+```
+
+Ok now that our data has been loaded, we're ready to make our first ggplot, by building our layers. Each step has been split into the Example and the Exercise, to answer the following questions:
+
+- Example: How does expression of MYCN and ALK differ with the different disease categories?
+- Exercise: How do the expression of MYCN and ALK correlate with each other across the different disease categories?
+
+---
+
+### Step 1: Passing your data to ggplot() and mapping variables with aes().
+
+To start out, we need to define what are our variables that we are interested in, and pass that to ggplot().
+
+#### Example: How does expression of MYCN differ with the different disease categories?
+
+We're interested in disease category and expression. ggplot() reads our data table (MYCN_ALK) and defines the coordinate system for our plot based on the mappings we pass to aes(). Below, we've defined category as our x-axis, MYCN_TPM as our y-axis. However, we have not yet given any instructions on how to draw this data (as a dotplot? boxplot? violin plot?), so you just get an empty plot with axis labels and scales.
+
+```{r ggplot}
+ggplot(MYCN_ALK, aes(x = category, y = MYCN_TPM))
+
+```
+
+#### Exercise: How do the expression of MYCN and ALK correlate with each other across the different disease categories?
+
+So we're interested in now the expression of MYC and ALK. Set up the base ggplot() function.
+
+```{r ggplot_ex}
+### ENTER CODE HERE ###
+```
+
+---
+
+### Step 2: Choosing a geom function - what kind of plot do you want to make?
+
+The geom_function() tell ggplot what shape to use to represent your data. There is a large array of geom functions, from geom_point() for a simple dotplot to package specific functions (check out <https://ggplot2.tidyverse.org/reference/index.html> and <https://github.com/erikgahner/awesome-ggplot2>).
+
+#### Example: How does expression of MYCN differ with the different disease categories?
+Lets try plotting a dotplot, a boxplot, a violin plot and a density plot for our example. The first three have the same syntax except a different geom function. Also note the log2 in front of MYCN_TPM() - without that tranformation the data is too skewed for any meaningful comparison.
+
+```{r geom}
+#violin plot of log2(tpm values)
+ggplot(MYCN_ALK, aes(y = log2(MYCN_TPM + 1), x = category))+ geom_point()
+
+#violin plot of log2(tpm values)
+ggplot(MYCN_ALK, aes(y = log2(MYCN_TPM + 1), x = category))+ geom_boxplot()
+
+#violin plot of log2(tpm values)
+ggplot(MYCN_ALK, aes(y = log2(MYCN_TPM + 1), x = category))+ geom_violin()
+
+#violin plot of tpm values without transformation
+ggplot(MYCN_ALK, aes(y = (MYCN_TPM + 1), x = category))+ geom_violin()
+```
+
+A density plot can tell us the distribution of expression values as well. Here, are our x is expression and we can pass "group = " in aes() to seperate distributions lines for each category.
+
+```{r density}
+#density plot with colour
+ggplot(MYCN_ALK, aes(x = log2(MYCN_TPM + 1), group = category))+ geom_density()
+
+```
+
+Now its impossible to tell which line belongs to which category, and this where color comes. In our base ggplot2 function, we can define how variables map to the different visual properties like color. Below we passing color = group to aes() below, thus specifying that each group should have a different color. Additionally, the geom_vline() geom functions adds a dashed line at where TPM = 10 at the x-axis. 
+
+```{r densitycol}
+#density plot with colour
+ggplot(MYCN_ALK, aes(x = log2(MYCN_TPM + 1), group = category, color = category))+ geom_density() + geom_vline(xintercept = log2(10 + 1), linetype = "dashed")
+
+```
+
+The code below adds colour the violin plot - note the difference between using colour and fill.
+
+```{r violincol}
+#violin plot with color 
+ggplot(MYCN_ALK, aes(y = log2(MYCN_TPM + 1), x = category, color = category))+ geom_violin() + geom_hline(yintercept = log2(10 + 1), linetype = "dashed")
+
+#violin plot with fill
+ggplot(MYCN_ALK, aes(y = log2(MYCN_TPM + 1), x = category, fill = category))+ geom_violin() + geom_hline(yintercept = log2(10 + 1),  linetype = "dashed")
+```
+
+#### Exercise: How do the expression of MYCN and ALK correlate with each other across the different disease categories?
+
+You have set up your base function. Now think about what geom function will help best visualise this data. A list of possible options can be found here - <https://ggplot2.tidyverse.org/reference/index.html>. After you have picked your choice of plots, consider mapping variables to the following properties: 
+
++ colour
++ shape 
++ size
++ alpha (opacity)
+
+```{r geom_ex}
+#plot of MYCN vs ALK
+### ENTER CODE HERE ###
+
+```
+
+---
+
+### Step 3: The scale functions
+
+The scale() functions allow you to specify how data values maps to the different visual properties. For instance, you can specify
+
+- The limits and breaks of your axes (e.g. scale_x_continous())
+- Colours that are used with custom palettes.
+- Transformations of your axes (e.g. log, square-root)
+
+#### Example: How does expression of MYCN differ with the different disease categories?
+
+Lets try each of these for the violin plot.
+```{r scaley}
+#1. Changing y-axis limits - manually setting upper and lower bound
+ggplot(MYCN_ALK, aes(y = log2(MYCN_TPM + 1), x = category, color = category))+ geom_violin() + scale_y_continuous(limits = c(1,15))
+
+#Changing y-axis limits - expanding lower limit by 10% and upper limit by 20%
+ggplot(MYCN_ALK, aes(y = log2(MYCN_TPM + 1), x = category, color = category))+ geom_violin() + scale_y_continuous(expand = expansion(mult = c(0.1,0.2)))
+
+```
+
+```{r breaksy}
+#2. Changing y-axis breaks
+ggplot(MYCN_ALK, aes(y = log2(MYCN_TPM + 1), x = category, color = category))+ geom_violin() + scale_y_continuous(breaks = c(-6,-4,-2,0,2,4,6,8,10))
+```
+
+```{r abbrx}
+#3. Abbreviating x-axis labels
+ggplot(MYCN_ALK, aes(y = log2(MYCN_TPM + 1), x = category, color = category))+ geom_violin() + scale_x_discrete(labels = abbreviate)
+```
+
+```{r colmanual}
+#4. Manual customization of colours with provided values
+ggplot(MYCN_ALK, aes(y = log2(MYCN_TPM + 1), x = category, color = category))+ geom_violin() + scale_x_discrete(labels = abbreviate) + 
+  scale_colour_manual(values = c("red", "blue", "purple", "green", "yellow", "brown", "pink"))
+```
+
+```{r colpalette}
+#5. Colour customisaton with a palette
+ggplot(MYCN_ALK, aes(y = log2(MYCN_TPM + 1), x = category, color = category))+ geom_violin() + scale_x_discrete(labels = abbreviate) + scale_colour_brewer(palette = "Dark2")
+
+```
+
+Note scale_colour_brewer() is from the widely-used RColorBrewer package - more info here https://r-graph-gallery.com/38-rcolorbrewers-palettes.html. To see all the palettes in RColorBrewer, try running display_brewer_all(). Another excellent resource is ggsci(), which has color palettes inspired by scientific journals, e.g. The Lancet as below. See https://nanx.me/ggsci/articles/ggsci.html for a full list of palettes. 
+
+
+```{r colpalette2}
+ggplot(MYCN_ALK, aes(y = log2(MYCN_TPM + 1), x = category, color = category))+ geom_violin() + scale_x_discrete(labels = abbreviate) + scale_color_lancet()
+```
+
+
+```{r scaletransform}
+#6. Tranforming scales - identical to doing y = log10(MYCN_TPM)
+ggplot(MYCN_ALK, aes(y = (MYCN_TPM + 1), x = category, color = category))+ geom_violin() + scale_y_log10()
+```
+
+#### Exercise: How do the expression of MYCN and ALK correlate with each other across the different disease categories?
+
+Do the following to the your MYCN/ALK plot:
+1. Transform the axis/axes by taking the square-root. 
+2. Adjust the breaks of the axis/axes. 
+3. Color by disease category, using a colour blind friendly RColorBrewer paletted (hint: use display.brewer.all(colorblindFriendly = T))
+
+```{r scale_ex}
+### ENTER CODE HERE ###
+```
+
+---
+
+### Step 4: Themes! (and labels and coord())
+
+Themes control the non-data visual elements of your plot the things that aren't directly representing your data but affect how it looks overall - so the important stuff. 
+
+#### Example: How does expression of MYCN differ with the different disease categories?
+
++ Built-in themes are ready to use - theme_bw() is my (Navya's) favourite function because I hate the default grey, theme_barbie() comes as a recommendation from Anne-Lise (also check out https://github.com/MatthewBJane/ThemePark and https://ggplot2.tidyverse.org/reference/ggtheme.html) 
+
+```{r theme}
+#black and white
+ggplot(MYCN_ALK, aes(y = log2(MYCN_TPM + 1), x = category, color = category)) + 
+  geom_violin() + scale_x_discrete(labels = abbreviate) + 
+  scale_colour_brewer(palette = "Dark2") + theme_bw()
+
+#Barbie 
+ggplot(MYCN_ALK, aes(y = log2(MYCN_TPM + 1), x = category, color = category)) + 
+  geom_violin() + scale_x_discrete(labels = abbreviate) + 
+  scale_colour_brewer(palette = "Dark2") + theme_barbie()
+```
++ The theme() function can help further fine tune visual aspects of your plots, such as gridlines, text font and orientation, tick marks, legend position. Here's is a list of every single thing you can modify - https://ggplot2.tidyverse.org/reference/theme.html. 
++ The element functions (element_text(), element_line() etc.) are used to specify these modifications. Details of each of these functions can be found here ; https://ggplot2.tidyverse.org/reference/element.html. 
+
+```{r theme2}
+
+ggplot(MYCN_ALK, aes(y = log2(MYCN_TPM + 1), x = category, color = category)) + 
+  geom_violin() +
+  scale_colour_brewer(palette = "Dark2") + theme_bw() + 
+  theme(panel.grid.major = element_line(colour = "grey80", linewidth = 0.5, linetype = "dashed"), #change features of major gridlines
+        panel.grid.minor = element_blank(), #remove minor grid lines
+        axis.text.x = element_text(size = 8, angle = 45, hjust = 1), #rotate and adjust x-axis labels so they are not overlapping
+        axis.text.y = element_text(color = "purple"), #change color of the y-axis text
+        axis.ticks = element_blank(), #remove all axis ticks
+        legend.position = "bottom")
+
+```
++ Labels - Axes and legend labels and plot title can be modified easily in ggplot2. 
+```{r labels}
+ggplot(MYCN_ALK, aes(y = log2(MYCN_TPM + 1), x = category, color = category)) + 
+  geom_violin() +
+  scale_colour_brewer(palette = "Dark2") + theme_bw() + 
+    theme(panel.grid.major = element_line(colour = "grey80", linewidth = 0.5, linetype = "dashed"), #change features of major gridlines
+        panel.grid.minor = element_blank(), #remove minor grid lines
+        axis.text.x = element_text(size = 8, angle = 45, hjust = 1), #rotate and adjust x-axis labels so they are not overlapping
+        axis.text.y = element_text(color = "purple"), #change color of the y-axis text
+        axis.ticks = element_blank(), #remove all axis ticks
+        legend.position = "bottom") + 
+  xlab("Cancer type") + #x-axis label
+  ylab("Expression, TPM") + #y-axis label
+  labs(title = "MYCN Expression by Cancer Type", color = "Cancer Type") #plot title, and legend lable (as the legend is for color)
+
+```
+
+#### Exercise: How do the expression of MYCN and ALK correlate with each other across the different disease categories?
+
+Make the following changes to your MYCN/ALK plot: 
+  + Black and white background
+  + Font size of 10 and colour red for your x and y axes
+  + Font size of 12 and bold face for your plot title
+  + Font size of 8 for your legend text and 10 for your legend title. 
+  + Legend position to the left of the plot
+  + Remove all major gridlines
+  
+```{r theme_ex}
+### ENTER CODE HERE ###
+```
+
+---
+
+### Extra 1: Facet wrap for exploratory data analysis
+
+A facet plot splits a single plot into multiple subplots (panels) based on a categorical variable. Think of it that simply that we're exploring all the different facets of our data.
+
+#### Question: How does expression distribution of MYCN *and ALK* look like for the different disease categories?
+
+Ok now we're looking at both MYCN and ALK expression. We can make seperate violin plots of expression for each of two genes, or we can try to do a facet plot. Before that however, we need to reformat our table. 
+```{r reshape}
+#Reshaping the data - our table starts "wide" — each patient is one row, with MYCN and ALK as separate columns. pivot_longer stacks those two columns into a single TPM column, and creates a new gene column that records which gene the value came from. Every patient now appears twice — once for MYCN, once for ALK.
+
+MYCN_ALK_2 <- MYCN_ALK %>%
+  pivot_longer(
+    cols = c(MYCN_TPM, ALK_TPM),
+    names_to = "gene",
+    values_to = "tpm"
+  ) %>%
+   mutate(gene = str_remove(gene, "_TPM")) %>% select(patient_id,category, gene, tpm)  # remove "TPM" from the gene labels
+
+#lets have a look at this new table
+head(MYCN_ALK_2)
+```
+
+Now that we have this new table, lets make a ggplot how the expression distribution of the two genes differs broadly for the whole cohort. The table to use is MYCN_ALK_2, which has the columns "patient_id", "category", "gene" and "tpm". 
+
+```{r geneviolin}
+ggplot(MYCN_ALK_2, aes(x = gene, y = log2(tpm + 1))) + geom_violin() + theme_bw()
+```
+
+Ok to now lets look at what these distributions look like for each disease category with a facet_wrap. The code below
+  + Maps the gene column to the x axes and the (transformed) tpm to the y axes. 
+  + And then seperates the plot by disease category using facet_wrap()
+  
+```{r facet}
+ggplot(MYCN_ALK_2, aes(x = gene, y = log2(tpm + 1), fill = gene)) + geom_violin() + facet_wrap(~category) + theme_bw()
+```
+
+#### Exercise - A facet  plot showing MYCN vs ALK correlation for each disease category
+
+Create a facet_plot comparing MYCN and ALK expression for each different disease category. Hint - you do not need to transform the original MYCN_ALK table. 
+```{r facetex}
+### ENTER CODE HERE ####
+```
+
+---
+
+### Extra 3 - Patchwork
+
+ggplot objects can be saved as variables, and the patchwork package in R can allow you to display multiple plots together, in various customisable orientations, using the ggplot vocabulary. This means that you can simply "add" one plot to the other, define panel layouts, control the size of each panel and annotate plots with panel labels. An example usage is given below, and a full guide to plot assembly with patchwork can be found at https://patchwork.data-imaginist.com/. 
+
+```{r patchwork}
+#assign plots to variables - not necessary but helpful for clarity
+MYCN_expression_violin <- ggplot(MYCN_ALK, aes(y = log2(MYCN_TPM + 1), x = category, color = category)) + 
+  geom_violin() + 
+  scale_colour_brewer(palette = "Dark2") + theme_bw() + 
+  xlab("Cancer type") + #x-axis label
+  ylab("Expression, TPM") + #y-axis label
+  labs(title = "MYCN Expression by Cancer Type", color = "Cancer Type") + scale_x_discrete(labels = abbreviate)
+
+ALK_expression_violin <- ggplot(MYCN_ALK, aes(y = log2(ALK_TPM + 1), x = category, color = category)) + 
+  geom_violin() +
+  scale_colour_brewer(palette = "Dark2") + theme_bw() + 
+  xlab("Cancer type") + #x-axis label
+  ylab("Expression, TPM") + #y-axis label
+  labs(title = "ALK Expression by Cancer Type", color = "Cancer Type") + scale_x_discrete(labels = abbreviate)
+
+MYCN_expression_violin + ALK_expression_violin + plot_layout(nrow = 2, #two rows
+                                                             guides = "collect", #combined legends of the two plots if the same
+                                                             axes = "collect", #combine axes of the two plots if the same
+                                                             heights = c(3,1)) + #height ratio of the two plots 
+                                                  plot_annotation(tag_levels = "A")
+
+```
+#### Exercise 
+
+Trying adding the MYCN ALK correlation plot to the violin plots. 
+```{r patchworkexe}
+### ENTER CODE HERE ####
+```
+
+---
+
+### Extra 4 - Adding significance bars and correlations to your plots
+
++ Significance bars
+
+The package ggsignif(https://const-ae.github.io/ggsignif/) is an easy way to indicate if two groups are signficantly different. For example, if we want to check if MYCN and ALK have significantly different expression distributions.
+
+```{r signif}
+ggplot(MYCN_ALK_2, aes(x = gene, y = log2(tpm + 1))) + geom_violin() + theme_bw() + 
+  geom_signif(
+    comparisons = list(c("MYCN", "ALK")),  # which groups to compare
+    test        = "t.test",            # statistical test to run
+    map_signif_level = TRUE                 # shows *, **, *** instead of p value
+  )
+
+```
+And this also works with facet plots:
+
+```{r signif_facet}
+ggplot(MYCN_ALK_2, aes(x = gene, y = log2(tpm + 1), fill = gene)) +
+  geom_violin() +
+  geom_signif(
+    comparisons      = list(c("MYCN", "ALK")),
+    test             = "t.test",
+    map_signif_level = TRUE   
+  ) +
+  facet_wrap(~ category) + theme_bw() + 
+scale_y_continuous(expand = expansion(mult = c(0.05, 0.15)))
+
+```
+#### Exercise 
+
++ Correlations
+
+The stat_cor() function from the ggpubr package can be used to add correlations to your plots. Trying adding correlations (code below) to your MYCN vs ALK cohort plot and the facet plot. 
+```{r corr}
+### ENTER CODE HERE ###
+##  + stat_cor(method="pearson", size = 2)
+## for facet: + stat_cor(
+##  method  = "pearson",
+##  label.x = 0.5,    # x position of the label in each panel
+##  label.y = 7.5     # y position — set above your data range
+##)
+```
+
+---
+
+### Extra 5 - Export your plots
+
+You can export your plots as pngs, pdfs, jpegs or svgs with ggsave() (https://ggplot2.tidyverse.org/reference/ggsave.html)
+```{r export}
+#assign patchwork plot to variable
+example_final_plot <- MYCN_expression_violin + ALK_expression_violin + plot_layout(nrow = 2, #one rows
+                                                             guides = "collect", #combined legends of the two plots if the same
+                                                             axes = "collect", #combine axes of the two plots if the same
+                                                             heights = c(3,1)) + #height ratio of the two plots 
+                                                  plot_annotation(tag_levels = "A")
+
+
+#save to a pdf file with ggsave. Width and height units are in inches. 
+ggsave("example_final_plot.pdf", plot = example_final_plot, width = 6, height = 4, unit = "in") #saves plots to current directory
+```
+
+#### Exercise 
+
+Save your combined patchwork plot including the MYCN-ALK correlation panel as a png file. 
+```{r export_ex}
+### ENTER CODE HERE ####
+```
+
+### Extra 6: Barplots with geom_bar()
+
+geom_bar() vocabulary is a bit more finicky, 
++ "stat=" specifies what the y-axis should be. If set to "count", it will count the occurrence of each x variable. 
+
+```{r, geombarcount}
+#Counting the number of each ZERO category in our data
+ggplot(MYCN_ALK, aes(x = category)) + geom_bar(stat = "count") + theme_bw()
+```
+
++ If however, you already have your counts, you can set the count variable as your y and specify "stat = identity". 
+
+```{r, geom_c}
+
+#create a seperate count table
+ZERO2_category_counts <- MYCN_ALK %>% count(category)
+
+#look at the first few rows of this table
+head(ZERO2_category_counts)
+
+#plot
+ggplot(ZERO2_category_counts, aes(x = category, y = n)) + geom_bar(stat = "identity") + theme_bw()
+```
+
++ You can map a categorical variable to fill, and control how the bars arranged with position in geom_bar. For example, if you want to visualise events (diagnosis, relapse, progression, etc.) that make up each ZERO category. 
+
+```{r, geombarfill, fig.width = 10}
+#default position = "stack" - stacked on top of each other
+ggplot(MYCN_ALK, aes(x = category, fill = event)) + geom_bar(stat = "count") + theme_bw() + theme(legend.position = "right")
+
+#position = "dodge" - side-by-side
+ggplot(MYCN_ALK, aes(x = category, fill = event)) + geom_bar(stat = "count", position = "dodge") + theme_bw() + theme(legend.position = "right")
+
+#default position = "fill" - compare relative proportions
+ggplot(MYCN_ALK, aes(x = category, fill = event)) + geom_bar(stat = "count", position = "fill") + theme_bw() + theme(legend.position = "right")
+```
+
+
+#### Exercise 
+The table below subsets all the HMs from our larger table. Create a barplot showing the number of each subcategory, and the different final diagonses within each subcategory. 
+```{r, geombarexe}
+HMs <- MYCN_ALK %>% filter(category == "HM") %>% dplyr::select(patient_id, subcategory, final_diagnosis) 
+head(HMs)
+### ENTER CODE HERE ####
+```

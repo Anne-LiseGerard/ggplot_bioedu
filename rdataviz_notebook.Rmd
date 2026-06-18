@@ -329,7 +329,7 @@ Create a facet_plot comparing MYCN and ALK expression for each different disease
 
 ---
 
-### Extra 3 - Patchwork
+### Extra 2 - Patchwork
 
 ggplot objects can be saved as variables, and the patchwork package in R can allow you to display multiple plots together, in various customisable orientations, using the ggplot vocabulary. This means that you can simply "add" one plot to the other, define panel layouts, control the size of each panel and annotate plots with panel labels. An example usage is given below, and a full guide to plot assembly with patchwork can be found at https://patchwork.data-imaginist.com/. 
 

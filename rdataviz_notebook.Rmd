@@ -433,7 +433,8 @@ Save your combined patchwork plot including the MYCN-ALK correlation panel as a 
 
 ### Extra 6: Barplots with geom_bar()
 
-geom_bar() vocabulary is a bit more finicky, 
+geom_bar() vocabulary is a bit more finicky. 
+
 + "stat=" specifies what the y-axis should be. If set to "count", it will count the occurrence of each x variable. 
 
 ```{r, geombarcount}

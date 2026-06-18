@@ -1,5 +1,5 @@
 ---
-title: "Plotting can be fun with ggplot2"
+title: "pretty_plots() with ggplot2"
 output:
   html_document:
     df_print: paged

@@ -1,0 +1,2455 @@
+patient_id	category	subcategory	final_diagnosis	event	zscore	TPM
+zccs900	CNS	LGG	Pilocytic astrocytoma	D1	0.49310670975359	9.05
+zccs901	CNS	Sarcoma other	Primary intracranial sarcoma, DICER1-mutant	D1	0.447852870920611	8.18
+zccs902	CNS	LGG	Pilocytic astrocytoma	D1	0.444172811782497	8.12
+zccs903	CNS	HGG	Astroblastoma, MN1-altered	D1	0.802928834806672	17.88
+zccs904	CNS	HGG	Glioneuronal tumour, NOS, high grade	D1	-1.11003108996649	0.24
+zccs905	CNS	Pineoblastoma	Pineoblastoma, MYC/FOXR2-activated	D1	0.609073307605742	11.39
+zccs906	CNS	EPN-PFA	Posterior fossa A ependymoma, group PFA, WHO G3	D1	0.663638705394697	12.94
+zccs907	CNS	HGG	Infant-type hemispheric glioma fusion-positive	D1	0.519438179299287	9.3
+zccs909	CNS	LGG	Diffuse low grade glioma, MAPK pathway altered	D1	-0.230739399901119	1.69
+zccs910	CNS	Germ cell tumour	Mixed germ cell tumour, CNS	D1	1.03541388150981	29.96
+zccs911	Sarcoma	Rhabdoid tumour	Malignant rhabdoid tumour, non-renal/hepatic	D1	-0.190511531178003	1.85
+zccs912	Sarcoma	EWS	Ewing sarcoma, bone	D1	-0.277107835360769	1.52
+zccs914	HM	AML	Acute myeloid leukaemia	D1	-1.39577430682718	0.12
+zccs915	Sarcoma	OST	Osteosarcoma	D1	-0.67284433858729	0.62
+zccs917	Solid tumour	Solid other	Lipoblastoma-like tumour of the vulva	R5	-1.56995421905236	0.08
+zccs919	Solid tumour	Bone tumours other	Psammomatoid ossifying fibroma	D1	-2.18303087874759	0.02
+zccs920	CNS	LGG	Pilocytic astrocytoma	D1	-0.254993136152077	1.59
+zccs921	CNS	CNS lymphoma	Primary diffuse large B-cell lymphoma of the CNS	D1	-1.46315818991112	0.1
+zccs922	HM	TALL/lymphoma	T-lymphoblastic lymphoma	R1	-1.0972929378842	0.23
+zccs923	Sarcoma	Rhabdoid tumour	Malignant rhabdoid tumour, non-renal/hepatic	D1	-2.46725855430601	0.01
+zccs1720	HM	Acute leukaemia	Acute undifferentiated leukaemia	R1	0.103113397716741	2.91
+zccs926	CNS	LGG	Ganglioglioma	D1	-0.61434315226961	0.68
+zccs927	CNS	LGG	Pilocytic astrocytoma	R2	-0.102049021799229	2.19
+zccs928	HM	Acute leukaemia	Mixed phenotype acute leukaemia	R1	0.621166880531711	11.37
+zccs929	CNS	MB-non WNT/non-SHH	Medulloblastoma, non-WNT/non-SHH	D1	0.675425154427088	12.78
+zccs931	Sarcoma	Synovial sarcoma	Synovial sarcoma	R1	0.655035204782826	12.46
+zccs932	Sarcoma	RMS FOXO1 fusion negative	Embryonal rhabdomyosarcoma	D1	0.928939451628916	22.87
+zccs933	CNS	Craniopharyngioma	Adamantinomatous craniopharyngioma	D1	0.548125163105426	9.63
+zccs934	CNS	LGG	Pilocytic astrocytoma	P1	-0.457066499050179	0.99
+zccs935	Sarcoma	Sarcoma other	Clear cell sarcoma of kidney	P1	-0.705715921295132	0.55
+zccs936	CNS	LGG	Pilocytic astrocytoma	D1	-0.468149200382281	0.97
+zccs937	CNS	LGG	Pilocytic astrocytoma	D1	-0.293332380507867	1.41
+zccs939	CNS	LGG	Diffuse low grade glioma, MAPK pathway altered	D1	-0.0183195890702995	2.62
+zccs940	CNS	EPN-PFA	Posterior fossa A ependymoma, group PFA, WHO G2	D1	0.0471999212048864	3.11
+zccs1344	CNS	LGG	Diffuse leptomeningeal glioneuronal tumour	P4	-0.432065875057674	1.04
+zccs943	Sarcoma	EWS	Ewing sarcoma, bone	R1	-0.391389650162521	1.14
+zccs944	HM	Hodgkin lymphoma	Hodgkin lymphoma	R3	-1.09042186908382	0.23
+zccs946	CNS	HGG	Diffuse high grade glioma, H3-wildtype and IDH-wildtype	D1	0.954472807527904	23.57
+zccs947	CNS	EPN-PFA	Posterior fossa A ependymoma, group PFA, WHO G2	D1	0.355887356285352	6.05
+zccs948	CNS	EPN-PFA	Posterior fossa A ependymoma, group PFA, WHO G2	D1	-1.09207155275488	0.23
+zccs949	CNS	LGG	Diffuse low grade glioma, MAPK pathway altered	P1	-0.665328877217933	0.62
+zccs950	HM	AML	Acute megakaryoblastic leukaemia	P1	1.27807442052082	45.92
+zccs951	CNS	LGG	Myxoid glioneuronal tumour	P1	0.663558932268151	12.13
+zccs953	Solid tumour	Carcinoma	Renal cell carcinoma	D1	-1.26672193520624	0.16
+zccs955	CNS	LGG	Pilocytic astrocytoma	D1	0.00245348696242242	2.79
+zccs956	Vascular/lymphatic anomalies	Vascular/lymphatic anomalies	Congenital haemangioma	D1	-0.436650226485305	1.03
+zccs957	Sarcoma	RMS FOXO1 fusion negative	Embryonal rhabdomyosarcoma	D1	0.488173010667838	8.21
+zccs958	CNS	Pituitary tumour	Pituitary adenoma	D1	-0.575063706671399	0.75
+zccs960	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.520199044207807	0.85
+zccs1675	Sarcoma	Fibroblastic and myofibroblastic tumour	Inflammatory myofibroblastic tumour	P3	-1.06613154986942	0.25
+zccs964	CNS	LGG	Myxoid glioneuronal tumour	D1	0.68869132683193	12.78
+zccs966	Solid tumour	Hepatoblastoma/HCC	Hepatoblastoma	D1	1.08795245832813	31.09
+zccs968	CNS	LGG	Diffuse astrocytoma, MYB or MYBL1-altered	D1	-0.160150282438741	1.95
+zccs969	CNS	LGG	Diffuse astrocytoma, MYB or MYBL1-altered	D1	-0.122435264172963	2.11
+zccs1775	HM	AML	Acute myeloid leukaemia	D1	-1.92659912112548	0.04
+zccs1770	CNS	LGG	Pilocytic astrocytoma	D1	0.00795502149238545	2.7
+zccs1778	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	R1	-0.332326127025522	1.33
+zccs1784	HM	AML	Acute megakaryoblastic leukaemia	D1	1.14604741923363	35.1
+zccs1788	Solid tumour	Germ cell tumour	Immature teratoma, non-CNS	D1	1.23310411682805	42.51
+zccs1795	CNS	MB-non WNT/non-SHH	Medulloblastoma, non-WNT/non-SHH	D1	0.34892519761349	6.01
+zccs1815	HM	Myeloproliferative neoplasm	Juvenile myelomonocytic leukaemia	D1	-0.100915371571464	2.22
+zccs1821	CNS	DMG	Diffuse midline glioma, H3 K27-altered, H3 K27M mutation	D1	0.272880092684259	5.11
+zccs1848	CNS	CNS embryonal	CNS neuroblastoma, FOXR2-activated	D1	-0.573298481287848	0.79
+zccs1852	CNS	LGG	Pilocytic astrocytoma	D1	0.182877012858189	4.09
+zccs1859	Solid tumour	WT	Wilms tumour	D1	1.25611042787818	44.04
+zccs1860	CNS	LGG	Pilocytic astrocytoma	D1	0.176915979315497	4.03
+zccs1885	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.986809986678067	0.31
+zccs1915	CNS	DMG	Diffuse midline glioma, H3 K27-altered, H3 K27M mutation	D1	0.620769082012223	10.68
+zccs1901	HM	TALL/lymphoma	T-lymphoblastic leukaemia	D1	0.521071625360142	8.23
+zccs1921	Solid tumour	Solid other	Myoepithelial tumour	D1	0.472369790214309	7.63
+zccs1922	Solid tumour	Peripheral nerve sheath tumour	Neurofibroma	D1	-0.632050130865894	0.68
+zccs2022	CNS	LGG	Oligodendroglioma, IDH-mutant and 1p/19q-codeleted, WHO G2	D1	0.0827386540956199	3.22
+zccs2023	Solid tumour	Fibroblastic and myofibroblastic tumour	Lipofibromatosis	D1	-0.411884735482047	1.09
+zccs1945	HM	Hodgkin lymphoma	Hodgkin lymphoma	R2	-0.925812402144343	0.25
+zccs1946	HM	Histiocytosis	Langerhans cell histiocytosis	P2	-1.46854948824613	0.07
+zccs1989	HM	MDS	Therapy-related myelodysplastic syndrome	D2	-0.892370902123013	0.37
+zccs2016	Solid tumour	Fibroblastic and myofibroblastic tumour	NTRK-rearranged spindle cell neoplasm	D1	-0.566299369884726	0.76
+zccs2077	HM	TALL/lymphoma	T-lymphoblastic leukaemia	D2	-2.03690567529769	0.02
+zccs2080	Sarcoma	RMS FOXO1 fusion positive	Alveolar rhabdomyosarcoma	P1	1.2518166036491	36.32
+zccs2090	Solid tumour	Bone tumours other	Osteochondroma	D1	0.288198686986939	4.86
+zccs2097	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.854517002297671	0.4
+zccs2116	HM	Non-diagnostic	Non-diagnostic	R1	-0.477306623520668	0.91
+zccs2134	Solid tumour	Bone tumours other	Aneurysmal bone cyst	D1	-1.11858786271685	0.22
+zccs2151	Solid tumour	Solid other	Myoepithelial tumour	D1	-1.29232343135595	0.15
+zccs1494	Solid tumour	Fibroblastic and myofibroblastic tumour	Nodular fasciitis	D2	-0.792581468204193	0.45
+zccs2163	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.29156669181938	0.15
+zccs2166	Solid tumour	Fibroblastic and myofibroblastic tumour	Lipofibromatosis	D1	-1.04173788755658	0.26
+zccs2171	CNS	LGG	Oligodendroglioma, IDH-mutant and 1p/19q-codeleted, WHO G2	D1	0.260696475899903	4.55
+zccs2173	Solid tumour	Solid other	Myoepithelial tumour	D1	-0.531253418749252	0.8
+zccs2183	HM	Hodgkin lymphoma	Hodgkin lymphoma	D1	-0.275302194382065	1.39
+zccs2240	CNS	LGG	Subependymal giant cell astrocytoma	D1	-1.49097661013535	0.09
+zccs2247	Solid tumour	Solid other	Cystic nephroma	D1	-1.78872489951229	0.05
+zccs2257	Solid tumour	Solid other	Mucoepidermoid carcinoma	R1	-0.758228883151256	0.46
+zccs2300	HM	AML	Acute megakaryoblastic leukaemia	D1	-0.557016350375753	0.72
+zccs2375	HM	Acute leukaemia	Acute undifferentiated leukaemia	D1	-0.141206660550312	1.81
+zccs2381	Sarcoma	OST	Osteosarcoma	D1	-0.470578568745243	0.87
+zccs2382	Solid tumour	Neuroendocrine tumour	Medullary thyroid carcinoma	R1	0.261706316899062	4.44
+zccs2399	CNS	LGG	Pilocytic astrocytoma	D1	0.568153580113728	8.77
+zccs2405	Solid tumour	Solid other	Mucinous borderline tumour	D1	-0.263182121264975	1.38
+zccs2433	CNS	MB-non WNT/non-SHH	Medulloblastoma, non-WNT/non-SHH	D1	0.451812943951981	6.72
+zccs2440	CNS	HGG	Diffuse high grade glioma, H3-wildtype and IDH-wildtype	D1	0.712679089406584	12.01
+zccs2446	HM	Mature B lymphoma	Mediastinal grey zone lymphoma	P1	-1.47844150018648	0.08
+zccs2469	CNS	EPN	Myxopapillary ependymoma	D1	-1.98518774584585	0.03
+zccs2472	HM	Myeloproliferative neoplasm	Juvenile myelomonocytic leukaemia	D1	-0.708548262605996	0.47
+zccs2473	CNS	EPN-PFB	Posterior fossa B ependymoma, group PFB, WHO G2	D1	-1.26027834849803	0.15
+zccs2504	CNS	DMG	Diffuse midline glioma, H3 K27-altered, H3 K27M mutation	D1	0.634803108108578	10.09
+zccs2502	Solid tumour	Non-diagnostic	Non-diagnostic	D1	-0.294034804687696	1.28
+zccs2509	CNS	DMG	Diffuse midline glioma, H3 K27-altered, H3 K27M mutation	D1	0.196059627918778	3.78
+zccs2514	Solid tumour	Bone tumours other	Fibrous dysplasia	D1	-1.08303174390338	0.22
+zccs2526	HM	TALL/lymphoma	T-lymphoblastic leukaemia	D1	-0.866108818884636	0.36
+zccs2530	Vascular/lymphatic anomalies	Vascular/lymphatic anomalies	Venous malformation	D1	-0.308348976332466	1.24
+zccs2543	CNS	LGG	Pilocytic astrocytoma	D1	0.13729330180747	3.32
+zccs2545	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.79160642053555	0.42
+zccs2549	CNS	DMG	Diffuse midline glioma, H3 K27-altered, H3 K27M mutation	D1	0.049087503061741	2.73
+zccs2555	Solid tumour	Solid other	Mesoblastic nephroma	D1	-0.487654147869801	0.83
+zccs2613	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.475847456349005	0.84
+zccs2634	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.31546165959546	0.12
+zccs2635	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.13452459523124	0.18
+zccs2657	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.758450819235245	0.42
+zccs2667	HM	TALL/lymphoma	T-lymphoblastic leukaemia	D1	0.161426024985068	3.32
+zccs2695	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.70528975837218	0.05
+zccs2707	CNS	LGG	Diffuse astrocytoma, MYB or MYBL1-altered	D1	0.335613184123704	4.77
+zccs2709	CNS	EPN-PFA	Posterior fossa A ependymoma, group PFA, WHO G3	D1	0.38724494606822	5.19
+zccs2718	HM	AML	Acute myeloid leukaemia	D1	-1.54020777303964	0.07
+zccs2728	Sarcoma	Sarcoma other	Gastrointestinal neuroectodermal tumour	D1	-0.210743196022296	1.42
+zccs2731	HM	Mature B lymphoma	High-grade B-cell lymphoma with 11q aberration	D1	-0.808461402342763	0.37
+zccs2732	Sarcoma	RMS FOXO1 fusion negative	Embryonal rhabdomyosarcoma	D1	0.814255401325343	14.21
+zccs2741	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.233210154284807	1.35
+zccs2750	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-2.41209232797138	0.01
+zccs2752	Solid tumour	Non-diagnostic	Non-diagnostic	D1	0.699980202956683	10.86
+zccs209	Sarcoma	Fibroblastic and myofibroblastic tumour	Infantile fibrosarcoma	R1	-1.21039686334501	0.15
+zccs2755	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.518478981586559	0.7
+zccs2769	CNS	LGG	Astrocytoma, IDH-mutant WHO G2	D2	0.625213151411964	9.19
+zccs2770	Solid tumour	Melanocytic tumour	Spitz melanocytoma	D1	-0.579184745782821	0.61
+zccs2801	CNS	HGG	Astrocytoma, NOS WHO Grade unknown	D1	-0.355799659608892	1
+zccs2823	Solid tumour	Fibroblastic and myofibroblastic tumour	Nodular fasciitis	D1	0.350679307808582	4.85
+zccs2847	CNS	LGG	Astrocytoma, IDH-mutant WHO G2	D1	0.30483142172272	4.38
+zccs2849	Sarcoma	RMS FOXO1 fusion positive	Alveolar rhabdomyosarcoma	D1	0.584435894276738	8.2
+zccs2855	HM	Hodgkin lymphoma	Hodgkin lymphoma	D1	-0.701517618351442	0.46
+zccs2879	CNS	CNS embryonal	CNS embryonal tumour with BCOR internal tandem duplication	D1	0.529631995003334	7.27
+zccs2890	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-2.08044047091398	0.02
+zccs2897	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	R1	-0.125085616276053	1.65
+zccs2901	Sarcoma	OST	Osteosarcoma	D1	-1.46846816288022	0.08
+zccs2907	Sarcoma	Rhabdoid tumour	Malignant rhabdoid tumour, non-renal/hepatic	D1	-0.487505910006354	0.73
+zccs2913	Sarcoma	EWS	Ewing sarcoma, bone	D1	-0.0981384415725021	1.76
+zccs2914	CNS	MB-non WNT/non-SHH	Medulloblastoma, non-WNT/non-SHH	D1	0.758137317339042	12.19
+zccs2952	Solid tumour	WT	Wilms tumour	D1	1.92842784125049	170.01
+zccs2976	CNS	Craniopharyngioma	Adamantinomatous craniopharyngioma	P4	-0.786570526518457	0.37
+zccs3008	CNS	LGG	Pilocytic astrocytoma	D1	0.76304942891715	12.12
+zccs3055	Solid tumour	Non-diagnostic	Non-diagnostic	D1	-0.416404055980704	0.84
+zccs3078	HM	AML	Myeloid sarcoma	D1	-1.76199633676731	0.04
+zccs3096	CNS	LGG	Pilocytic astrocytoma	D1	0.294851787445602	4.17
+zccs3102	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.23758318466208	0.13
+zccs3108	Sarcoma	RMS FOXO1 fusion negative	Embryonal rhabdomyosarcoma	D1	-0.0624675094032201	1.86
+zccs3126	CNS	Germ cell tumour	Mixed germ cell tumour, CNS	D1	0.666692719820916	9.71
+zccs3127	CNS	Choroid plexus tumour	Choroid plexus papilloma	D1	0.768281272439105	12.21
+zccs3128	HM	AML	Acute myeloid leukaemia	D1	-1.04828470326532	0.2
+zccs3129	Sarcoma	OST	Osteosarcoma	D1	-2.37181373498417	0.01
+zccs1722	Sarcoma	RMS FOXO1 fusion negative	Embryonal rhabdomyosarcoma	R1	0.767703942112262	11.9
+zccs3145	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	R1	-1.402204599669	0.09
+zccs3148	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.88990599014578	0.03
+zccs3149	HM	PreB ALL/lymphoma	B-lymphoblastic lymphoma	D1	-0.55622829578566	0.61
+zccs3178	HM	AML	Acute myeloid leukaemia	D1	0.419334434852791	5.54
+zccs3191	Solid tumour	Adrenal cortical tumour	Adrenocortical carcinoma	D2	-1.05600631809932	0.18
+zccs3197	HM	Hodgkin lymphoma	Hodgkin lymphoma	D1	-0.00985253165189728	2.1
+zccs3198	HM	AML	Acute promyelocytic leukaemia	D1	0.847543227326274	14.58
+zccs3199	Vascular/lymphatic anomalies	Vascular/lymphatic anomalies	Kaposiform haemangioendothelioma	D1	0.511285730689609	6.77
+zccs3203	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.671923781216866	0.47
+zccs3206	CNS	Non-diagnostic	Non-diagnostic	D1	0.0549113287331396	2.43
+zccs3214	CNS	Craniopharyngioma	Adamantinomatous craniopharyngioma	D1	-0.635395169072436	0.51
+zccs3222	Solid tumour	WT	Wilms tumour	D1	1.25301350540015	36.51
+zccs3228	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	R1	-1.3348203452447	0.1
+zccs3229	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.535259075916598	0.64
+zccs3235	CNS	HGG	Astroblastoma, MN1-altered	D1	1.12431128825142	27.3
+zccs3241	Solid tumour	WT	Wilms tumour	D1	1.03831301917125	22.45
+zccs3254	Solid tumour	Solid other	Malignant melanotic neuroectodermal tumour of infancy	D1	0.394025036220705	5.17
+zccs3256	CNS	LGG	Pleomorphic xanthoastrocytoma WHO G2	D1	-0.123872620018745	1.6
+zccs3265	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.353821538281583	0.95
+zccs3294	HM	AML	Acute myeloid leukaemia	D1	1.51870735194055	65.37
+zccs3298	HM	TALL/lymphoma	T-lymphoblastic leukaemia	D1	-0.215206382034952	1.3
+zccs3299	CNS	EPN-PFA	Posterior fossa A ependymoma, group PFA, WHO G3	D1	-0.0460777622052134	1.87
+zccs3315	HM	Mature B lymphoma	T-cell/histiocyte-rich large B cell lymphoma	D1	-1.17066682531499	0.15
+zccs3316	Solid tumour	Peripheral nerve sheath tumour	Schwannoma	D1	-0.688350847790397	0.44
+zccs3331	HM	Hodgkin lymphoma	Hodgkin lymphoma	D1	-1.25223257268837	0.12
+zccs3348	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	R1	-0.234328889715506	1.22
+zccs3349	HM	TALL/lymphoma	T-lymphoblastic leukaemia	D1	0.960492405196465	18.42
+zccs3358	CNS	MB-non WNT/non-SHH	Medulloblastoma, non-WNT/non-SHH	D1	0.661573945863548	9.34
+zccs3382	CNS	MB-non WNT/non-SHH	Medulloblastoma, non-WNT/non-SHH	D1	0.666199892883036	9.17
+zccs3383	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.7320365130693	0.04
+zccs3391	Sarcoma	OST	Osteosarcoma	D1	-0.80389462840746	0.33
+zccs3403	Solid tumour	Carcinoma	Papillary thyroid carcinoma	D1	-0.585981835071695	0.53
+zccs3430	Sarcoma	RMS FOXO1 fusion negative	Embryonal rhabdomyosarcoma	D1	0.767561039625678	11.47
+zccs3432	CNS	Craniopharyngioma	Papillary craniopharyngioma	D1	-0.344272254746168	0.91
+zccs3438	HM	TALL/lymphoma	T-lymphoblastic leukaemia	D1	0.17026837763455	2.94
+zccs3447	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.609354798408664	0.5
+zccs3456	Solid tumour	WT	Wilms tumour	D1	-0.279036867149198	1.06
+zccs3461	CNS	EPN-ZFTA	Supratentorial ependymoma, ZFTA fusion-positive, WHO G3	D1	0.812759219449713	12.74
+zccs3489	HM	Non-diagnostic	Non-diagnostic	D1	-0.314735788380868	0.98
+zccs3494	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.08455023565144	0.17
+zccs3495	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.7213092039004	0.04
+zccs3503	CNS	LGG	Pilocytic astrocytoma	D1	0.138832467013933	2.74
+zccs3513	HM	TALL/lymphoma	T-lymphoblastic leukaemia	D1	-0.780221223482124	0.34
+zccs3514	Solid tumour	WT	Nephroblastomatosis	D1	-0.39793234272084	0.8
+zccs3528	CNS	LGG	Diffuse low grade glioma, MAPK pathway altered	D1	0.432283384805877	5.33
+zccs3531	Sarcoma	Fibroblastic and myofibroblastic tumour	Dermatofibrosarcoma protuberans	D1	-0.568581630792703	0.55
+zccs3534	CNS	LGG	Ganglioglioma	D1	0.14811743150468	2.79
+zccs3538	HM	TALL/lymphoma	T-lymphoblastic lymphoma	D1	-0.601856225308201	0.51
+zccs3539	HM	Hodgkin lymphoma	Hodgkin lymphoma	D1	-0.203281317471533	1.26
+zccs3542	CNS	CNS embryonal	CNS neuroblastoma, FOXR2-activated	D1	-0.708917510091314	0.4
+zccs3543	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.584904942230576	0.53
+zccs3547	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.85039391548427	0.03
+zccs3555	CNS	MB-non WNT/non-SHH	Medulloblastoma, non-WNT/non-SHH	D1	0.322006586231001	4.15
+zccs3557	Solid tumour	WT	Wilms tumour	D1	-0.513822613718575	0.61
+zccs3566	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.20190595175945	0.13
+zccs3567	CNS	LGG	Dysembryoplastic neuroepithelial tumour	D1	0.464484427279074	5.7
+zccs3568	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	0.411989581777756	5.06
+zccs3569	CNS	MB-SHH	Medulloblastoma, SHH-activated and TP53-wildtype	D1	1.27099274708339	35.34
+zccs3570	CNS	LGG	Pilocytic astrocytoma	D1	0.626920987924374	8.24
+zccs3574	Solid tumour	Carcinoma	Papillary thyroid carcinoma	D1	-0.406548142877462	0.79
+zccs3578	HM	TALL/lymphoma	T-lymphoblastic leukaemia	D1	-0.435366503374794	0.74
+zccs3584	HM	Hodgkin lymphoma	Hodgkin lymphoma	D1	-0.00647039389540523	1.96
+zccs3589	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.229509638244102	1.18
+zccs3593	CNS	HGG	Neuro-epithelial tumour with PATZ1 fusion	D1	0.10010566825405	2.49
+zccs3597	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-2.3393015802432	0.01
+zccs3598	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.0685538367747563	1.7
+zccs3611	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.06304063575995	0.18
+zccs3635	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.472758548584027	0.68
+zccs3640	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-2.0318766496478	0.02
+zccs3651	Solid tumour	Solid other	Hairy polyp	D1	0.314775662894531	4.05
+zccs3652	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.72014677597024	0.04
+zccs3662	HM	Burkitt lymphoma	Burkitt lymphoma	D1	-1.62111641226601	0.05
+zccs3666	Solid tumour	WT	Wilms tumour	D1	1.26354469236747	34.5
+zccs3690	Solid tumour	WT	Wilms tumour	D1	-0.44663855420407	0.71
+zccs3708	CNS	LGG	Pilocytic astrocytoma	D1	0.542941788838257	6.7
+zccs3709	Solid tumour	Carcinoma	Papillary thyroid carcinoma	D1	0.0479383534549311	2.18
+zccs3711	Solid tumour	WT	Wilms tumour	D1	1.29957201439929	36.76
+zccs3722	HM	Mature B lymphoma	Diffuse large B cell lymphoma	D1	-0.94414526384203	0.23
+zccs3733	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.53894522188743	0.06
+zccs3734	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	R2	-1.10572607896426	0.16
+zccs3746	CNS	MB-non WNT/non-SHH	Medulloblastoma, non-WNT/non-SHH	D1	0.466531444686302	5.59
+zccs3761	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.308273279263191	0.97
+zccs3762	CNS	LGG	Ganglioglioma	D1	-0.050189077190861	1.74
+zccs3772	HM	Burkitt lymphoma	Burkitt lymphoma	D1	-0.647493109664378	0.45
+zccs3774	Sarcoma	Rhabdoid tumour	Malignant rhabdoid tumour, non-renal/hepatic	D1	0.467230830386593	5.61
+zccs3799	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	R1	-0.253067221876124	1.1
+zccs3801	CNS	MB-WNT	Medulloblastoma, WNT-activated	D1	1.32685800440135	39.28
+zccs3811	CNS	LGG	Astrocytoma, IDH-mutant WHO G2	D1	0.725742157877185	10.11
+zccs3843	HM	AML	Acute myeloid leukaemia	D1	-0.0831712412934839	1.62
+zccs3836	CNS	LGG	Low grade glioma, NEC	D1	-0.354445834150132	0.88
+zccs3831	CNS	DMG	Diffuse midline glioma, H3 K27-altered, H3 K27M mutation	D1	0.299261674148738	3.86
+zccs3834	Solid tumour	WT	Wilms tumour	D1	1.01996118105287	19.77
+zccs3856	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.602538301567735	0.5
+zccs3857	CNS	HGG	Astrocytoma, IDH-mutant WHO G4	D1	0.348478050797228	4.31
+zccs3863	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.19726367995226	0.13
+zccs3865	HM	Hodgkin lymphoma	Hodgkin lymphoma	D1	-0.0808124445741631	1.63
+zccs3878	CNS	MB-non WNT/non-SHH	Medulloblastoma, non-WNT/non-SHH	D1	0.795939785684425	11.9
+zccs1506	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	R2	-1.08189430171468	0.17
+zccs3897	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.84937490902824	0.03
+zccs3900	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.36328986723142	0.09
+zccs3910	CNS	LGG	Polymorphous low grade neuroepithelial tumour of the young	D1	-0.423459446106219	0.75
+zccs3922	HM	TALL/lymphoma	T-lymphoblastic leukaemia	D1	-0.0285463620020628	1.83
+zccs3938	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.00204319880069	0.2
+zccs3939	CNS	LGG	Glioneuronal tumour, NOS, low grade	D1	0.337987481875549	4.16
+zccs3961	CNS	LGG	Pilocytic astrocytoma	D1	0.209970059202579	3.14
+zccs3964	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.261024500574569	1.08
+zccs3967	HM	Mature T lymphoma	Anaplastic large cell lymphoma, ALK fusion-positive	D1	-0.852139243445357	0.28
+zccs3970	CNS	LGG	Pilocytic astrocytoma	P1	0.502305750441895	6.09
+zccs3972	HM	Myeloproliferative neoplasm	Chronic myeloid leukaemia	D1	-1.16265587922133	0.14
+zccs3973	CNS	MB-non WNT/non-SHH	Medulloblastoma, non-WNT/non-SHH	D1	1.05918304417874	21.51
+zccs3989	CNS	LGG	Pilocytic astrocytoma	D1	0.203564394839355	3.08
+zccs3995	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.186469843737723	1.27
+zccs3997	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.0002753895116	0.2
+zccs4003	Solid tumour	Germ cell tumour	Mature teratoma, non-CNS	D1	-1.15538543235131	0.14
+zccs4042	CNS	EPN	Myxopapillary ependymoma	R1	-0.819663601440064	0.3
+zccs4056	Solid tumour	WT	Wilms tumour, extra renal	R1	0.517665027950113	6.23
+zccs4061	CNS	LGG	Oligodendroglioma, IDH-mutant and 1p/19q-codeleted, WHO G2	D1	0.797390207979907	11.75
+zccs4068	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.72720300505813	0.37
+zccs4097	HM	Hodgkin lymphoma	Hodgkin lymphoma	D1	-0.511958450156017	0.6
+zccs4112	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.30198058300796	0.1
+zccs4127	Sarcoma	Sarcoma other	Liposarcoma	D1	-0.788063205348023	0.32
+zccs970	Sarcoma	OST	Osteosarcoma	R1	-0.371987885254325	1.18
+zccs971	CNS	LGG	Diffuse astrocytoma, MYB or MYBL1-altered	D1	0.185137566358699	4.24
+zccs972	CNS	LGG	Ganglioglioma	D1	0.189591770477813	4.26
+zccs973	Solid tumour	WT	Wilms tumour	P2	-0.363568512452366	1.21
+zccs974	CNS	MB-non WNT/non-SHH	Medulloblastoma, non-WNT/non-SHH	D1	0.408189707694221	7
+zccs976	CNS	ETMR	Embryonal tumour with multilayered rosettes, C19MC-altered	D1	1.19878836011919	42.16
+zccs977	CNS	DMG	Diffuse midline glioma, H3 K27-altered, H3 K27M mutation	D1	0.312926264773734	5.68
+zccs978	Sarcoma	OST	Osteosarcoma	P1	-0.851793134713982	0.4
+zccs979	CNS	LGG	Diffuse low grade glioma, MAPK pathway altered	D1	0.160595506262746	4.01
+zccs981	CNS	MB-non WNT/non-SHH	Medulloblastoma, non-WNT/non-SHH	D1	0.649385187459701	12.29
+zccs982	HM	Histiocytosis	Langerhans cell histiocytosis	D3	-0.449113036770433	0.99
+zccs984	Sarcoma	OST	Osteosarcoma	P2	-0.759279906977221	0.51
+zccs985	CNS	Meningioma	Meningioma WHO G1	D1	-1.55771541679772	0.08
+zccs986	CNS	DMG	Diffuse midline glioma, H3 K27-altered, H3 K27M mutation	D1	0.158224266235895	3.98
+zccs987	Vascular/lymphatic anomalies	Vascular/lymphatic anomalies	Kaposiform haemangioendothelioma	P1	-0.160382567926106	1.91
+zccs989	HM	TALL/lymphoma	T-lymphoblastic leukaemia	D1	-1.3408742581384	0.13
+zccs990	CNS	DMG	Diffuse midline glioma, H3 K27-altered, H3 K27M mutation	P1	-0.137226903526153	2
+zccs991	Sarcoma	EWS	Ewing sarcoma, bone	D1	0.350264843383569	5.98
+zccs992	CNS	DMG	Diffuse midline glioma, H3 K27-altered, H3 K27M mutation	D1	0.496460512829521	8.32
+zccs993	CNS	HGG	Astrocytoma, IDH-mutant WHO G4	D1	0.333830219387752	5.78
+zccs994	CNS	MB-SHH	Medulloblastoma, SHH-activated and TP53-wildtype	D1	1.34769832585846	56.53
+zccs996	CNS	LGG	Pilocytic astrocytoma	D1	0.306477954232984	5.42
+zccs1709	Solid tumour	Hepatoblastoma/HCC	Hepatocellular carcinoma	R1	-0.832679794441694	0.42
+zccs171	CNS	Choroid plexus tumour	Atypical choroid plexus papilloma	R2	0.597817871210026	10.43
+zccs1000	Sarcoma	RMS FOXO1 fusion positive	Alveolar rhabdomyosarcoma	D1	1.17795455230348	38.65
+zccs1001	Sarcoma	Synovial sarcoma	Synovial sarcoma	R1	0.440299444748322	7.37
+zccs1002	CNS	MB-non WNT/non-SHH	Medulloblastoma, non-WNT/non-SHH	D1	0.315003110942352	5.56
+zccs1004	CNS	DMG	Diffuse midline glioma, H3 K27-altered, H3 K27M mutation	D1	0.150194082368411	3.82
+zccs1005	CNS	LGG	Ganglioglioma	R1	-0.0648202407027484	2.39
+zccs1006	CNS	EPN-PFA	Posterior fossa A ependymoma, group PFA, WHO G2	R2	0.782708255089586	15.77
+zccs1007	CNS	LGG	Pilocytic astrocytoma	D1	0.495836139638049	8.29
+zccs1008	Sarcoma	OST	Osteosarcoma	D2	-1.45185272641894	0.11
+zccs1009	Sarcoma	MPNST	Malignant peripheral nerve sheath tumour	D1	-0.608862964669559	0.71
+zccs1010	CNS	Rhabdoid tumour	Atypical teratoid rhabdoid tumour	D1	1.1397505747816	35.11
+zccs1011	Solid tumour	Fibroblastic and myofibroblastic tumour	Desmoid fibromatosis	D1	-0.753149407115966	0.52
+zccs1012	Sarcoma	Sarcoma other	Chordoma	R1	-0.0982662313711612	2.23
+zccs1013	CNS	LGG	Rosette-forming glioneuronal tumour	D1	0.811555565822741	16.82
+zccs1014	CNS	LGG	Diffuse low grade glioma, MAPK pathway altered	D1	0.478015785055947	8.03
+zccs1764	Sarcoma	RMS FOXO1 fusion negative	Embryonal rhabdomyosarcoma	D1	0.721056144950537	13.61
+zccs1765	Sarcoma	RMS FOXO1 fusion negative	Embryonal rhabdomyosarcoma	D1	0.128627392087101	3.68
+zccs1774	HM	TALL/lymphoma	T-lymphoblastic lymphoma	D1	0.457133368664886	7.6
+zccs1782	Sarcoma	Sarcoma other	BCOR-rearranged sarcoma	D1	0.440309260714784	7.34
+zccs1807	CNS	LGG	Pilocytic astrocytoma	P3	0.0734835132522861	3.26
+zccs1845	CNS	LGG	Diffuse leptomeningeal glioneuronal tumour	D1	-0.350345539307936	1.26
+zccs1866	CNS	EPN-PFA	Posterior fossa A ependymoma, group PFA, WHO Grade unknown	D1	0.0285346908478019	2.91
+zccs1868	CNS	DMG	Diffuse midline glioma, H3 K27-altered, H3 K27M mutation	D1	0.191649560370809	4.17
+zccs1871	CNS	EPN-PFA	Posterior fossa A ependymoma, group PFA, WHO G3	D1	0.420035781761703	6.87
+zccs1883	Sarcoma	Rhabdoid tumour	Malignant rhabdoid tumour, non-renal/hepatic	D1	-0.00967156372209395	2.67
+zccs1911	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.73566677200445	0.06
+zccs1920	HM	AML	Acute myeloid leukaemia	R1	0.618293189944267	10.52
+zccs1928	CNS	MB-non WNT/non-SHH	Medulloblastoma, non-WNT/non-SHH	P1	0.221783591349982	4.37
+zccs1929	HM	Burkitt lymphoma	Burkitt lymphoma	D1	-4.65426652871187	0
+zccs1990	CNS	LGG	Pilocytic astrocytoma	D1	0.450372640524756	7.17
+zccs2005	CNS	Craniopharyngioma	Adamantinomatous craniopharyngioma	D1	1.2104461035945	38.39
+zccs2008	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.312797193591325	1.33
+zccs2071	CNS	LGG	Pilocytic astrocytoma	D1	0.671451185320443	11.42
+zccs2074	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.914002760428101	0.35
+zccs2087	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.57707818274635	0.08
+zccs2089	CNS	MB-WNT	Medulloblastoma, WNT-activated	D1	1.35942714355035	50.76
+zccs2092	HM	TALL/lymphoma	T-lymphoblastic leukaemia	D1	-0.117957981577318	1.97
+zccs2093	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.52358160802996	0.09
+zccs1565	CNS	HGG	Diffuse high grade glioma, H3-wildtype and IDH-wildtype	R2	0.719412192333157	12.68
+zccs419	Sarcoma	RMS FOXO1 fusion positive	Alveolar rhabdomyosarcoma	R2	1.17963453915302	34.89
+zccs2	CNS	HGG	Diffuse high grade glioma, H3-wildtype and IDH-wildtype	R1	0.41385792614189	6.45
+zccs2126	Solid tumour	Fibroblastic and myofibroblastic tumour	Desmoid fibromatosis	R1	-0.75533353213419	0.49
+zccs2138	Solid tumour	Solid other	Myofibroma	D1	-0.453353912679935	0.94
+zccs2218	Sarcoma	OST	Osteosarcoma	D1	-1.69922047863816	0.06
+zccs2208	CNS	LGG	Pilocytic astrocytoma	P3	-0.160770420707134	1.79
+zccs2214	HM	Hodgkin lymphoma	Hodgkin lymphoma	D1	-0.659588984717027	0.6
+zccs2216	HM	AML	Myeloid sarcoma	D1	-0.602822036988931	0.68
+zccs2221	CNS	LGG	Pleomorphic xanthoastrocytoma WHO G2	D1	-0.331203374271694	1.23
+zccs2267	Sarcoma	OST	Osteosarcoma	P1	0	0
+zccs2270	CNS	LGG	Pilocytic astrocytoma	D1	0.0548885017114235	2.88
+zccs2342	CNS	Schwannoma	Vestibular schwannoma	D1	-1.26884370765339	0.15
+zccs2360	HM	Acute leukaemia	Mixed phenotype acute leukaemia	D1	0.234071894616152	4.17
+zccs2383	HM	Acute leukaemia	Mixed phenotype acute leukaemia	D1	0.712424778017229	12.09
+zccs2413	HM	Mature B lymphoma	T-cell/histiocyte-rich large B cell lymphoma	D1	-0.76185067002488	0.45
+zccs2441	Solid tumour	Solid other	Medulloepithelioma	D1	1.16947591296652	33.06
+zccs2450	Solid tumour	WT	Wilms tumour	D1	0.0104883092284972	2.52
+zccs2454	HM	TALL/lymphoma	T-lymphoblastic leukaemia	D1	-1.39836546133573	0.11
+zccs2483	CNS	CNS embryonal	CNS neuroblastoma, FOXR2-activated	D1	-0.517746156367458	0.78
+zccs2496	HM	Hodgkin lymphoma	Hodgkin lymphoma	D1	-0.717502569971581	0.5
+zccs2521	Sarcoma	Sarcoma other	Undifferentiated sarcoma	D1	-0.324353502283713	1.18
+zccs2533	CNS	Rhabdoid tumour	Atypical teratoid rhabdoid tumour	D1	-1.5455339967838	0.08
+zccs2541	CNS	CNS embryonal	CNS embryonal tumour with PLAG-family alteration	D1	0.628916899939937	9.88
+zccs2542	Sarcoma	RMS FOXO1 fusion positive	Alveolar rhabdomyosarcoma	R1	1.09350655750543	23.3
+zccs2587	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.471156330539334	0.85
+zccs2596	Solid tumour	Peripheral nerve sheath tumour	Malignant melanotic nerve sheath tumour	D1	-1.59645859752862	0.07
+zccs2616	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.2184259400865	0.15
+zccs2618	CNS	LGG	Diffuse leptomeningeal glioneuronal tumour	P1	1.8615898483329	130.97
+zccs2629	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.968296994438497	0.28
+zccs2644	CNS	LGG	Pilocytic astrocytoma	D1	-0.125073656391066	1.75
+zccs2647	CNS	LGG	Pilocytic astrocytoma	D1	0.158111217315087	3.3
+zccs2659	CNS	HGG	Diffuse high grade glioma, H3-wildtype and IDH-wildtype	D1	2.44775951160718	568.8
+zccs2663	Sarcoma	Fibroblastic and myofibroblastic tumour	Infantile fibrosarcoma	D1	-0.104093297183583	1.83
+zccs2666	Sarcoma	RMS FOXO1 fusion positive	Alveolar rhabdomyosarcoma	D1	1.28262202289793	41.39
+zccs2668	Solid tumour	Carcinoma	Clear cell carcinoma of the vagina	D1	-0.429575639412353	0.88
+zccs2669	HM	TALL/lymphoma	T-lymphoblastic leukaemia	D1	-0.0448143677784919	2.1
+zccs2676	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.910083951850163	0.3
+zccs2689	CNS	DMG	Diffuse midline glioma, H3 K27-altered, no H3 K27M mutation	D1	0.425398562872769	6
+zccs2706	Solid tumour	Solid other	Parafibromin deficient parathyroid tumour	D1	-2.42147940111939	0.01
+zccs2720	HM	AML	Acute myeloid leukaemia	D1	-0.506197787800958	0.74
+zccs2726	Solid tumour	Neuroendocrine tumour	Paraganglioma	D1	0.118648494746354	2.94
+zccs2743	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	R1	-0.734821021803183	0.43
+zccs2748	CNS	Rhabdoid tumour	Atypical teratoid rhabdoid tumour	D1	0.369529409267905	5.16
+zccs2749	CNS	EPN	Myxopapillary ependymoma	D1	-1.12063479356885	0.18
+zccs2767	CNS	Meningioma	Meningioma WHO G1	D1	-0.789865820685956	0.38
+zccs2778	Solid tumour	Adrenal cortical tumour	Adrenocortical adenoma	D1	-1.69211923171985	0.05
+zccs2791	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.144121965546523	1.61
+zccs2804	HM	Mature T lymphoma	Anaplastic large cell lymphoma, ALK fusion-positive	D1	-1.19903603673448	0.15
+zccs396	Solid tumour	WT	Wilms tumour	R2	0.495017387765108	6.72
+zccs2848	HM	TALL/lymphoma	T-lymphoblastic leukaemia	D1	-0.875668822450221	0.31
+zccs2860	CNS	DMG	Diffuse midline glioma, H3 K27-altered, H3 K27M mutation	D1	0.715003422583896	11.02
+zccs2867	HM	AML	Acute myeloid leukaemia	D1	0.532077279887787	7.31
+zccs2875	HM	TALL/lymphoma	T-lymphoblastic lymphoma	D1	-0.862224293692618	0.32
+zccs2900	CNS	EPN-PFB	Posterior fossa B ependymoma, group PFB, WHO G2	R1	-0.0750629931439363	1.85
+zccs2903	Sarcoma	RMS FOXO1 fusion positive	Alveolar rhabdomyosarcoma	D1	0.914402093993659	17.25
+zccs2904	CNS	HGG	Diffuse hemispheric glioma, H3 G34-mutant	D1	0.493955707722387	6.68
+zccs2958	CNS	DMG	Diffuse midline glioma, H3 K27-altered, H3 K27M mutation	D1	0.547039021568562	7.53
+zccs2971	Sarcoma	OST	Osteosarcoma	D1	-0.720024514018513	0.43
+zccs2975	CNS	LGG	Ganglioglioma	D1	-0.763259512469678	0.39
+zccs2997	Sarcoma	EWS	Ewing sarcoma, bone	D1	-0.369841873823202	0.94
+zccs2998	HM	Mature B lymphoma	High-grade B-cell lymphoma, NOS	R1	-1.35611609145338	0.1
+zccs3015	Sarcoma	RMS FOXO1 fusion positive	Alveolar rhabdomyosarcoma	D1	0.69840041224821	10.49
+zccs3020	CNS	MB-WNT	Medulloblastoma, WNT-activated	D1	1.05093927049334	23.33
+zccs3024	Sarcoma	OST	Osteosarcoma	D1	-0.807602295832983	0.35
+zccs3041	CNS	MB-SHH	Medulloblastoma, SHH-activated and TP53-wildtype	D1	1.4993506918641	64.43
+zccs3092	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.681232573014349	0.46
+zccs1573	CNS	EPN-PFA	Posterior fossa A ependymoma, group PFA, WHO Grade unknown	R2	-0.286013301968109	1.12
+zccs3104	CNS	EPN-PFA	Posterior fossa A ependymoma, group PFA, WHO G3	R1	0.270902710779019	3.95
+zccs3107	CNS	Pineoblastoma	Pineoblastoma, miRNA processing-altered_1	D1	1.26737892691183	37.62
+zccs3130	HM	TALL/lymphoma	T-lymphoblastic leukaemia	R1	-0.766753757042554	0.35
+zccs3134	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.933333123056911	0.26
+zccs3141	Solid tumour	Hepatoblastoma/HCC	Hepatocellular malignant neoplasm, NOS	D1	0.466651816229459	6.16
+zccs3142	CNS	Germ cell tumour	Germinoma, CNS	D1	0.357146119669681	4.82
+zccs3165	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.4561742408126	0.08
+zccs3167	CNS	Germ cell tumour	Germinoma, CNS	D1	1.28054486358656	38.78
+zccs3188	CNS	Pineal tumour	Papillary tumour of the pineal region, WHO Grade unknown	P1	-0.854986392636763	0.31
+zccs3195	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.66165566175602	0.05
+zccs3202	Sarcoma	Sarcoma other	Chordoma	D1	-1.24001124957659	0.13
+zccs3253	Solid tumour	Neuroendocrine tumour	Paraganglioma	R2	1.00286126989335	20.4
+zccs3264	Solid tumour	Bone tumours other	Bone tumour, NEC	P1	-0.822881048165122	0.33
+zccs3297	CNS	Choroid plexus tumour	Choroid plexus carcinoma, TP53-mutant	D1	0.793977027388096	12.71
+zccs3307	CNS	MB-non WNT/non-SHH	Medulloblastoma, non-WNT/non-SHH	D1	0.235737311444638	3.6
+zccs3308	Sarcoma	OST	Osteosarcoma	D1	-0.796038722684808	0.35
+zccs3312	CNS	MB-non WNT/non-SHH	Medulloblastoma, non-WNT/non-SHH	D1	0.409359513068017	5.33
+zccs3324	CNS	DMG	Diffuse midline glioma, H3 K27-altered, H3 K27M mutation	D1	0.475099207520452	6.11
+zccs3333	Sarcoma	OST	Osteosarcoma	D1	-0.657648952938869	0.45
+zccs3366	Solid tumour	Neuroendocrine tumour	Carcinoid	D1	-1.7320365130693	0.04
+zccs3367	HM	Hodgkin lymphoma	Hodgkin lymphoma	D1	-0.393332830612799	0.85
+zccs3379	CNS	ETMR	Embryonal tumour with multilayered rosettes, C19MC-altered	D1	0.932967203721921	17.12
+zccs3389	CNS	LGG	Pilocytic astrocytoma	D1	0.418060951234375	5.23
+zccs3402	Sarcoma	Sarcoma other	Low grade fibromyxoid sarcoma	D1	-0.971926627520848	0.22
+zccs3406	CNS	Craniopharyngioma	Adamantinomatous craniopharyngioma	D1	0.702492671507707	9.96
+zccs3413	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.35939855496414	0.09
+zccs3415	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.175173200749312	1.35
+zccs3434	HM	TALL/lymphoma	T-lymphoblastic leukaemia	D1	0.869503265078852	14.47
+zccs3441	Solid tumour	WT	Wilms tumour	D1	0.894570425229697	15.26
+zccs3445	CNS	CNS other	Haemangioblastoma	D1	0.552012905290764	7.02
+zccs3448	HM	Histiocytosis	Langerhans cell histiocytosis	D1	-0.48069902049469	0.67
+zccs3464	Solid tumour	Neuroendocrine tumour	Non-functioning pancreatic neuroendocrine tumour	D2	-0.637799116528349	0.47
+zccs3467	Solid tumour	Hepatoblastoma/HCC	Hepatoblastoma	D1	0.571014035307665	7.35
+zccs3475	Sarcoma	Angiosarcoma	Hepatic angiosarcoma	D1	-0.420525824074539	0.77
+zccs3481	Solid tumour	Sex cord stromal tumour	Sex cord stromal tumour, NOS	D2	0.588128943228959	7.64
+zccs3488	Sarcoma	Sarcoma other	NTRK-rearranged sarcoma	D1	-0.551799419920689	0.57
+zccs3491	CNS	MB-non WNT/non-SHH	Medulloblastoma, non-WNT/non-SHH	D1	0.502435711581704	6.26
+zccs3497	CNS	LGG	Pilocytic astrocytoma	D1	0.100248448349756	2.51
+zccs3504	Solid tumour	WT	Wilms tumour	D1	-0.106324368362163	1.56
+zccs3518	HM	TALL/lymphoma	T-lymphoblastic leukaemia	D1	0.429079411975103	5.29
+zccs3522	Solid tumour	Carcinoma	Follicular thyroid carcinoma	D1	-0.0942609659472596	1.58
+zccs3532	CNS	MB-SHH	Medulloblastoma, SHH-activated and TP53-wildtype	D1	0.795393175194645	12.15
+zccs3582	Sarcoma	Sarcoma other	BCOR-rearranged sarcoma	D1	-0.574543680578293	0.54
+zccs3586	Sarcoma	OST	Osteosarcoma	D1	-0.285254300333352	1.04
+zccs3590	CNS	HGG	Diffuse hemispheric glioma, H3 G34-mutant	D1	0.683632327400751	9.34
+zccs3638	Solid tumour	WT	Wilms tumour	D1	0.0311405230655653	2.13
+zccs3644	Sarcoma	Desmoplastic small round cell tumour	Desmoplastic small round cell tumour	R1	-0.893835644386853	0.26
+zccs3647	Sarcoma	Rhabdoid tumour	Malignant rhabdoid tumour, non-renal/hepatic	D1	-0.947958705441607	0.23
+zccs3682	HM	AML	Acute myeloid leukaemia	D1	-1.2321005082529	0.12
+zccs3683	HM	TALL/lymphoma	T-lymphoblastic leukaemia	D1	1.19613975008299	29.48
+zccs3689	CNS	LGG	Polymorphous low grade neuroepithelial tumour of the young	D1	0.175803895519684	2.91
+zccs3697	CNS	DMG	Diffuse midline glioma, H3 K27-altered, no H3 K27M mutation	D1	0.888587601490225	14.65
+zccs3705	CNS	EPN-ZFTA	Supratentorial ependymoma, ZFTA fusion-positive, WHO G3	R1	0.524600360422775	6.42
+zccs3744	Solid tumour	WT	Wilms tumour	D1	1.05464824741951	21.23
+zccs3754	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.26969572242424	0.11
+zccs3756	Sarcoma	RMS FOXO1 fusion negative	Embryonal rhabdomyosarcoma	D1	0.595681015488915	7.49
+zccs3767	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.172501690864489	1.32
+zccs3769	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	0.0473490409264813	2.17
+zccs3775	CNS	LGG	Glioneuronal tumour, NOS, low grade	D1	0.134930355571598	2.66
+zccs3776	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.10667008647414	0.16
+zccs3810	HM	TALL/lymphoma	T-lymphoblastic leukaemia	D1	-0.462137436648274	0.69
+zccs3820	Solid tumour	Solid other	Hamartoma	R1	-1.62157179629726	0.05
+zccs3822	Sarcoma	RMS FOXO1 fusion positive	Alveolar rhabdomyosarcoma	D1	0.727248092843586	10.19
+zccs3823	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.05572561011571	0.18
+zccs3826	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-4.36684416423651	0
+zccs3864	CNS	LGG	Dysembryoplastic neuroepithelial tumour	R1	0.844968422470627	13.27
+zccs3870	CNS	EPN-PFA	Posterior fossa A ependymoma, group PFA, WHO Grade unknown	D1	-0.0285463620020628	1.83
+zccs3928	CNS	EPN-ZFTA	Supratentorial ependymoma, ZFTA fusion-positive, WHO G3	D1	0.313801218618398	3.95
+zccs3946	CNS	Pineoblastoma	Pineoblastoma, miRNA processing-altered_1	D1	1.83822107004394	124.58
+zccs3947	CNS	ETMR	Embryonal tumour with multilayered rosettes, C19MC-altered	D1	1.1892649272908	28.63
+zccs3954	CNS	LGG	Pilocytic astrocytoma	D1	0.0706651503951858	2.27
+zccs3982	Solid tumour	Hepatoblastoma/HCC	Hepatoblastoma	D1	-0.797833372043868	0.32
+zccs4002	HM	TALL/lymphoma	T-lymphoblastic lymphoma	D1	0.163622713578872	2.79
+zccs4010	Solid tumour	WT	Wilms tumour	D1	-0.220561108317871	1.17
+zccs4017	HM	Acute leukaemia	Mixed phenotype acute leukaemia	D1	0.705055368122327	9.55
+zccs4021	HM	Burkitt lymphoma	Burkitt lymphoma	D1	-0.778551475939184	0.33
+zccs4025	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.586634162078631	0.51
+zccs4030	Solid tumour	Carcinoma	Renal cell carcinoma	D1	-0.956077740961467	0.22
+zccs4048	HM	TALL/lymphoma	T-lymphoblastic lymphoma	D1	-1.02103708690403	0.19
+zccs4090	Solid tumour	WT	Wilms tumour	D1	0.458918859924624	5.39
+zccs4101	Solid tumour	Solid other	Parathyroid adenoma	D1	-1.70628026531494	0.04
+zccs4110	Sarcoma	EWS	Ewing sarcoma, bone	D1	0.471039540375858	5.54
+zccs4125	CNS	LGG	Pilocytic astrocytoma	D1	0.331491410310557	4.04
+zccs1017	Solid tumour	Germ cell tumour	Teratoma with somatic-type malignancy, non-CNS	D2	-0.541965113464881	0.82
+zccs1437	Sarcoma	RMS FOXO1 fusion positive	Alveolar rhabdomyosarcoma	R2	0.97206348751745	25.56
+zccs1019	CNS	LGG	Pilocytic astrocytoma	D1	0.739821706374018	14.82
+zccs1020	CNS	LGG	Pilocytic astrocytoma	D1	0.106385188937882	3.45
+zccs1021	CNS	Germ cell tumour	Yolk sac tumour, CNS	D2	1.12776196241767	34.44
+zccs1023	CNS	LGG	Pilocytic astrocytoma	D1	0.328823429048611	5.7
+zccs1024	Solid tumour	Neuroendocrine tumour	Carcinoid	D1	-0.472093273823643	0.97
+zccs1025	Sarcoma	EWS	Ewing sarcoma, soft tissue	D1	-0.910932349771854	0.37
+zccs287	CNS	HGG	Diffuse high grade glioma, H3-wildtype and IDH-wildtype	P4	0.528762098480023	8.87
+zccs1791	HM	Hodgkin lymphoma	Hodgkin lymphoma	D1	-1.21549386689934	0.19
+zccs1824	CNS	LGG	Dysembryoplastic neuroepithelial tumour	P1	0.700140169634398	13.04
+zccs1825	CNS	LGG	Pilocytic astrocytoma	D1	0.551777624685258	9.4
+zccs1847	HM	AML	Acute myeloid leukaemia	D1	-1.72911416642355	0.06
+zccs1863	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	R2	-1.15785760351628	0.2
+zccs1865	CNS	MB-non WNT/non-SHH	Medulloblastoma, non-WNT/non-SHH	D1	0.402326546062919	6.65
+zccs1292	CNS	HGG	Astrocytoma, IDH-mutant WHO G4	P1	-0.0301001328058089	2.55
+zccs1888	Sarcoma	RMS FOXO1 fusion negative	Embryonal rhabdomyosarcoma	D1	0.00742643336980689	2.78
+zccs1907	CNS	EPN-ZFTA	Supratentorial ependymoma, ZFTA fusion-positive, WHO Grade unknown	R1	-0.00347779997993632	2.12
+zccs2037	HM	Hodgkin lymphoma	Hodgkin lymphoma	D1	-0.8203835085407	0.43
+zccs2140	CNS	HGG	Diffuse hemispheric glioma, H3 G34-mutant	D1	1.32372078144588	47.51
+zccs2181	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.0503119505373	0.24
+zccs2245	CNS	HGG	Pleomorphic xanthoastrocytoma WHO G3	D1	0.0806891330435231	3.05
+zccs2263	CNS	MB-non WNT/non-SHH	Medulloblastoma, non-WNT/non-SHH	D1	-0.232393070439957	1.53
+zccs2301	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.28474144512951	0.15
+zccs2303	HM	Burkitt lymphoma	Burkitt lymphoma	D1	-2.51399869030663	0.01
+zccs2331	Solid tumour	Germ cell tumour	Mixed germ cell tumour, non-CNS	D1	1.06441447362672	26.47
+zccs2341	CNS	LGG	Pilocytic astrocytoma	D1	0.124436292351574	3.28
+zccs2418	CNS	MB-WNT	Medulloblastoma, WNT-activated	R1	1.26394703648144	40.74
+zccs2448	HM	TALL/lymphoma	T-lymphoblastic leukaemia	D1	-0.0708249929294085	2.1
+zccs2566	HM	Mature T lymphoma	Anaplastic large cell lymphoma, ALK fusion-positive	D1	-1.2915984561703	0.14
+zccs2722	HM	AML	Acute promyelocytic leukaemia	D1	-0.537328915130813	0.69
+zccs2729	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.54844109368006	0.07
+zccs2764	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.439925526781211	0.82
+zccs2837	CNS	LGG	Diffuse low grade glioma, MAPK pathway altered	D1	0.0801506293116551	2.64
+zccs2846	CNS	LGG	Diffuse low grade glioma, MAPK pathway altered	P1	0.679114161783791	10.16
+zccs2861	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	R1	-1.36590946621941	0.1
+zccs2864	CNS	MB-non WNT/non-SHH	Medulloblastoma, non-WNT/non-SHH	D1	0.400580247162739	5.45
+zccs2899	Sarcoma	RMS FOXO1 fusion negative	Embryonal rhabdomyosarcoma	D1	0.518983359011251	7.1
+zccs2972	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.89903705991034	0.03
+zccs3054	CNS	Germ cell tumour	Germinoma, CNS	D1	1.26089412584396	37.4
+zccs3057	Solid tumour	Neuroendocrine tumour	Neuroendocrine carcinoma	D2	-0.0104437120981177	2.11
+zccs3064	HM	TALL/lymphoma	T-lymphoblastic leukaemia	D1	0.981379119239016	19.72
+zccs3087	CNS	Rhabdoid tumour	Atypical teratoid rhabdoid tumour	D1	1.27582530213894	38.53
+zccs3095	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.149876822078753	1.53
+zccs3114	CNS	HGG	Diffuse high grade glioma, H3-wildtype and IDH-wildtype	D1	1.42411899794143	53.91
+zccs3117	CNS	MB-SHH	Medulloblastoma, SHH-activated and TP53-wildtype	D1	1.39603371224026	50.59
+zccs3152	CNS	LGG	Diffuse leptomeningeal glioneuronal tumour	D1	0.761370399235144	11.99
+zccs3212	Solid tumour	Germ cell tumour	Mixed germ cell tumour, non-CNS	D1	0.408785103577556	5.33
+zccs3213	Solid tumour	Germ cell tumour	Mature teratoma, non-CNS	D1	-0.578787096728648	0.58
+zccs3220	Sarcoma	RMS FOXO1 fusion negative	Embryonal rhabdomyosarcoma	D1	0.237298439547508	3.68
+zccs3242	Sarcoma	OST	Osteosarcoma	D1	-1.47610691377756	0.07
+zccs3255	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.18675047460468	0.14
+zccs3300	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	0	0
+zccs3323	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.21778611060249	0.13
+zccs3329	HM	Myeloproliferative neoplasm	Chronic myeloid leukaemia	D1	-0.535528195253523	0.59
+zccs3351	Sarcoma	RMS FOXO1 fusion negative	Embryonal rhabdomyosarcoma	D1	0.68599846231934	9.87
+zccs3353	Solid tumour	Neuroendocrine tumour	Paraganglioma	D1	-0.381296209869135	0.84
+zccs3369	CNS	LGG	Pilocytic astrocytoma	D1	0.245706602211795	3.52
+zccs3393	CNS	LGG	Pilocytic astrocytoma	D1	0.163258295185913	2.93
+zccs3463	CNS	CNS other	Intracranial mesenchymal tumour, FET-CREB fusion-positive	D1	-0.990702758887552	0.21
+zccs3498	Sarcoma	Fibroblastic and myofibroblastic tumour	Inflammatory myofibroblastic tumour	D1	-0.425522813261452	0.76
+zccs3505	CNS	DMG	Diffuse midline glioma, H3 K27-altered, H3 K27M mutation	D1	1.00704284583657	19.66
+zccs3529	Sarcoma	OST	Osteosarcoma	D1	-0.765373948360479	0.35
+zccs3556	HM	MDS	Myelodysplastic syndrome	D1	-0.655125735036049	0.45
+zccs3562	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-2.02821646000348	0.02
+zccs3565	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-2.33097831164563	0.01
+zccs3583	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.11038601385716	0.16
+zccs3615	Sarcoma	OST	Osteosarcoma	D1	-0.563443925738097	0.55
+zccs3622	Sarcoma	OST	Osteosarcoma	D1	-1.72338484847615	0.04
+zccs3681	Solid tumour	WT	Wilms tumour	D1	0.608987202315305	7.84
+zccs3685	CNS	LGG	Pilocytic astrocytoma	D1	0.38231109376714	4.69
+zccs3692	HM	Hodgkin lymphoma	Hodgkin lymphoma	D1	-0.770606291855558	0.34
+zccs1256	Sarcoma	EWS	Ewing sarcoma, soft tissue	R3	0.358916317733409	4.41
+zccs3742	CNS	LGG	Pilocytic astrocytoma	D1	0.329700243234486	4.1
+zccs3781	HM	Histiocytosis	Langerhans cell histiocytosis	D1	0.282951748271	3.7
+zccs3791	Solid tumour	Germ cell tumour	Immature teratoma, non-CNS	D1	0.199029490101814	3.06
+zccs3792	Solid tumour	Peripheral nerve sheath tumour	Neurofibroma	D1	-0.0257360573537576	1.84
+zccs3825	CNS	LGG	Pilocytic astrocytoma	D1	0.281838591013328	3.71
+zccs3827	HM	AML	Acute myeloid leukaemia	D1	-0.410819225846703	0.77
+zccs3930	CNS	LGG	Pilocytic astrocytoma	D1	0.588325519230976	7.36
+zccs3942	Sarcoma	RMS FOXO1 fusion positive	Alveolar rhabdomyosarcoma	D1	0.893764609175852	14.59
+zccs3952	Solid tumour	Fibroblastic and myofibroblastic tumour	Solitary fibrous tumour	D1	-0.371932370681965	0.84
+zccs3988	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.531523058450884	0.58
+zccs4020	CNS	EPN-YAP1	Supratentorial ependymoma, YAP1 fusion-positive, WHO Grade unknown	D1	0.337622452499419	4.15
+zccs4040	Sarcoma	Sarcoma other	SRF-rearranged soft tissue tumour	D1	0.0840606410500031	2.33
+zccs1026	CNS	MB-non WNT/non-SHH	Medulloblastoma, non-WNT/non-SHH	D1	0.480904689948398	8.28
+zccs1027	CNS	Germ cell tumour	Embryonal carcinoma, CNS	R1	1.84023845712259	183.5
+zccs1028	CNS	HGG	Diffuse high grade glioma, H3-wildtype and IDH-wildtype	P1	0.137690536529693	3.74
+zccs1030	CNS	HGG	Diffuse hemispheric glioma, H3 G34-mutant	D1	0.619361150569718	11.45
+zccs465	CNS	EPN-PFA	Posterior fossa A ependymoma, group PFA, WHO G3	R1	-0.357602029739137	1.22
+zccs1031	CNS	MB-non WNT/non-SHH	Medulloblastoma, non-WNT/non-SHH	D1	0.611725100232603	11.11
+zccs1032	CNS	MB-non WNT/non-SHH	Medulloblastoma, non-WNT/non-SHH	D1	0.332446073096185	5.89
+zccs1035	Sarcoma	EWS	Ewing sarcoma, bone	R1	0.417889032353003	7.2
+zccs1036	Sarcoma	OST	Osteosarcoma	D2	-1.21251282429196	0.18
+zccs1037	HM	Acute leukaemia	Mixed phenotype acute leukaemia	D1	-0.447777273828306	0.99
+zccs1038	Sarcoma	RMS FOXO1 fusion positive	Alveolar rhabdomyosarcoma	D1	0.835936479462106	18.79
+zccs1039	Sarcoma	Rhabdoid tumour	Malignant rhabdoid tumour, liver	D1	1.17048252402979	40.26
+zccs1040	CNS	LGG	Oligodendroglioma, IDH-mutant and 1p/19q-codeleted, WHO G2	D1	-0.0107360671936449	2.71
+zccs1041	CNS	LGG	Pilocytic astrocytoma	D1	-1.04438204727263	0.26
+zccs81	Sarcoma	RMS FOXO1 fusion positive	Alveolar rhabdomyosarcoma	R2	0.952253284300835	24.49
+zccs1042	CNS	EPN-ZFTA	Supratentorial ependymoma, ZFTA fusion-positive, WHO G3	D1	0.855083966959558	19.63
+zccs1044	CNS	EPN-PFA	Posterior fossa A ependymoma, group PFA, WHO G3	D1	0.183731839932856	4.18
+zccs1045	Sarcoma	OST	Osteosarcoma	R1	-1.1518284146843	0.2
+zccs1046	Solid tumour	Carcinoma	Cholangiocarcinoma	P1	-1.22453788523113	0.17
+zccs1047	CNS	LGG	Astrocytoma, IDH-mutant WHO G2	D1	-0.0992782790590847	2.18
+zccs1048	CNS	MB-SHH	Medulloblastoma, SHH-activated and TP53-wildtype	D1	1.0898750589644	31.69
+zccs1049	CNS	HGG	Infant-type hemispheric glioma fusion-positive	D1	0.22069964642165	4.47
+zccs1050	CNS	LGG	Desmoplastic infantile ganglioglioma and astrocytoma	D1	-0.16865560791801	1.85
+zccs1051	CNS	LGG	Pilocytic astrocytoma	P1	-0.0520517818417612	2.41
+zccs1052	CNS	LGG	Ganglioglioma	P2	0.0843935698867083	3.28
+zccs1053	Sarcoma	OST	Osteosarcoma	P1	-1.28129800835611	0.15
+zccs1054	CNS	DMG	Diffuse midline glioma, H3 K27-altered, H3 K27M mutation	D1	0.641290615883513	11.54
+zccs1055	CNS	CNS other	NUTM1-rearranged neoplasm	D1	1.47555402477855	75.97
+zccs1545	CNS	HGG	Diffuse high grade glioma, H3-wildtype and IDH-wildtype	P2	-0.792260605004416	0.46
+zccs1059	Solid tumour	Fibroblastic and myofibroblastic tumour	Desmoid fibromatosis	P1	-0.673346405397342	0.6
+zccs1061	CNS	LGG	Pilocytic astrocytoma	D1	0.331475251395408	5.77
+zccs1062	CNS	LGG	Oligodendroglioma, IDH-mutant and 1p/19q-codeleted, WHO G2	D1	0.351057950437867	6.03
+zccs1064	Sarcoma	OST	Osteosarcoma	D1	-0.664906846959712	0.64
+zccs1065	HM	TALL/lymphoma	T-lymphoblastic leukaemia	D1	1.2571638921796	45.68
+zccs1066	CNS	EPN-ZFTA	Supratentorial ependymoma, ZFTA fusion-positive, WHO G3	D1	0.0822045367689253	3.28
+zccs1067	Sarcoma	OST	Osteosarcoma	D2	-0.738205608159144	0.52
+zccs1071	CNS	LGG	Pilocytic astrocytoma	P2	-0.249743339345969	1.59
+zccs1072	Sarcoma	RMS FOXO1 fusion positive	Alveolar rhabdomyosarcoma	D1	0.809679199871718	16.75
+zccs1074	CNS	HGG	Astrocytoma, IDH-mutant WHO G3	D1	0.0753058101849011	3.27
+zccs1760	Sarcoma	RMS FOXO1 fusion negative	Embryonal rhabdomyosarcoma	D1	0.664969200338031	11.98
+zccs1781	CNS	MB-non WNT/non-SHH	Medulloblastoma, non-WNT/non-SHH	D1	0.560110704755164	9.6
+zccs1800	Solid tumour	Germ cell tumour	Teratoma with somatic-type malignancy, non-CNS	D1	1.39064932454949	60.13
+zccs1801	CNS	ETMR	Embryonal tumour with multilayered rosettes, C19MC-altered	D1	1.28809249358641	47.94
+zccs1811	Solid tumour	Germ cell tumour	Mixed germ cell tumour, non-CNS	D1	1.06737131359749	29.44
+zccs1819	CNS	LGG	Ganglioglioma	D1	-0.649700637174697	0.66
+zccs1831	CNS	LGG	Pilocytic astrocytoma	P1	0.184817126208443	4.19
+zccs1832	CNS	MB-non WNT/non-SHH	Medulloblastoma, non-WNT/non-SHH	D1	0.294601442377559	5.34
+zccs1833	Solid tumour	Bone tumours other	Osteoblastoma	P1	-0.694963446373748	0.6
+zccs1846	CNS	CNS other	Haemangioblastoma	D1	-0.378810210531505	1.21
+zccs1849	CNS	EPN-PFB	Posterior fossa B ependymoma, group PFB, WHO G2	D1	-0.463881828221602	1
+zccs1855	CNS	Rhabdoid tumour	Atypical teratoid rhabdoid tumour	D1	0.856678002205302	18.23
+zccs1856	Solid tumour	WT	Wilms tumour	R2	1.13472917376262	33.64
+zccs1890	Sarcoma	EWS	Ewing sarcoma, bone	R1	-0.321135604186929	1.34
+zccs1877	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	R1	-0.751320553252361	0.52
+zccs1881	HM	AML	Acute myeloid leukaemia	R1	-0.185014542361193	1.82
+zccs1900	Sarcoma	EWS	Ewing sarcoma, soft tissue	D1	-0.612571220320449	0.71
+zccs1917	Sarcoma	OST	Osteosarcoma	R1	-0.772199600142338	0.5
+zccs1574	Sarcoma	Desmoplastic small round cell tumour	Desmoplastic small round cell tumour	P1	-0.990085120469745	0.31
+zccs2024	Solid tumour	Germ cell tumour	Immature teratoma, non-CNS	D1	-0.071120614356978	2.3
+zccs1935	CNS	EPN-PFA	Posterior fossa A ependymoma, group PFA, WHO G3	D1	-0.520053361443632	0.86
+zccs1949	CNS	EPN-PFA	Posterior fossa A ependymoma, group PFA, WHO G2	P1	-0.139459130329794	1.95
+zccs1952	CNS	HGG	Glioblastoma, IDH wild-type	D2	-0.00740215268816177	2.61
+zccs1954	Solid tumour	Germ cell tumour	Mixed germ cell tumour, non-CNS	D1	0.363593082823445	5.92
+zccs169	CNS	EPN-PFA	Posterior fossa A ependymoma, group PFA, WHO G3	D1	0.112753864392439	3.35
+zccs2065	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.08559203019495	0.24
+zccs1666	Solid tumour	WT	Wilms tumour	R2	1.93897983947137	185.56
+zccs2082	Solid tumour	Carcinoma	Papillary thyroid carcinoma	D1	-0.770356310334086	0.48
+zccs2096	Solid tumour	Solid other	Parathyroid adenoma	D1	-1.64692435390121	0.07
+zccs2099	Solid tumour	WT	Wilms tumour	D1	0.0476720734061474	2.91
+zccs2101	CNS	EPN-PFA	Posterior fossa A ependymoma, group PFA, WHO G3	R1	0.530157263500795	8.41
+zccs2127	Solid tumour	WT	Wilms tumour	D1	-0.446421826848416	0.96
+zccs2147	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.1176131719051	0.22
+zccs2150	Solid tumour	Hepatoblastoma/HCC	Hepatoblastoma	D1	-0.269763529718022	1.41
+zccs2162	Solid tumour	Fibroblastic and myofibroblastic tumour	Juvenile nasopharyngeal angiofibroma	P1	-0.638538214897993	0.59
+zccs2177	Sarcoma	RMS FOXO1 fusion positive	Alveolar rhabdomyosarcoma	D1	1.32844450309716	48.1
+zccs2180	Solid tumour	WT	Wilms tumour	D1	-0.434484949264235	0.98
+zccs2211	HM	AML	Acute myeloid leukaemia	R2	-0.682852732275443	0.57
+zccs2224	Solid tumour	Solid other	Solid pseudopapillary neoplasm of pancreas	D1	-1.13572913475397	0.21
+zccs2228	Sarcoma	Sarcoma other	Undifferentiated sarcoma	D1	-0.741627609198683	0.5
+zccs583	HM	AML	Acute myeloid leukaemia	R2	0.133093831824239	3.43
+zccs2242	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.42422852908134	0.11
+zccs2243	HM	Histiocytosis	Langerhans cell histiocytosis	D1	-0.817670237469293	0.42
+zccs2248	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.737927277378013	0.48
+zccs2252	CNS	LGG	Astrocytoma, IDH-mutant WHO G2	D1	0.61571341439521	9.96
+zccs2255	CNS	HGG	Neuro-epithelial tumour with PATZ1 fusion	D1	0.0523952103817251	2.87
+zccs2273	Sarcoma	OST	Osteosarcoma	D1	-0.888558372777556	0.36
+zccs2320	HM	TALL/lymphoma	T-lymphoblastic lymphoma	R1	-4.60244913283076	0
+zccs2321	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	R1	-1.88436777654902	0.04
+zccs2370	Sarcoma	RMS FOXO1 fusion positive	Alveolar rhabdomyosarcoma	R1	1.55427487402046	71.02
+zccs2333	CNS	LGG	Pilocytic astrocytoma	D2	-0.138838789647574	1.87
+zccs2371	Sarcoma	OST	Osteosarcoma	D1	-1.32445465594073	0.13
+zccs2325	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.661935194217845	0.57
+zccs2299	HM	Hodgkin lymphoma	Hodgkin lymphoma	R1	-0.595858920903499	0.66
+zccs2416	CNS	Meningioma	Meningioma WHO G1	D1	-0.766448164104026	0.45
+zccs2391	CNS	LGG	Pilocytic astrocytoma	D1	-0.321949461426451	1.21
+zccs2392	Sarcoma	Synovial sarcoma	Synovial sarcoma	D1	0.532439769640124	8.1
+zccs2403	Solid tumour	Hepatoblastoma/HCC	Hepatoblastoma	D1	0.993889693477197	22.61
+zccs2404	Solid tumour	Sex cord stromal tumour	Juvenile granulosa cell ovarian tumour	D1	0.0252242236487043	2.62
+zccs2406	Solid tumour	Thyroid other	Follicular adenoma	D1	-0.470578568745243	0.87
+zccs1674	Sarcoma	RMS FOXO1 fusion positive	Alveolar rhabdomyosarcoma	R1	1.02194808582583	23.82
+zccs2415	HM	TALL/lymphoma	T-lymphoblastic leukaemia	D1	-0.372082680976894	1.07
+zccs2419	Solid tumour	WT	Wilms tumour	D1	1.38986293491046	54.12
+zccs2423	Solid tumour	Carcinoma	Papillary thyroid carcinoma	D1	-0.346193330671071	1.13
+zccs2424	CNS	LGG	Pilocytic astrocytoma	D1	-0.0535480703085477	2.18
+zccs2429	Solid tumour	Peripheral nerve sheath tumour	Schwannoma	P2	0.0229682626738783	2.59
+zccs2434	Solid tumour	Solid other	Myofibroma	D1	-0.619810520808507	0.62
+zccs2444	HM	AML	Acute megakaryoblastic leukaemia	D1	0.210424477173696	3.93
+zccs2449	CNS	LGG	Pilocytic astrocytoma	D1	-0.0242788187987896	2.33
+zccs2491	Solid tumour	Germ cell tumour	Mixed germ cell tumour, non-CNS	D1	0.962887106140822	20.88
+zccs2492	Solid tumour	Neuroendocrine tumour	Thyroid C cell hyperplasia	D1	-0.637532756002996	0.6
+zccs2475	Sarcoma	OST	Osteosarcoma	D1	-1.20409272589055	0.17
+zccs2499	Solid tumour	Hepatoblastoma/HCC	Hepatoblastoma	D1	0.974978653711516	21.36
+zccs2506	HM	TALL/lymphoma	T-lymphoblastic lymphoma	D1	-1.67548638066569	0.06
+zccs2583	HM	AML	Acute myeloid leukaemia	D1	0.0130039068005326	2.52
+zccs2572	Solid tumour	Solid other	Focal nodular hyperplasia	D1	-1.60246181553654	0.07
+zccs2554	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.35998588683597	0.12
+zccs2558	CNS	LGG	Pilocytic astrocytoma	D1	-0.188135166132832	1.61
+zccs2565	CNS	LGG	Ganglioglioma	D1	0.234190318038495	4.1
+zccs2577	CNS	LGG	Pilocytic astrocytoma	D1	0.223283201205841	3.96
+zccs2578	CNS	LGG	Glioneuronal tumour, NOS, low grade	D1	-0.645609693899093	0.58
+zccs2580	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.918101387588593	0.32
+zccs2582	CNS	LGG	Pilocytic astrocytoma	P3	-0.218860287652692	1.17
+zccs2585	CNS	MB-non WNT/non-SHH	Medulloblastoma, non-WNT/non-SHH	D1	0.583351395608871	8.88
+zccs2597	Sarcoma	RMS FOXO1 fusion negative	Embryonal rhabdomyosarcoma	D1	-0.173633997378141	1.64
+zccs2600	HM	TALL/lymphoma	T-lymphoblastic leukaemia	D1	0.968740119176787	20.58
+zccs2606	Solid tumour	WT	Wilms tumour	R1	1.29412289797012	41.66
+zccs2619	CNS	LGG	Pilocytic astrocytoma	P2	0.408164334758887	5.92
+zccs2622	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.879161314367503	0.32
+zccs2623	CNS	EPN	Spinal ependymoma, non-MYCN-amplified, WHO G2	D1	0.313488607873535	4.76
+zccs2627	Solid tumour	Germ cell tumour	Mixed germ cell-sex cord-stromal tumour, unclassified	D1	1.06895517251865	25.25
+zccs2630	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.842203127485038	0.37
+zccs2633	CNS	EPN-PFA	Posterior fossa A ependymoma, group PFA, WHO G3	D1	0.495247519601208	7.08
+zccs2640	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.4421634005289	0.09
+zccs2646	Sarcoma	RMS FOXO1 fusion negative	Embryonal rhabdomyosarcoma	D1	0.989521202572249	21.39
+zccs2655	HM	Mature T lymphoma	Anaplastic large cell lymphoma, ALK fusion-positive	D1	-0.852199851828825	0.34
+zccs2658	HM	TALL/lymphoma	T-lymphoblastic leukaemia	D1	0.590664622788711	8.72
+zccs2664	Sarcoma	Sarcoma other	Alveolar soft part sarcoma	P1	-0.868004601938043	0.33
+zccs2672	Solid tumour	Germ cell tumour	Teratoma with somatic-type malignancy, non-CNS	D1	0.835490004448376	15.16
+zccs2686	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.881832782879853	0.32
+zccs2690	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-2.42559231919335	0.01
+zccs2704	CNS	DMG	Diffuse midline glioma, H3 K27-altered, H3 K27M mutation	P1	0.359223520916101	5.19
+zccs1305	HM	AML	Acute myeloid leukaemia	R1	-2.42147940111939	0.01
+zccs2714	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.329795510794116	1.1
+zccs2715	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.506197787800958	0.74
+zccs2721	Sarcoma	Sarcoma other	Pleuropulmonary blastoma	D1	1.13135058019974	29.14
+zccs2727	CNS	HGG	Neuro-epithelial tumour with PLAGL1 fusion	D1	0.856941054116447	15.69
+zccs2736	CNS	LGG	Pilocytic astrocytoma	P1	0.49339084638166	6.9
+zccs2739	Sarcoma	OST	Osteosarcoma	R1	-0.709079599933285	0.46
+zccs2745	Solid tumour	Bone tumours other	Aneurysmal bone cyst	D1	-0.833798937964228	0.35
+zccs2746	Solid tumour	WT	Wilms tumour	D1	0.998326980277219	21.59
+zccs2757	Sarcoma	RMS FOXO1 fusion negative	Embryonal rhabdomyosarcoma	D1	0.672235264213998	10.23
+zccs2777	Solid tumour	WT	Wilms tumour	D1	1.42798337198186	55.87
+zccs2788	CNS	HGG	Astrocytoma, NOS WHO G3	D2	-0.0251417827128946	2.12
+zccs2797	Sarcoma	OST	Osteosarcoma	D1	-1.22970215140495	0.14
+zccs2811	CNS	Choroid plexus tumour	Choroid plexus carcinoma, TP53-wildtype	D1	-0.0738274901816855	1.87
+zccs2812	HM	TALL/lymphoma	T-lymphoblastic leukaemia	D1	-0.414116336709389	0.87
+zccs2818	Solid tumour	WT	Wilms tumour	D1	1.67940782620629	96.39
+zccs2819	HM	AML	Acute promyelocytic leukaemia	D1	0.413841496655508	5.59
+zccs2824	HM	Myeloproliferative neoplasm	Juvenile myelomonocytic leukaemia	D1	-1.33153585000312	0.11
+zccs2842	Solid tumour	Carcinoma	Papillary thyroid carcinoma	D1	-0.186151164243024	1.45
+zccs2843	CNS	HGG	Diffuse hemispheric glioma, H3 G34-mutant	D1	1.27461513908915	38.66
+zccs2845	CNS	Craniopharyngioma	Adamantinomatous craniopharyngioma	D1	0.546744976294021	7.54
+zccs2852	Solid tumour	Bone tumours other	Psammomatoid ossifying fibroma	D1	-1.48007125771711	0.08
+zccs2853	CNS	LGG	Rosette-forming glioneuronal tumour	P1	0.660139907379252	9.73
+zccs2858	HM	AML	Acute myeloid leukaemia	D1	-0.507064576171683	0.71
+zccs2859	HM	Burkitt lymphoma	Burkitt lymphoma	D1	-0.422573905727172	0.86
+zccs2862	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-4.4627628334924	0
+zccs2877	Sarcoma	RMS FOXO1 fusion negative	Spindle cell rhabdomyosarcoma	D1	0.844320251328756	14.73
+zccs2881	CNS	LGG	Pilocytic astrocytoma	D1	0.400806762323896	5.48
+zccs2885	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.13814932382094	0.17
+zccs2892	Solid tumour	Fibroblastic and myofibroblastic tumour	Calcifying aponeurotic fibroma	D1	-0.409878522112799	0.87
+zccs2954	HM	TALL/lymphoma	T-lymphoblastic leukaemia	D1	-2.08145093449291	0.02
+zccs2967	HM	AML	Acute myeloid leukaemia	D1	-0.673460806447062	0.48
+zccs2980	Sarcoma	EWS	Ewing sarcoma, soft tissue	D1	0.407464886348914	5.44
+zccs2987	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.631618784927369	0.52
+zccs2989	CNS	LGG	Pilocytic astrocytoma	D1	0.531422142232918	7.18
+zccs2993	Solid tumour	Carcinoma	Nasopharyngeal carcinoma	D1	-0.615893987416158	0.54
+zccs3005	CNS	LGG	Oligodendroglioma, IDH-mutant and 1p/19q-codeleted, WHO G2	D1	0.329902738211444	4.56
+zccs3017	CNS	Craniopharyngioma	Adamantinomatous craniopharyngioma	D1	1.01733784420466	21.62
+zccs3019	Solid tumour	Fibroblastic and myofibroblastic tumour	Calcifying aponeurotic fibroma	D1	-0.163390289265865	1.49
+zccs3022	HM	TALL/lymphoma	T-lymphoblastic lymphoma	D1	-1.17684395155574	0.15
+zccs3031	CNS	Meningioma	Meningioma WHO G2	D1	-1.14835537993978	0.16
+zccs3034	CNS	LGG	Ganglioglioma	R1	0.207224817722944	3.45
+zccs3042	Solid tumour	Neuroendocrine tumour	Small cell lung carcinoma	D1	-0.478160496821443	0.73
+zccs3043	Solid tumour	WT	Wilms tumour	D1	-0.0671099623084763	1.85
+zccs3044	Solid tumour	Neuroendocrine tumour	Neuroendocrine carcinoma	D1	0.308884602080092	4.34
+zccs3049	CNS	MB-SHH	Medulloblastoma, SHH-activated and TP53-wildtype	D1	1.14920187559756	29.11
+zccs3050	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.07270812408151	0.19
+zccs3060	Sarcoma	Fibroblastic and myofibroblastic tumour	Inflammatory myofibroblastic tumour	D1	-1.35611609145338	0.1
+zccs3061	CNS	LGG	Angiocentric glioma	D1	-0.703152196384241	0.44
+zccs3068	CNS	LGG	Pilocytic astrocytoma	D1	0.485817539917831	6.46
+zccs3069	HM	Mature T lymphoma	Peripheral T-cell lymphoma	D1	-0.791148922631981	0.36
+zccs3072	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	R2	-0.266440696547429	1.18
+zccs3073	Sarcoma	OST	Osteosarcoma	D1	-0.304936576805051	1.08
+zccs3076	CNS	Meningioma	Meningioma WHO G1	D1	-1.17817535275322	0.15
+zccs3085	Solid tumour	Hepatoblastoma/HCC	Hepatoblastoma	D1	1.16128466277984	29.63
+zccs3091	HM	TALL/lymphoma	T-lymphoblastic leukaemia	D1	-2.06465986270414	0.02
+zccs3098	Sarcoma	Sarcoma other	BCOR-rearranged sarcoma	D1	0.631329218173012	8.93
+zccs3111	CNS	HGG	Astrocytoma, NOS WHO G3	D1	0.538333777319512	7.23
+zccs3115	CNS	LGG	Pilocytic astrocytoma	D1	0.0689315932949307	2.51
+zccs3123	HM	AML	Therapy-related acute myeloid leukaemia	D2	-0.181728104599401	1.42
+zccs3124	CNS	MB-non WNT/non-SHH	Medulloblastoma, non-WNT/non-SHH	D1	0.959168031404004	18.71
+zccs1646	Sarcoma	Sarcoma other	BCOR-rearranged sarcoma	R1	0.343004301085762	4.65
+zccs3136	Sarcoma	OST	Osteosarcoma	R1	0.057745662136826	2.44
+zccs1622	Sarcoma	EWS	Ewing sarcoma, bone	R2	-0.610304220354621	0.54
+zccs3159	CNS	MB-SHH	Medulloblastoma, SHH-activated and TP53-wildtype	D1	1.35338043935741	45.69
+zccs3160	HM	TALL/lymphoma	T-lymphoblastic leukaemia	D1	-0.228764738407686	1.28
+zccs3171	Sarcoma	RMS FOXO1 fusion positive	Alveolar rhabdomyosarcoma	R1	1.52692563567134	67.63
+zccs3172	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.12257397802187	0.17
+zccs3193	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.508576592707485	0.68
+zccs3194	Sarcoma	EWS	Ewing sarcoma, bone	R1	0.29093438989196	4.14
+zccs3223	Sarcoma	EWS	Ewing sarcoma, bone	D1	0.245349654271782	3.74
+zccs405	CNS	HGG	Astrocytoma, NOS WHO G4	D2	0.791455278226221	12.86
+zccs3225	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.916879006065073	0.27
+zccs3230	CNS	HGG	Diffuse high grade glioma, H3-wildtype and IDH-wildtype	D2	0.952299257699955	18.25
+zccs3238	HM	Hodgkin lymphoma	Hodgkin lymphoma	D1	-0.90205611424493	0.28
+zccs3244	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.828546206433796	0.33
+zccs3247	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.04949179073245	0.2
+zccs3248	Sarcoma	RMS FOXO1 fusion negative	Embryonal rhabdomyosarcoma	D1	0.413739847080474	5.39
+zccs3249	Solid tumour	Fibroblastic and myofibroblastic tumour	Desmoid fibromatosis	D1	-0.368347600190124	0.92
+zccs3263	CNS	LGG	Ganglioglioma	D1	-0.403806154532852	0.85
+zccs3279	Solid tumour	Neuroendocrine tumour	Pheochromocytoma	D1	0.288318222850418	4.06
+zccs3281	CNS	LGG	Pilocytic astrocytoma	D1	0.140912821290404	2.91
+zccs3282	CNS	LGG	Pilocytic astrocytoma	D1	0.433628738907734	5.63
+zccs3286	Solid tumour	WT	Wilms tumour	D1	1.25324595358482	35.82
+zccs3287	CNS	LGG	Pilocytic astrocytoma	D1	0.23351861929768	3.56
+zccs3288	HM	TALL/lymphoma	T-lymphoblastic leukaemia	D1	-0.292985636743897	1.09
+zccs3289	Solid tumour	Bone tumours other	Fibrous dysplasia	B1	0.0297061213655055	2.26
+zccs3290	HM	AML	Acute myeloid leukaemia	D1	0.91567965240969	16.73
+zccs3304	Solid tumour	Hepatoblastoma/HCC	Hepatoblastoma	D1	-0.3981014828527	0.86
+zccs3319	HM	Mature T lymphoma	Anaplastic large cell lymphoma, ALK fusion-positive	D1	-1.55766715234845	0.06
+zccs3325	CNS	DMG	Diffuse midline glioma, H3 K27-altered, H3 K27M mutation	D1	0.835935600705287	13.88
+zccs3327	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.537225698690084	0.61
+zccs3334	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.63875307547811	0.05
+zccs3336	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.02760084015665	0.2
+zccs3337	CNS	LGG	Pilocytic astrocytoma	D1	0.26136960368522	3.75
+zccs1570	HM	AML	Therapy-related acute myeloid leukaemia	R2	1.71427728846726	102.12
+zccs3344	Solid tumour	Carcinoma	Papillary thyroid carcinoma	D1	-0.688200022675931	0.43
+zccs3360	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.56039261635033	0.06
+zccs3361	Solid tumour	Carcinoma	Papillary thyroid carcinoma	D1	-0.584989933273133	0.55
+zccs3364	Solid tumour	Neuroendocrine tumour	Insulin-producing pancreatic neuroendocrine tumour	D1	0.684079924067628	9.83
+zccs3371	CNS	Germ cell tumour	Germinoma, CNS	D1	0.530722154198635	6.86
+zccs3372	HM	TALL/lymphoma	T-lymphoblastic lymphoma	D1	-0.73630049387681	0.39
+zccs3377	HM	Acute leukaemia	Mixed phenotype acute leukaemia	D1	-1.63389056448321	0.05
+zccs3380	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.730418691021482	0.39
+zccs3401	HM	Histiocytosis	Langerhans cell histiocytosis	P2	-0.0637208267721843	1.74
+zccs3405	Sarcoma	EWS	Ewing sarcoma, bone	D1	-0.743613776981057	0.37
+zccs3420	CNS	LGG	Pilocytic astrocytoma	P1	0.167273429477458	2.92
+zccs3422	Solid tumour	Non-diagnostic	Non-diagnostic	D2	-0.0367995756348914	1.85
+zccs3428	Solid tumour	Non-diagnostic	Non-diagnostic	D2	0.511573296862032	6.4
+zccs3429	HM	Burkitt lymphoma	Burkitt lymphoma	D1	-1.85014784373657	0.03
+zccs3435	HM	Acute leukaemia	Burkitt leukaemia	D1	-0.191166308915291	1.29
+zccs3443	Solid tumour	Bone tumours other	Desmoplastic fibroma of bone	D1	-0.336553158011728	0.93
+zccs3444	Solid tumour	Fibroblastic and myofibroblastic tumour	Spindle cell neoplasm	D1	-0.360846294624986	0.88
+zccs3451	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.990702758887552	0.21
+zccs3465	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.71998236534027	0.04
+zccs3486	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.97153945661659	0.22
+zccs3496	HM	AML	Acute myeloid leukaemia	D1	1.28303076129818	36.89
+zccs3502	Solid tumour	Melanocytic tumour	Malignant melanoma	D1	-1.62322991799633	0.05
+zccs3508	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.56752477865433	0.55
+zccs3509	CNS	LGG	Ganglioglioma	D1	-0.0240577477933197	1.89
+zccs3512	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.592218908910217	0.52
+zccs3520	HM	TALL/lymphoma	T-lymphoblastic leukaemia	D1	-0.247549390205188	1.14
+zccs3525	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	R1	-1.11209460912568	0.16
+zccs3536	Sarcoma	RMS FOXO1 fusion negative	Spindle cell rhabdomyosarcoma	D1	1.0628011629744	22.29
+zccs3548	Sarcoma	RMS FOXO1 fusion positive	Alveolar rhabdomyosarcoma	D1	0.98541148213998	18.7
+zccs3550	Solid tumour	Germ cell tumour	Yolk sac tumour, non-CNS	D1	1.12931363286664	25.76
+zccs3551	Solid tumour	Germ cell tumour	Mixed germ cell tumour, non-CNS	D1	-0.485794456890972	0.66
+zccs3576	CNS	DMG	Diffuse midline glioma, H3 K27-altered, H3 K27M mutation	D1	1.01951995759328	20.08
+zccs3577	CNS	LGG	Glioneuronal tumour, NOS, low grade	D1	0.155038372818765	2.82
+zccs3579	Solid tumour	Hepatoblastoma/HCC	Hepatoblastoma	D1	0.971984643247804	17.95
+zccs3604	CNS	LGG	Subependymal giant cell astrocytoma	D1	-1.08637701645577	0.17
+zccs3608	Solid tumour	Solid other	Lipoblastoma	D1	-0.915900705418197	0.25
+zccs3610	HM	Acute leukaemia	Mixed phenotype acute leukaemia	D1	1.11797396824348	24.9
+zccs3625	CNS	LGG	Pilocytic astrocytoma	P2	0.470468703897301	5.77
+zccs3626	CNS	CNS other	Intracranial mesenchymal tumour with PDGFRB mutation	D1	-1.17152680304042	0.14
+zccs3631	Sarcoma	Fibroblastic and myofibroblastic tumour	Inflammatory myofibroblastic tumour	D1	-0.952035990888709	0.23
+zccs3632	HM	Mature B lymphoma	Large B-cell lymphoma with IRF4 rearrangement	D1	-1.54441649316554	0.06
+zccs3657	Sarcoma	Sarcoma other	EWSR1-rearranged sarcoma, non-ETS fusion	D1	-0.880531358346228	0.27
+zccs3663	HM	AML	Acute megakaryoblastic leukaemia	D1	0.912526588705617	15.6
+zccs3665	Solid tumour	Fibroblastic and myofibroblastic tumour	Desmoid fibromatosis	D1	-1.03263725257574	0.19
+zccs3673	Sarcoma	EWS	Ewing sarcoma, bone	D1	0.30543633174809	3.94
+zccs3679	Solid tumour	Solid other	Retinoblastoma	D1	1.51808687483715	61.14
+zccs3680	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	R1	-2.02642485875717	0.02
+zccs3710	CNS	LGG	Pilocytic astrocytoma	D1	0.190412582654165	3.01
+zccs3716	CNS	Pituitary tumour	Pituitary adenoma	D1	-1.8450990468878	0.03
+zccs3721	CNS	CNS embryonal	CNS neuroblastoma, FOXR2-activated	D1	-0.156856897208419	1.37
+zccs3728	Sarcoma	RMS FOXO1 fusion negative	Embryonal rhabdomyosarcoma	D1	0.300272209145222	3.86
+zccs3741	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.71803372896499	0.04
+zccs1629	HM	MDS	Therapy-related myelodysplastic syndrome	D1	-0.720205556155683	0.38
+zccs3753	HM	TALL/lymphoma	T-lymphoblastic lymphoma	D1	0.244460560992654	3.38
+zccs3768	Solid tumour	Thyroid other	Follicular adenoma	D1	0.0113180484075719	2
+zccs3780	Sarcoma	OST	Osteosarcoma	R1	-1.13349626737442	0.15
+zccs3788	Solid tumour	Neuroendocrine tumour	Paraganglioma	D1	0.546266105002557	6.69
+zccs3795	CNS	MB-SHH	Medulloblastoma, SHH-activated and TP53-mutant	D1	1.20060118105858	29.72
+zccs3798	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.20088800927021	0.13
+zccs3808	HM	TALL/lymphoma	T-lymphoblastic leukaemia	D1	-2.02869490922017	0.02
+zccs3812	Solid tumour	Thyroid other	Follicular adenoma	D1	0.183196673900567	2.98
+zccs3838	Sarcoma	MPNST	Malignant peripheral nerve sheath tumour	D1	-0.117073416708379	1.5
+zccs3849	HM	TALL/lymphoma	T-lymphoblastic leukaemia	D1	-0.679393922910709	0.42
+zccs3850	Sarcoma	OST	Osteosarcoma	D1	-1.36328986723142	0.09
+zccs3852	CNS	LGG	Pilocytic astrocytoma	D1	0.161195705830267	2.82
+zccs3854	HM	TALL/lymphoma	T-lymphoblastic lymphoma	D1	-0.669125752299807	0.43
+zccs3873	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.5426657173971	0.06
+zccs3877	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.31667272014001	0.1
+zccs3880	CNS	Germ cell tumour	Mixed germ cell tumour, CNS	D1	0.316164505960161	4.02
+zccs3881	CNS	LGG	Ganglioglioma	D1	0.00973475113867152	2.01
+zccs3882	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.595809259917867	0.51
+zccs3887	HM	Mature B lymphoma	Primary mediastinal large B cell lymphoma	D1	-0.831458847582828	0.3
+zccs3894	CNS	LGG	Glioneuronal tumour, NOS, low grade	D1	-0.402181701616352	0.79
+zccs3896	HM	Acute leukaemia	Mixed phenotype acute leukaemia	D1	-0.236047304772549	1.15
+zccs3905	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.84937490902824	0.03
+zccs3906	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.749918835960143	0.36
+zccs3920	Sarcoma	EWS	Ewing sarcoma, soft tissue	D1	-0.283007823223012	1.03
+zccs3921	Solid tumour	WT	Wilms tumour	D1	1.00772608430229	19.01
+zccs3936	Solid tumour	Neuroendocrine tumour	Pheochromocytoma	D1	0.592058783576996	7.35
+zccs3945	CNS	MB-non WNT/non-SHH	Medulloblastoma, non-WNT/non-SHH	D1	0.837054390784766	12.83
+zccs3949	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.40577053070256	0.08
+zccs3968	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.615926317982549	0.48
+zccs3971	Vascular/lymphatic anomalies	Vascular/lymphatic anomalies	Giant cell angioblastoma	P2	0.281707410946631	3.68
+zccs3974	Solid tumour	Solid other	Mesoblastic nephroma	D1	-0.600881878460721	0.5
+zccs3980	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.889466947782175	0.26
+zccs3992	HM	Acute leukaemia	Burkitt leukaemia	R1	-0.502161339655596	0.62
+zccs3999	HM	MDS	Myelodysplastic syndrome	D1	-1.83550639105962	0.03
+zccs4007	HM	Mature B lymphoma	Large B-cell lymphoma with IRF4 rearrangement	D1	-0.621531932106347	0.47
+zccs4009	Sarcoma	EWS	Ewing sarcoma, soft tissue	D1	-0.134110214727567	1.42
+zccs4012	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.804989818060196	0.31
+zccs4013	Solid tumour	WT	Wilms tumour	D1	1.04152365617537	20.44
+zccs4045	Sarcoma	Fibroblastic and myofibroblastic tumour	Dermatofibrosarcoma protuberans	D1	-0.2888617624674	1
+zccs4047	Sarcoma	OST	Osteosarcoma	R1	-0.976912764774901	0.21
+zccs4055	HM	PreB ALL/lymphoma	B-lymphoblastic lymphoma	R1	-1.2619946927376	0.11
+zccs4060	HM	TALL/lymphoma	T-lymphoblastic lymphoma	D1	0.142458034149252	2.66
+zccs4087	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.3029358694763	0.1
+zccs4089	Solid tumour	Hepatoblastoma/HCC	Hepatocellular carcinoma	D1	0.800776504679129	11.69
+zccs4099	Solid tumour	Neuroendocrine tumour	Paraganglioma	D1	0.392001500173402	4.65
+zccs4100	HM	AML	Acute myeloid leukaemia	D1	-0.93524571915084	0.23
+zccs4105	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.70743507313178	0.04
+zccs4106	Solid tumour	Hepatoblastoma/HCC	Hepatoblastoma	D1	1.15034055667731	25.8
+zccs4116	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.4005249234485	0.08
+zccs4128	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	R3	-1.25988983581509	0.11
+zccs1075	CNS	LGG	Pilocytic astrocytoma	D1	0.43736805755939	7.58
+zccs1077	Sarcoma	RMS FOXO1 fusion negative	Spindle cell rhabdomyosarcoma	D1	0.441197234261386	7.36
+zccs1078	Sarcoma	Rhabdoid tumour	Malignant rhabdoid tumour, renal	D1	0.548760333009857	9.4
+zccs1080	Sarcoma	RMS FOXO1 fusion negative	Embryonal rhabdomyosarcoma	D1	-0.958977490704016	0.32
+zccs1081	Sarcoma	RMS FOXO1 fusion negative	Embryonal rhabdomyosarcoma	D1	0.512828841064994	8.63
+zccs1082	CNS	LGG	Pilocytic astrocytoma	D1	0.231753625995312	4.61
+zccs1083	Sarcoma	OST	Osteosarcoma	D1	-1.26180921950848	0.17
+zccs1084	Sarcoma	OST	Osteosarcoma	D1	-0.840771366537966	0.43
+zccs1085	Sarcoma	Rhabdoid tumour	Malignant rhabdoid tumour, non-renal/hepatic	D1	-1.49744850894277	0.1
+zccs1087	CNS	LGG	Diffuse leptomeningeal glioneuronal tumour	P1	-0.801926057455074	0.47
+zccs1088	Sarcoma	RMS FOXO1 fusion negative	Embryonal rhabdomyosarcoma	D1	0.803686819230984	16.37
+zccs1757	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.46064026622518	0.11
+zccs1794	CNS	LGG	Subependymal giant cell astrocytoma	D1	-1.46645871536671	0.11
+zccs1829	CNS	Rhabdoid tumour	Atypical teratoid rhabdoid tumour	D1	0.746051484504333	14.43
+zccs1837	HM	Mature B lymphoma	Diffuse large B cell lymphoma	D1	-0.825826034454102	0.45
+zccs1862	HM	Hodgkin lymphoma	Hodgkin lymphoma	D1	-0.74187862146253	0.53
+zccs1874	CNS	HGG	Diffuse high grade glioma, H3-wildtype and IDH-wildtype	D1	2.25931220430486	402.44
+zccs1897	CNS	ETMR	Embryonal tumour with multilayered rosettes, C19MC-altered	E1	0.919200135733666	20.58
+zccs1898	CNS	LGG	Pilocytic astrocytoma	D1	0.127573326225901	3.6
+zccs1914	Solid tumour	WT	Wilms tumour	D1	0.22041450248898	4.43
+zccs2007	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-2.03042839964592	0.03
+zccs2034	CNS	Choroid plexus tumour	Atypical choroid plexus papilloma	D1	0.200076596375987	4.06
+zccs2035	Overgrowth syndrome	Overgrowth syndrome	PIK3CA-related overgrowth tumour	D1	-1.10674738508382	0.23
+zccs2109	CNS	LGG	Pilocytic astrocytoma	D1	0.48873750345506	7.35
+zccs2165	HM	Mature B lymphoma	Primary mediastinal large B cell lymphoma	D1	-0.763268334959828	0.48
+zccs2249	CNS	LGG	Pilocytic astrocytoma	D1	0.238583609766079	4.33
+zccs2283	HM	Hodgkin lymphoma	Hodgkin lymphoma	R1	-0.748751231792286	0.47
+zccs2400	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.430661679958621	0.95
+zccs2408	HM	TALL/lymphoma	T-lymphoblastic leukaemia	D1	-1.75469576010443	0.05
+zccs2479	CNS	MB-SHH	Medulloblastoma, SHH-activated and TP53-wildtype	D1	1.49047568861799	66.75
+zccs2507	HM	Acute leukaemia	Burkitt leukaemia	D1	-0.478019662521805	0.85
+zccs2538	HM	Hodgkin lymphoma	Hodgkin lymphoma	D1	-0.772490418791257	0.44
+zccs2599	CNS	Meningioma	Meningioma WHO Grade unknown	D1	-1.44230954468633	0.09
+zccs2601	CNS	EPN	Spinal ependymoma, non-MYCN-amplified, WHO G2	D1	0.677091150961424	10.12
+zccs2638	Sarcoma	Rhabdoid tumour	Malignant rhabdoid tumour, non-renal/hepatic	D1	-0.0613923095852301	2.02
+zccs2650	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.30241695579427	0.12
+zccs2675	HM	Hodgkin lymphoma	Hodgkin lymphoma	D1	-0.691631677437444	0.49
+zccs2794	CNS	LGG	Dysembryoplastic neuroepithelial tumour	D1	0.0488666279666059	2.41
+zccs2821	CNS	MB-non WNT/non-SHH	Medulloblastoma, non-WNT/non-SHH	D1	0.513096659965745	7.06
+zccs2863	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.52384763052734	0.07
+zccs2876	HM	AML	Acute myeloid leukaemia	D1	-2.39437419886565	0.01
+zccs312	CNS	EPN-PFA	Posterior fossa A ependymoma, group PFA, WHO Grade unknown	P4	-0.361610086267308	0.97
+zccs2970	Solid tumour	Carcinoma	Papillary thyroid carcinoma	D1	-0.366203685148572	0.96
+zccs2996	CNS	MB-SHH	Medulloblastoma, SHH-activated and TP53-wildtype	D1	1.6007187783156	79.96
+zccs3033	Solid tumour	WT	Wilms tumour	D1	1.2254458294451	34.42
+zccs3036	Sarcoma	OST	Osteosarcoma	D2	-0.395863332683359	0.88
+zccs3047	CNS	DMG	Diffuse midline glioma, H3 K27-altered, H3 K27M mutation	D1	1.32163150055654	43.03
+zccs3070	CNS	LGG	Pilocytic astrocytoma	D1	0.787367513427137	12.52
+zccs3071	Sarcoma	RMS FOXO1 fusion negative	Embryonal rhabdomyosarcoma	D1	-0.827348539018547	0.33
+zccs3089	CNS	MB-non WNT/non-SHH	Medulloblastoma, non-WNT/non-SHH	D1	0.760350372561009	11.94
+zccs3103	CNS	DMG	Diffuse midline glioma, H3 K27-altered, H3 K27M mutation	D1	0.101150971891663	2.69
+zccs3163	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.12126777828081	0.17
+zccs3182	Sarcoma	EWS	Ewing sarcoma, soft tissue	D1	0.53745527891914	7.24
+zccs3200	CNS	LGG	Pilocytic astrocytoma	D1	0.212045560137501	3.47
+zccs3209	Solid tumour	Germ cell tumour	Immature teratoma, non-CNS	D1	-0.215219096688542	1.32
+zccs3218	HM	Mature T lymphoma	Anaplastic large cell lymphoma, ALK fusion-positive	D1	-1.40235578545889	0.09
+zccs3234	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.917300124887465	0.27
+zccs1244	Solid tumour	Adrenal cortical tumour	Adrenocortical carcinoma	P4	-1.30885427099132	0.11
+zccs3274	HM	TALL/lymphoma	T-lymphoblastic leukaemia	D1	0.260827058232524	3.81
+zccs3278	CNS	MB	Medulloblastoma, histologically defined	D1	0.684724241809516	9.95
+zccs3342	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.21985315131405	0.13
+zccs3362	Solid tumour	WT	Wilms tumour	D1	0.613470410278542	8.28
+zccs3398	CNS	LGG	Diffuse astrocytoma, MYB or MYBL1-altered	D1	0.0291996123450981	2.15
+zccs3412	CNS	LGG	Pilocytic astrocytoma	D1	-0.0687979741347459	1.72
+zccs3418	CNS	HGG	Diffuse high grade glioma, H3-wildtype and IDH-wildtype	D1	0.405216366436126	5.06
+zccs3474	Solid tumour	WT	Wilms tumour	D1	-0.544471969034903	0.58
+zccs3530	Sarcoma	Desmoplastic small round cell tumour	Desmoplastic small round cell tumour	D1	-0.103842316972985	1.58
+zccs3544	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.20177996502931	0.13
+zccs3605	CNS	LGG	Desmoplastic infantile ganglioglioma and astrocytoma	D1	0.407238936751366	5
+zccs3634	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.559213761618109	0.55
+zccs3645	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	R1	-2.02933327267424	0.02
+zccs3650	HM	Mature B lymphoma	Primary mediastinal large B cell lymphoma	D1	-1.47370168094373	0.07
+zccs3660	HM	TALL/lymphoma	T-lymphoblastic leukaemia	D1	0.16473487445636	2.84
+zccs3698	CNS	HGG	Diffuse high grade glioma, H3-wildtype and IDH-wildtype	D1	1.22237727256559	31.26
+zccs3702	CNS	LGG	Pilocytic astrocytoma	D1	0.365503291743721	4.46
+zccs3713	HM	TALL/lymphoma	T-lymphoblastic leukaemia	D1	1.04024229018173	20.7
+zccs3717	CNS	EPN-PFA	Posterior fossa A ependymoma, group PFA, WHO G3	D1	0.44908319280267	5.41
+zccs3740	CNS	LGG	Pilocytic astrocytoma	R1	-0.141418950544008	1.42
+zccs3771	HM	TALL/lymphoma	T-lymphoblastic leukaemia	D1	-1.84354302501687	0.03
+zccs3787	HM	AML	Acute myeloid leukaemia	D1	1.09876941298297	23.58
+zccs3790	HM	Hodgkin lymphoma	Hodgkin lymphoma	D1	-1.00466010522004	0.2
+zccs3824	CNS	LGG	Pilocytic astrocytoma	D1	0.412270443829919	4.98
+zccs3844	HM	AML	Acute myeloid leukaemia	D1	-0.583746924446385	0.52
+zccs3851	CNS	Schwannoma	Vestibular schwannoma	D1	-0.649054371892454	0.45
+zccs3912	CNS	MB	Medulloblastoma, histologically defined	D1	0.343455188422582	4.24
+zccs3913	HM	TALL/lymphoma	T-lymphoblastic leukaemia	D1	-1.83547756005737	0.03
+zccs3923	HM	AML	Acute myeloid leukaemia	D1	0.865867855157641	13.67
+zccs3926	Sarcoma	OST	Osteosarcoma	D1	-0.558820429327226	0.55
+zccs3927	Sarcoma	RMS FOXO1 fusion negative	Embryonal rhabdomyosarcoma	D1	0.263987221974682	3.5
+zccs3934	CNS	LGG	Pilocytic astrocytoma	D1	0.456917644216587	5.42
+zccs3976	HM	AML	Acute myeloid leukaemia	D1	1.13659945539781	25.32
+zccs4015	HM	AML	Acute myeloid leukaemia	D1	-0.11102272748078	1.5
+zccs4057	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.544489399939605	0.56
+zccs1090	CNS	MB-non WNT/non-SHH	Medulloblastoma, non-WNT/non-SHH	D1	0.676327405807535	12.94
+zccs1093	CNS	MB-non WNT/non-SHH	Medulloblastoma, non-WNT/non-SHH	D1	0.353183433318389	6.14
+zccs1094	CNS	DMG	Diffuse midline glioma, H3 K27-altered, H3 K27M mutation	D1	0.259477121573103	4.96
+zccs1096	CNS	LGG	Central neurocytoma	P2	0.47578536571014	8.16
+zccs1097	Solid tumour	Carcinoma	Colorectal carcinoma	D1	-0.80825799114898	0.44
+zccs1098	Solid tumour	Germ cell tumour	Teratoma with somatic-type malignancy, non-CNS	D1	0.30829301623555	5.58
+zccs1099	CNS	LGG	Pilocytic astrocytoma	P5	0.191426329832478	4.28
+zccs1100	CNS	MB-non WNT/non-SHH	Medulloblastoma, non-WNT/non-SHH	D1	0.589603413941184	10.62
+zccs1101	CNS	MB-non WNT/non-SHH	Medulloblastoma, non-WNT/non-SHH	D1	0.356078939645537	6.26
+zccs1102	Solid tumour	Neuroendocrine tumour	Pheochromocytoma	D1	-0.0270601877228693	2.63
+zccs1103	HM	AML	Acute myeloid leukaemia	P1	-4.52503366110135	0
+zccs1104	Sarcoma	EWS	Ewing sarcoma, bone	P1	0.329480109573094	4.86
+zccs1105	CNS	Germ cell tumour	Mixed germ cell tumour, CNS	P1	0.904761209803204	20.48
+zccs1106	Solid tumour	Fibroblastic and myofibroblastic tumour	Desmoid fibromatosis	D1	-0.901433428663235	0.36
+zccs1107	CNS	MB-non WNT/non-SHH	Medulloblastoma, non-WNT/non-SHH	D1	0.529278246392909	9.35
+zccs1108	CNS	HGG	Diffuse hemispheric glioma, H3 G34-mutant	D1	0.153018688799603	3.96
+zccs1109	Solid tumour	Carcinoma	Papillary thyroid carcinoma	D1	-0.564176958106931	0.77
+zccs1110	HM	TALL/lymphoma	T-lymphoblastic leukaemia	R1	-1.56213098932172	0.08
+zccs1111	Solid tumour	Hepatoblastoma/HCC	Hepatocellular malignant neoplasm, NOS	D1	-0.557966104038217	0.78
+zccs1112	Solid tumour	Hepatoblastoma/HCC	Hepatoblastoma	P1	0.585896753183285	10.56
+zccs1113	Solid tumour	Solid other	Retinoblastoma	D1	1.25179025092638	47.48
+zccs1114	CNS	EPN	Ependymoma, NOS, WHO G2	D1	-0.238282450448036	1.58
+zccs1115	Vascular/lymphatic anomalies	Vascular/lymphatic anomalies	Kaposiform haemangioendothelioma	D1	-0.748307725417866	0.5
+zccs1116	Vascular/lymphatic anomalies	Vascular/lymphatic anomalies	Capillary haemangioma	D1	-0.0133914383511899	2.63
+zccs1117	CNS	LGG	Astrocytoma, IDH-mutant WHO G2	D2	-0.3719518951559	1.17
+zccs1118	CNS	LGG	Pilocytic astrocytoma	D1	0.304280031267635	5.39
+zccs1120	Solid tumour	WT	Wilms tumour	R1	0.96024147991721	23.66
+zccs1379	CNS	CNS embryonal	CNS embryonal tumour with BCOR internal tandem duplication	R1	0.434918219705642	7.24
+zccs1123	Sarcoma	OST	Osteosarcoma	D1	-0.888996174123104	0.37
+zccs1124	CNS	MB-non WNT/non-SHH	Medulloblastoma, non-WNT/non-SHH	D1	0.449385485242587	7.48
+zccs1127	Sarcoma	Rhabdoid tumour	Malignant rhabdoid tumour, renal	D1	-1.52217290453256	0.09
+zccs1129	Sarcoma	EWS	Ewing sarcoma, soft tissue	D1	0.0438826139522938	3.01
+zccs1131	Sarcoma	Synovial sarcoma	Synovial sarcoma	D1	0.52043702484216	8.76
+zccs1132	Solid tumour	Solid other	Myopericytoma	D1	-0.420843798785328	1.08
+zccs1133	CNS	MB-non WNT/non-SHH	Medulloblastoma, non-WNT/non-SHH	D1	-0.686747807306561	0.59
+zccs1134	CNS	LGG	Pilocytic astrocytoma	P1	0.471130112371099	7.9
+zccs1340	Sarcoma	OST	Osteosarcoma	R6	-0.57689820179197	0.72
+zccs1137	Sarcoma	RMS FOXO1 fusion negative	Spindle cell rhabdomyosarcoma	P1	0.461958432114053	7.74
+zccs1138	CNS	LGG	Ganglioglioma	D1	0.451751606020148	7.56
+zccs1139	CNS	LGG	Pilocytic astrocytoma	D1	0.187291633370424	4.2
+zccs1141	Solid tumour	Germ cell tumour	Dysgerminoma	D1	0.671836783620692	12.23
+zccs1142	CNS	CNS other	Intracranial mesenchymal tumour, FET-CREB fusion-positive	D1	-0.783212880939769	0.49
+zccs1143	Sarcoma	OST	Osteosarcoma	D1	-1.18803356771205	0.2
+zccs1557	CNS	DMG	Diffuse midline glioma, H3 K27-altered, H3 K27M mutation	R1	0.593952225559723	10.28
+zccs1796	HM	AML	Acute myeloid leukaemia	R2	0.711979742491638	13.34
+zccs1145	Solid tumour	WT	Wilms tumour	D1	0.612242205296233	10.72
+zccs1751	Solid tumour	Hepatoblastoma/HCC	Hepatoblastoma	D1	0.432781130846085	7.17
+zccs1759	Solid tumour	Neuroendocrine tumour	Pheochromocytoma	D1	1.07257718079527	29.45
+zccs1762	Solid tumour	Solid other	Retinoblastoma	D1	1.06418810539009	29.03
+zccs1767	CNS	LGG	Diffuse low grade glioma, MAPK pathway altered	D1	0.233625308090242	4.64
+zccs1783	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.84576871369531	0.43
+zccs1786	Solid tumour	Fibroblastic and myofibroblastic tumour	NTRK-rearranged spindle cell neoplasm	D1	-0.136577840320824	2.06
+zccs1803	Solid tumour	Hepatoblastoma/HCC	Hepatoblastoma	D1	0.0661704304760564	3.22
+zccs1817	Solid tumour	Solid other	Parafibromin deficient parathyroid tumour	D1	-1.39152366065076	0.13
+zccs1820	Solid tumour	Fibroblastic and myofibroblastic tumour	Solitary fibrous tumour	D1	-1.09376304541492	0.25
+zccs1822	Sarcoma	RMS FOXO1 fusion negative	Embryonal rhabdomyosarcoma	D1	-0.112637158192745	2.17
+zccs1830	CNS	MB-non WNT/non-SHH	Medulloblastoma, non-WNT/non-SHH	D1	0.260165203012974	4.94
+zccs1835	CNS	DMG	Diffuse midline glioma, H3 K27-altered, no H3 K27M mutation	D1	0.878479951927106	19.37
+zccs1838	Sarcoma	OST	Osteosarcoma	D1	-1.01560321371138	0.29
+zccs1841	CNS	Craniopharyngioma	Adamantinomatous craniopharyngioma	D1	0.858868379649163	18.55
+zccs1843	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-2.55315990808356	0.01
+zccs1844	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.50919746791063	0.1
+zccs1850	CNS	ETMR	Embryonal tumour with multilayered rosettes, NOS	D1	1.40902791181992	61.59
+zccs1851	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.54549174882442	0.09
+zccs1854	HM	Mature T lymphoma	Anaplastic large cell lymphoma, ALK fusion-positive	D1	-1.61233199021535	0.08
+zccs1858	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-2.23411069820654	0.02
+zccs1864	CNS	LGG	Pilocytic astrocytoma	D1	0.386357353186384	6.41
+zccs1870	CNS	MB-SHH	Medulloblastoma, SHH-activated and TP53-wildtype	D1	1.44703050088111	66.53
+zccs1891	Sarcoma	Rhabdoid tumour	Malignant rhabdoid tumour, non-renal/hepatic	D1	-0.0662345633468074	2.36
+zccs1878	Solid tumour	Bone tumours other	Aneurysmal bone cyst	D1	-0.761848555555012	0.51
+zccs1882	CNS	EPN-PFA	Posterior fossa A ependymoma, group PFA, WHO G2	D1	-0.257361635923894	1.55
+zccs1884	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.191864961888141	1.79
+zccs1899	Solid tumour	Liver tumours other	Mesenchymal hamartoma of liver	D2	-1.81969606388527	0.05
+zccs1902	HM	AML	Acute myeloid leukaemia	R1	-1.92121794845736	0.04
+zccs1904	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.932170181336314	0.35
+zccs1905	Solid tumour	Solid other	Focal nodular hyperplasia	D1	-1.38618675785637	0.13
+zccs1918	Solid tumour	WT	Wilms tumour	D1	1.32430863264373	48.03
+zccs1923	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.400561772497146	1.13
+zccs1925	CNS	EPN	Myxopapillary ependymoma	D1	-0.069140824093725	2.31
+zccs1927	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.05305312061518	0.27
+zccs2020	CNS	Rhabdoid tumour	Atypical teratoid rhabdoid tumour	D1	1.01900563223855	25.45
+zccs1991	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.460473418462847	0.96
+zccs1992	HM	Mature B lymphoma	Diffuse large B cell lymphoma	D1	-0.844629209183386	0.41
+zccs2004	CNS	CNS other	CNS tumour, NEC	D1	0.0988574926425309	3.3
+zccs2009	Sarcoma	Angiosarcoma	Angiosarcoma	D1	-0.316216026824322	1.32
+zccs2015	Sarcoma	OST	Osteosarcoma	R1	-0.821747079599498	0.43
+zccs2032	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.53210480000644	0.09
+zccs2038	CNS	LGG	Pilocytic astrocytoma	D1	0.256366917970826	4.62
+zccs1604	Sarcoma	EWS	Ewing sarcoma, bone	P3	0.237837807405612	4.34
+zccs2046	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.58657624944053	0.08
+zccs2055	HM	AML	Acute myeloid leukaemia	D1	0.285178697504707	4.89
+zccs2067	CNS	MB-SHH	Medulloblastoma, SHH-activated and TP53-wildtype	D1	1.62842566909225	93.74
+zccs2072	CNS	LGG	Pilocytic astrocytoma	D1	0.214913041399647	4.16
+zccs2073	Sarcoma	OST	Osteosarcoma	R1	-0.66135573073251	0.61
+zccs2076	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-2.53159484304646	0.01
+zccs2079	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.278523729102264	1.42
+zccs2085	HM	Burkitt lymphoma	Burkitt lymphoma	D1	-1.48476897520949	0.1
+zccs2091	Solid tumour	WT	Wilms tumour	D1	1.16189341570287	33.75
+zccs2100	Solid tumour	Germ cell tumour	Immature teratoma, non-CNS	D1	0.34932066167152	5.65
+zccs2102	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	R1	-1.43717789751793	0.11
+zccs2106	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	R2	-0.674490426139332	0.59
+zccs2113	Solid tumour	Carcinoma	Papillary thyroid carcinoma	D1	0.24241997524084	4.37
+zccs2117	Sarcoma	OST	Osteosarcoma	D1	-0.982634886478827	0.3
+zccs2118	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.14342998134731	0.21
+zccs2120	HM	Burkitt lymphoma	Burkitt lymphoma	D1	-0.851850444726522	0.4
+zccs2128	HM	AML	Acute myeloid leukaemia	D1	0.919279290029488	19.68
+zccs2131	CNS	DMG	Diffuse midline glioma, H3 K27-altered, H3 K27M mutation	D1	-0.312723395536659	1.3
+zccs2157	Solid tumour	WT	Wilms tumour	D1	1.2289188528129	38.56
+zccs2164	HM	Acute leukaemia	Burkitt leukaemia	D1	-1.79055191543457	0.05
+zccs2168	Sarcoma	OST	Osteosarcoma	D1	-0.613646408976007	0.63
+zccs2205	Sarcoma	EWS	Ewing sarcoma, soft tissue	D1	0.073374938134146	3.02
+zccs2212	Solid tumour	Solid other	Retinoblastoma	D1	1.41140743481735	57.71
+zccs2241	HM	TALL/lymphoma	T-lymphoblastic leukaemia	R1	-1.70581443133217	0.06
+zccs2244	Solid tumour	Melanocytic tumour	Malignant melanoma	D1	-0.477413555939606	0.87
+zccs2259	Sarcoma	OST	Osteosarcoma	R1	-0.939691167346345	0.26
+zccs2266	Sarcoma	OST	Osteosarcoma	R3	-1.83331176943623	0.03
+zccs2389	Sarcoma	RMS FOXO1 fusion negative	Embryonal rhabdomyosarcoma	D1	0.571559082641057	8.94
+zccs2289	Sarcoma	RMS FOXO1 fusion negative	Embryonal rhabdomyosarcoma	D1	1.15522109142376	32.59
+zccs2319	HM	TALL/lymphoma	T-lymphoblastic leukaemia	D1	0.779941964684402	14.05
+zccs2328	CNS	MB-WNT	Medulloblastoma, WNT-activated	D1	1.08251010250951	27.72
+zccs2340	CNS	EPN-PFA	Posterior fossa A ependymoma, group PFA, WHO G3	D1	0.288794272476646	4.71
+zccs2380	HM	TALL/lymphoma	T-lymphoblastic lymphoma	D1	-1.67493690452336	0.06
+zccs2386	Solid tumour	WT	Wilms tumour	D1	1.17409862794727	33.73
+zccs2393	CNS	LGG	Pilocytic astrocytoma	D1	0.0572051848037529	2.79
+zccs2394	HM	TALL/lymphoma	T-lymphoblastic leukaemia	D1	0.992931702711187	22.53
+zccs2395	HM	AML	Acute myeloid leukaemia	D1	-1.17318145288528	0.18
+zccs2397	HM	TALL/lymphoma	T-lymphoblastic lymphoma	D1	-0.747391771223873	0.47
+zccs2443	CNS	MB-WNT	Medulloblastoma, WNT-activated	D1	1.00127113875643	22.82
+zccs2461	Solid tumour	Solid other	Mesoblastic nephroma	D1	-1.40306430409343	0.11
+zccs2468	HM	TALL/lymphoma	T-lymphoblastic leukaemia	D1	-0.118794100167672	1.9
+zccs2477	CNS	MB-non WNT/non-SHH	Medulloblastoma, non-WNT/non-SHH	D1	0.181036366617458	3.68
+zccs2480	CNS	EPN-PFB	Posterior fossa B ependymoma, group PFB, WHO G2	D1	-0.264153471643199	1.37
+zccs2493	Solid tumour	Solid other	Acinic cell carcinoma	D1	-0.829491454526307	0.39
+zccs1541	CNS	CNS embryonal	CNS tumour with BCOR fusion	R2	0.546620020550402	8.26
+zccs2527	CNS	Choroid plexus tumour	Choroid plexus papilloma	D1	-0.948467516931084	0.3
+zccs2548	CNS	LGG	Pilocytic astrocytoma	D1	0.336958087155065	5.17
+zccs2550	Solid tumour	WT	Wilms tumour	D1	0.604061278486131	9.35
+zccs2551	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	R1	-1.35947987896878	0.12
+zccs2560	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.890710912902539	0.34
+zccs2573	Sarcoma	Desmoplastic small round cell tumour	Desmoplastic small round cell tumour	D1	-1.17805347593254	0.18
+zccs2590	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.460627912762433	0.87
+zccs2594	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.749119551870289	0.46
+zccs2602	Solid tumour	Bone tumours other	Bone tumour, NEC	D1	-0.483721711429765	0.78
+zccs2605	Solid tumour	Solid other	Cystic nephroma	D1	-1.98500798717275	0.03
+zccs2607	CNS	HGG	Neuro-epithelial tumour with PATZ1 fusion	D1	-1.10409142754138	0.21
+zccs2610	CNS	Non-diagnostic	Non-diagnostic	D1	-0.358570980160163	1.09
+zccs2614	CNS	DMG	Diffuse midline glioma, H3 K27-altered, no H3 K27M mutation	D1	0.852828778617418	15.68
+zccs2626	CNS	EPN-ZFTA	Supratentorial ependymoma, ZFTA fusion-positive, WHO G3	D1	0.201463488356556	3.75
+zccs2639	CNS	EPN-ZFTA	Supratentorial ependymoma, ZFTA fusion-positive, WHO G2	R1	-0.0357796859080887	2.14
+zccs2662	Sarcoma	EWS	Ewing sarcoma, bone	R1	1.02999946398852	23.45
+zccs2682	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.04810597988404	0.22
+zccs2683	HM	TALL/lymphoma	T-lymphoblastic leukaemia	D1	0.823880008389804	14.73
+zccs2684	CNS	LGG	Pilocytic astrocytoma	D1	0.326049185440238	4.8
+zccs2688	Sarcoma	Fibroblastic and myofibroblastic tumour	Infantile fibrosarcoma	D1	-0.421220294032304	0.9
+zccs2693	Solid tumour	WT	Wilms tumour	D1	1.32258530515338	45.01
+zccs2700	CNS	EPN-PFA	Posterior fossa A ependymoma, group PFA, WHO G2	R1	-0.771437919508419	0.41
+zccs2701	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.39994068410733	0.1
+zccs2703	CNS	LGG	Pilocytic astrocytoma	D1	0.0664870796450979	2.69
+zccs2708	CNS	LGG	Pilocytic astrocytoma	P3	-0.0774453751081775	1.91
+zccs2713	HM	AML	Acute myeloid leukaemia	D1	-0.791217751227129	0.39
+zccs2719	CNS	LGG	Pilocytic astrocytoma	D1	0.464820929167526	6.56
+zccs2733	Sarcoma	OST	Osteosarcoma	D1	-0.885364818563996	0.31
+zccs2747	Solid tumour	Germ cell tumour	Immature teratoma, non-CNS	D1	0.460530068104883	6.41
+zccs2756	CNS	EPN-PFA	Posterior fossa A ependymoma, group PFA, WHO G3	D1	-0.392346603087958	0.93
+zccs2758	Sarcoma	RMS FOXO1 fusion positive	Alveolar rhabdomyosarcoma	D1	0.608402928884526	8.86
+zccs2759	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-2.10040992158937	0.02
+zccs2775	CNS	LGG	Pilocytic astrocytoma	D1	-0.00263803473152959	2.23
+zccs2798	HM	PreB ALL/lymphoma	B-lymphoblastic lymphoma	D1	-1.79138812421439	0.04
+zccs2793	CNS	LGG	Pilocytic astrocytoma	D1	0.15701368488052	3.17
+zccs2802	CNS	EPN	Myxopapillary ependymoma	R2	-1.22970215140495	0.14
+zccs2806	CNS	MB-non WNT/non-SHH	Medulloblastoma, non-WNT/non-SHH	D1	0.204924809884433	3.5
+zccs2807	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.78363741748163	0.04
+zccs2815	CNS	LGG	Pilocytic astrocytoma	D1	-0.0566253027273087	1.94
+zccs2820	HM	Burkitt lymphoma	Burkitt lymphoma	D1	-1.04672821790371	0.21
+zccs2826	Sarcoma	OST	Osteosarcoma	D1	-0.90140436549842	0.29
+zccs2844	Solid tumour	WT	Wilms tumour	R1	1.99190638357107	193.06
+zccs2841	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.257672197532453	1.24
+zccs2851	Solid tumour	Fibroblastic and myofibroblastic tumour	Spindle cell neoplasm	D1	0.162800132369526	3.19
+zccs2857	CNS	LGG	Pilocytic astrocytoma	D1	-0.139438863776629	1.62
+zccs2871	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.77991583342977	0.04
+zccs2887	Solid tumour	Adrenal cortical tumour	Adrenocortical adenoma	D1	-1.25749112856416	0.13
+zccs2905	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.776370141886903	0.38
+zccs2959	Sarcoma	OST	Osteosarcoma	R1	-1.13226544677374	0.17
+zccs2988	CNS	MB-WNT	Medulloblastoma, WNT-activated	D1	0.983806664255987	20.18
+zccs2978	Sarcoma	OST	Osteosarcoma	R1	-1.32077682087864	0.11
+zccs2986	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	R1	-0.889662428105117	0.29
+zccs2991	CNS	Rhabdoid tumour	Atypical teratoid rhabdoid tumour	D1	0.628053451733806	8.93
+zccs2992	CNS	Rhabdoid tumour	Atypical teratoid rhabdoid tumour	D1	1.36491499121423	47.17
+zccs3010	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-4.4235380914513	0
+zccs3014	HM	Burkitt lymphoma	Burkitt lymphoma	D1	-0.802963708724545	0.35
+zccs3025	Solid tumour	Solid other	NUTM1-rearranged neoplasm	D1	-0.490599859211425	0.71
+zccs3045	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.214371521838689	1.33
+zccs3048	Solid tumour	Carcinoma	Papillary thyroid carcinoma	D1	-0.902871671564257	0.28
+zccs3056	Solid tumour	WT	Wilms tumour	D1	1.60773184412224	82.07
+zccs3074	HM	Acute leukaemia	Mixed phenotype acute leukaemia	D1	-1.27682245274076	0.12
+zccs3097	CNS	DMG	Diffuse midline glioma, H3 K27-altered, H3 K27M mutation	D1	0.971866620315214	19.3
+zccs3099	CNS	HGG	Infant-type hemispheric glioma fusion-positive	D1	-1.14580411070555	0.16
+zccs3105	CNS	DMG	Diffuse midline glioma, H3 K27-altered, H3 K27M mutation	P1	0.725424204792084	11.09
+zccs3106	CNS	ETMR	Embryonal tumour with multilayered rosettes, C19MC-altered	D1	0.835582740129465	14.23
+zccs3109	CNS	Meningioma	Meningioma WHO G2	D2	-1.27455239173926	0.12
+zccs3112	CNS	LGG	Pleomorphic xanthoastrocytoma WHO G2	D1	-0.218387829942626	1.31
+zccs3143	CNS	LGG	Pilocytic astrocytoma	D1	0.308473147167551	4.31
+zccs3158	Solid tumour	Solid other	Retinoblastoma	D1	1.58128174816204	76.51
+zccs3164	Sarcoma	Rhabdoid tumour	Malignant rhabdoid tumour, renal	D1	-0.663186989355579	0.48
+zccs3166	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.7623151847981	0.04
+zccs3173	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-2.3752806601026	0.01
+zccs3174	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.76205765680546	0.04
+zccs3184	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.88851826875853	0.03
+zccs3186	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.66256728778424	0.05
+zccs3205	CNS	HGG	Diffuse high grade glioma, H3-wildtype and IDH-wildtype	D1	2.2216489409932	326.54
+zccs3217	Solid tumour	Fibroblastic and myofibroblastic tumour	Spindle cell neoplasm	D1	-0.276887866837641	1.15
+zccs3227	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.20947246812518	1.29
+zccs3246	HM	Hodgkin lymphoma	Hodgkin lymphoma	D1	-0.494667635841466	0.7
+zccs3257	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	R1	-2.06293905509714	0.02
+zccs3258	CNS	HGG	Diffuse high grade glioma, H3-wildtype and IDH-wildtype	D2	0.723818723986386	10.91
+zccs3259	Solid tumour	Solid other	Malignant phyllodes tumour of the breast	D1	-0.98218954033521	0.23
+zccs3260	HM	AML	Acute myeloid leukaemia	D1	-4.40746824772512	0
+zccs3267	Sarcoma	Sarcoma other	Pleuropulmonary blastoma	D1	1.29660541276419	39.65
+zccs3268	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.20211133099058	0.14
+zccs3269	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.685306949737466	0.45
+zccs3270	Solid tumour	WT	Wilms tumour	D1	-0.131505065310782	1.57
+zccs3271	HM	AML	Therapy-related acute myeloid leukaemia	D2	0.483492325005177	6.31
+zccs3280	HM	Histiocytosis	Langerhans cell histiocytosis	D1	-1.00117885667951	0.22
+zccs3284	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.11527759296801	0.17
+zccs3296	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.880579256282186	0.28
+zccs3309	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.41357999370514	0.83
+zccs3313	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.339496116498872	0.96
+zccs3321	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-2.34495161408315	0.01
+zccs3343	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.735901325385846	0.39
+zccs166	CNS	HGG	Diffuse high grade glioma, H3-wildtype and IDH-wildtype	D2	0.510898522240997	6.63
+zccs3356	Solid tumour	Solid other	Retinoblastoma	O1	1.06446765180969	22.71
+zccs3370	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.283921824104374	1.09
+zccs3375	CNS	HGG	Diffuse high grade glioma, H3-wildtype and IDH-wildtype	D1	0.513625170600322	6.43
+zccs3399	Sarcoma	Sarcoma other	CIC-rearranged sarcoma, non-CNS	D1	-0.603648157625025	0.51
+zccs3400	Solid tumour	Solid other	Lipoblastoma	D1	-0.553834482008474	0.57
+zccs3408	Solid tumour	Fibroblastic and myofibroblastic tumour	Desmoid fibromatosis	D1	-1.14012470512843	0.15
+zccs3417	Solid tumour	Solid other	Retinoblastoma	D1	-0.269123123963154	1.09
+zccs3419	Sarcoma	EWS	Ewing sarcoma, soft tissue	D1	0.273514363181435	3.72
+zccs3423	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.636554848633567	0.47
+zccs3424	Sarcoma	OST	Osteosarcoma	R1	-0.0675018043400686	1.71
+zccs3436	CNS	DMG	Diffuse midline glioma, H3 K27-altered, H3 K27M mutation	D1	0.778069056978507	11.74
+zccs3450	Solid tumour	Solid other	Retinoblastoma	D1	1.48496863621459	58.62
+zccs3452	CNS	EPN-PFA	Posterior fossa A ependymoma, group PFA, WHO G2	D1	0.158817616328912	2.87
+zccs3453	HM	AML	Acute myeloid leukaemia	D1	-2.32905626029209	0.01
+zccs3468	CNS	LGG	Polymorphous low grade neuroepithelial tumour of the young	D1	-0.0829298575832558	1.66
+zccs3477	CNS	LGG	Pilocytic astrocytoma	D1	0.475179162281131	5.91
+zccs3492	Sarcoma	RMS FOXO1 fusion positive	Alveolar rhabdomyosarcoma	D1	0.808528619297925	12.55
+zccs3517	CNS	LGG	Pilocytic astrocytoma	D1	0.739623331048883	10.71
+zccs3526	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.201844059067343	1.26
+zccs3533	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	0.585398082186906	7.56
+zccs3541	HM	MDS	Myelodysplastic syndrome	D1	-0.0187071341761874	1.91
+zccs3545	HM	Burkitt lymphoma	Burkitt lymphoma	D1	-0.677047311558591	0.43
+zccs3546	Solid tumour	Peripheral nerve sheath tumour	Schwannoma	P1	-0.0412327204037027	1.82
+zccs3564	Solid tumour	Germ cell tumour	Mixed germ cell tumour, non-CNS	D1	-0.617069130368455	0.49
+zccs3572	Sarcoma	OST	Osteosarcoma	D1	-0.558213311896588	0.56
+zccs3587	CNS	EPN-ZFTA	Supratentorial ependymoma, ZFTA fusion-positive, WHO G3	D1	0.896254761347651	15.12
+zccs3594	Solid tumour	Sex cord stromal tumour	Juvenile granulosa cell ovarian tumour	D1	0.256650853416936	3.55
+zccs3599	CNS	Choroid plexus tumour	Choroid plexus papilloma	D1	0.167833566983883	2.91
+zccs3600	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.36961334477493	0.09
+zccs3606	CNS	LGG	Pilocytic astrocytoma	D1	0.153440744642833	2.78
+zccs3612	Solid tumour	WT	Wilms tumour	D1	1.62131008516647	77.82
+zccs3613	HM	TALL/lymphoma	T-lymphoblastic leukaemia	D1	1.09676446299913	23.77
+zccs3617	Solid tumour	Solid other	Retinoblastoma	P1	0.0695190107233111	2.33
+zccs3619	Solid tumour	Fibroblastic and myofibroblastic tumour	Desmoid fibromatosis	D1	-0.791957265020503	0.33
+zccs3623	CNS	LGG	Pilocytic astrocytoma	D1	-0.203585700799814	1.25
+zccs1505	Sarcoma	Angiosarcoma	Angiosarcoma	R1	-0.229547901602144	1.18
+zccs3653	Sarcoma	EWS	Ewing sarcoma, soft tissue	P1	0.83109320997264	12.94
+zccs3654	CNS	LGG	Pilocytic astrocytoma	D1	-0.365748152081217	0.86
+zccs3667	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-2.33240077788345	0.01
+zccs3668	HM	Burkitt lymphoma	Burkitt lymphoma	D1	-0.845629380057649	0.29
+zccs3670	HM	AML	Acute myeloid leukaemia	D1	1.1632449614743	27.46
+zccs3672	Sarcoma	RMS FOXO1 fusion negative	Spindle cell rhabdomyosarcoma	D1	1.11719751240811	24.74
+zccs3676	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.802172689408445	0.32
+zccs3678	Solid tumour	WT	Wilms tumour	D1	-1.31266603926454	0.1
+zccs3693	Sarcoma	Sarcoma other	CIC-rearranged sarcoma, non-CNS	D1	0.335993476139433	4.19
+zccs3695	Sarcoma	OST	Osteosarcoma	D1	-1.35650737713252	0.09
+zccs3704	CNS	LGG	Pilocytic astrocytoma	D1	0.557688182573529	6.92
+zccs3706	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.8427865575223	0.03
+zccs3712	Sarcoma	Rhabdoid tumour	Malignant rhabdoid tumour, non-renal/hepatic	D1	-1.07750698212286	0.17
+zccs3714	Solid tumour	Fibroblastic and myofibroblastic tumour	Spindle cell neoplasm	D1	-0.245747711995308	1.12
+zccs3715	Sarcoma	RMS FOXO1 fusion positive	Alveolar rhabdomyosarcoma	D1	1.2774583035521	35.37
+zccs3726	CNS	CNS embryonal	CNS embryonal tumour with BCOR internal tandem duplication	D1	0.697600859708781	9.49
+zccs3727	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.40797357770935	0.08
+zccs3731	CNS	LGG	Pilocytic astrocytoma	D1	0.539862802470405	6.64
+zccs3732	HM	Histiocytosis	Langerhans cell histiocytosis	D1	-0.453837938818232	0.7
+zccs3735	Sarcoma	OST	Osteosarcoma	P2	-1.53894522188743	0.06
+zccs3736	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.47085893144418	0.07
+zccs3738	Solid tumour	Hepatoblastoma/HCC	Hepatoblastoma	D1	0.920951023745959	15.65
+zccs3743	Sarcoma	EWS	Ewing sarcoma, bone	D1	1.37492306734291	43.77
+zccs3748	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	0.0307587486041139	2.09
+zccs3764	Sarcoma	EWS	Ewing sarcoma, soft tissue	D1	-0.356327651098432	0.87
+zccs3778	Solid tumour	WT	Wilms tumour	D1	0.964284834312699	17.22
+zccs3789	CNS	LGG	Pilocytic astrocytoma	D1	0.300664184324903	3.88
+zccs3796	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.628818240458681	0.47
+zccs3800	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	R1	-0.846173020280377	0.29
+zccs3804	HM	TALL/lymphoma	T-lymphoblastic leukaemia	D1	1.58528614800623	71.52
+zccs3806	Solid tumour	Adrenal cortical tumour	Adrenal cortical tumour with uncertain malignant potential	D1	-0.682431870120619	0.42
+zccs3807	Sarcoma	OST	Osteosarcoma	D1	-2.02840618415714	0.02
+zccs3816	Sarcoma	RMS FOXO1 fusion positive	Alveolar rhabdomyosarcoma	R1	-0.307844006261071	0.98
+zccs3818	Sarcoma	RMS FOXO1 fusion negative	Embryonal rhabdomyosarcoma	D1	-0.206774407295922	1.23
+zccs3837	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.803009804387884	0.32
+zccs3853	HM	AML	Therapy-related acute myeloid leukaemia	D2	0.464073934603115	5.6
+zccs3859	Sarcoma	OST	Osteosarcoma	P1	-0.874580988674933	0.27
+zccs3860	Sarcoma	RMS FOXO1 fusion positive	Alveolar rhabdomyosarcoma	D1	1.55649905710874	66.4
+zccs3871	Sarcoma	MPNST	Malignant peripheral nerve sheath tumour	D1	-0.159726911819169	1.37
+zccs3883	CNS	LGG	Pilocytic astrocytoma	D1	-0.0402820502526433	1.79
+zccs3884	HM	Myeloproliferative neoplasm	Hypereosinophilic syndrome	D1	-1.19935855650417	0.13
+zccs3889	HM	AML	Acute myeloid leukaemia	D1	0.78235932469778	11.54
+zccs3892	HM	AML	Acute myeloid leukaemia	D1	-1.47448485898157	0.07
+zccs3901	Sarcoma	RMS FOXO1 fusion negative	Embryonal rhabdomyosarcoma	D1	0.747933492314799	10.63
+zccs3904	HM	TALL/lymphoma	T-lymphoblastic lymphoma	D1	-0.0963902535478803	1.57
+zccs3907	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.577173149593519	0.53
+zccs3909	CNS	LGG	Pilocytic astrocytoma	D1	0.666730533148783	8.8
+zccs3929	CNS	MB-non WNT/non-SHH	Medulloblastoma, non-WNT/non-SHH	D1	0.76187942845293	10.8
+zccs3931	HM	AML	Acute myeloid leukaemia	D1	0.939161366937073	16.14
+zccs3932	CNS	HGG	Diffuse hemispheric glioma, H3 G34-mutant	D1	0.222201207739161	3.2
+zccs3937	HM	B-cell predominant lymphoid proliferation	Unknown	D1	-0.323145884218526	0.93
+zccs3943	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.120159152483525	1.48
+zccs3955	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.46470044047368	0.07
+zccs3966	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.26289323277494	0.11
+zccs3969	CNS	LGG	Dysembryoplastic neuroepithelial tumour	D1	0.906611310370217	15.17
+zccs3975	CNS	LGG	Diffuse astrocytoma, MYB or MYBL1-altered	D1	0.717623617157719	9.92
+zccs3984	Sarcoma	RMS FOXO1 fusion negative	Embryonal rhabdomyosarcoma	R1	0.864584670215979	13.84
+zccs3987	HM	TALL/lymphoma	T-lymphoblastic lymphoma	D1	-1.02285790932338	0.19
+zccs3990	CNS	LGG	Pilocytic astrocytoma	D1	-0.098752787856242	1.55
+zccs4000	Sarcoma	OST	Osteosarcoma	D1	-0.338086344789282	0.9
+zccs4006	Solid tumour	WT	Wilms tumour	D1	1.00324445339427	18.74
+zccs4031	HM	TALL/lymphoma	T-lymphoblastic leukaemia	D1	-0.0899936755705485	1.57
+zccs4050	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.976912764774901	0.21
+zccs4058	Sarcoma	EWS	Ewing sarcoma, bone	D1	-0.918042075577432	0.24
+zccs4069	Solid tumour	WT	Wilms tumour	D1	1.08105835597365	22.36
+zccs4088	CNS	LGG	Pilocytic astrocytoma	P1	0.398597504040279	4.72
+zccs4091	Sarcoma	EWS	Ewing sarcoma, bone	D1	-1.46039105893564	0.07
+zccs4098	CNS	LGG	Diffuse glioneuronal tumour with oligodendroglioma-like features and nuclear clusters	D1	0.507730732189445	6.02
+zccs4102	HM	TALL/lymphoma	T-lymphoblastic leukaemia	D1	0.701774539596631	9.38
+zccs4104	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.36342180449217	0.84
+zccs4121	Solid tumour	WT	Wilms tumour	D1	1.43681667414072	49.36
+zccs4138	CNS	MB-non WNT/non-SHH	Medulloblastoma, non-WNT/non-SHH	D1	0.743083534152987	10.26
+zccs1146	CNS	HGG	Pleomorphic xanthoastrocytoma WHO G3	D1	-0.792581248524539	0.45
+zccs1147	CNS	HGG	Diffuse high grade glioma, H3-wildtype and IDH-wildtype	D1	-0.70611457992631	0.55
+zccs1149	CNS	Rhabdoid tumour	Atypical teratoid rhabdoid tumour	D1	0.285893851450393	5.21
+zccs1150	CNS	LGG	Ganglioglioma	R1	-1.26180921950848	0.17
+zccs1151	Sarcoma	RMS FOXO1 fusion positive	Alveolar rhabdomyosarcoma	D1	1.42651414699295	64.31
+zccs1763	HM	AML	Acute myeloid leukaemia	R1	-1.15309540668553	0.22
+zccs1772	CNS	Schwannoma	Vestibular schwannoma	D1	-0.0866919299275926	2.3
+zccs1318	Sarcoma	RMS FOXO1 fusion positive	Alveolar rhabdomyosarcoma	R2	1.308524728967	49.86
+zccs1787	Solid tumour	WT	Wilms tumour	D1	1.11234188898655	32.34
+zccs1789	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.21483444661365	0.19
+zccs1336	HM	AML	Therapy-related acute myeloid leukaemia	D2	0.576792112615231	8.43
+zccs1805	Solid tumour	Giant cell tumour	Giant cell rich tumour, HMGA2-NCOR2 fusion positive	D1	-0.67287748988579	0.63
+zccs1806	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.3225005219382	0.15
+zccs1834	HM	TALL/lymphoma	T-lymphoblastic leukaemia	D1	-1.1728126267094	0.21
+zccs1836	Sarcoma	EWS	Ewing sarcoma, bone	R1	-0.299910534058062	1.44
+zccs1840	Sarcoma	Sarcoma other	Chordoma	D1	-1.35873699321184	0.14
+zccs1853	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.23756276851792	0.18
+zccs1876	Solid tumour	WT	Wilms tumour	D1	1.47337939319429	70.68
+zccs1894	CNS	LGG	Diffuse low grade glioma, MAPK pathway altered	D1	0.320857935138409	5.54
+zccs1895	CNS	LGG	Pleomorphic xanthoastrocytoma WHO G2	D1	-0.101592869559976	2.18
+zccs1887	Solid tumour	Germ cell tumour	Mature teratoma, non-CNS	P1	0.381797265198405	6.3
+zccs1903	Solid tumour	Melanocytic tumour	Malignant melanoma	D1	-1.32096235057467	0.15
+zccs1906	CNS	LGG	Pilocytic astrocytoma	R1	0.294200398282349	5.21
+zccs1924	CNS	EPN-PFA	Posterior fossa A ependymoma, group PFA, WHO G3	D1	-0.662925256134717	0.61
+zccs1926	Sarcoma	Fibroblastic and myofibroblastic tumour	Inflammatory myofibroblastic tumour	D1	-0.86210699900539	0.41
+zccs1940	Solid tumour	WT	Wilms tumour	D1	1.45611417289686	65.73
+zccs1951	Sarcoma	OST	Osteosarcoma	R1	-0.587622410711114	0.72
+zccs2031	CNS	Choroid plexus tumour	Choroid plexus carcinoma, TP53-mutant	D1	0.621225107278986	10.26
+zccs2043	Solid tumour	Carcinoma	Adenoid cystic carcinoma	D1	-0.260855808625913	1.48
+zccs2050	Solid tumour	Germ cell tumour	Mixed germ cell tumour, non-CNS	D1	1.19773234245459	36.5
+zccs2075	CNS	HGG	Diffuse high grade glioma, H3-wildtype and IDH-wildtype	D1	0.290828696157317	4.95
+zccs2083	HM	Histiocytosis	Malignant histiocytosis (M group)	P1	-0.0884368588387601	1.76
+zccs2084	Solid tumour	Sex cord stromal tumour	Sex cord stromal tumour, NOS	D1	1.22103241406453	38.22
+zccs2098	Sarcoma	EWS	Ewing sarcoma, soft tissue	D1	-0.12054963143856	2.01
+zccs2124	CNS	MB-SHH	Medulloblastoma, SHH-activated and TP53-wildtype	D1	1.05125287130734	26.29
+zccs2125	Solid tumour	Solid other	Retinoblastoma	D1	1.47624196079685	67.09
+zccs2142	Sarcoma	Sarcoma other	Clear cell sarcoma of kidney	D1	-0.0937288099905844	2.08
+zccs2207	Solid tumour	Solid other	NUTM1-rearranged neoplasm	D1	1.15335399804475	32.65
+zccs2170	CNS	LGG	Pilocytic astrocytoma	D1	0.402985199222132	6.23
+zccs2176	HM	AML	Acute myeloid leukaemia	D1	1.67512330123947	103.16
+zccs2178	CNS	LGG	Pilocytic astrocytoma	D1	0.185852707214817	3.87
+zccs2215	CNS	MB-SHH	Medulloblastoma, SHH-activated and TP53-wildtype	D1	1.7310147514339	114.92
+zccs2233	Sarcoma	OST	Osteosarcoma	R1	-1.52142975112705	0.09
+zccs2250	CNS	LGG	Pilocytic astrocytoma	D1	0.664997400586387	10.95
+zccs2251	CNS	LGG	Pilocytic astrocytoma	D1	-0.654857751138862	0.58
+zccs2256	Sarcoma	RMS FOXO1 fusion positive	Alveolar rhabdomyosarcoma	R1	1.13355893767339	31.04
+zccs2265	CNS	EPN-PFA	Posterior fossa A ependymoma, group PFA, WHO G3	R1	0.951261719854303	20.78
+zccs2282	CNS	Pineal tumour	Pineal parenchymal tumour of intermediate differentiation, WHO G3	D1	-0.367550813905796	1.13
+zccs2285	Solid tumour	Melanocytic tumour	Malignant melanoma	P1	-2.47710284452412	0.01
+zccs2291	CNS	Germ cell tumour	Mixed germ cell tumour, CNS	R1	1.93037118661493	180.72
+zccs2339	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.712856290609213	0.51
+zccs2364	HM	AML	Acute promyelocytic leukaemia	D1	0.354133752325797	5.41
+zccs2398	CNS	MB-non WNT/non-SHH	Medulloblastoma, non-WNT/non-SHH	D1	-0.550862002302082	0.72
+zccs2402	CNS	LGG	Diffuse leptomeningeal glioneuronal tumour	D1	0.893010726587134	17.9
+zccs2414	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.943867441055162	0.3
+zccs2420	HM	AML	Acute myeloid leukaemia	R1	-1.48434117817688	0.09
+zccs2422	Solid tumour	WT	Wilms tumour	D1	1.74647448466383	118.33
+zccs2436	Sarcoma	EWS	Ewing sarcoma, bone	D1	-0.01316297485438	2.39
+zccs2459	CNS	LGG	Pilocytic astrocytoma	D1	0.235259006661745	4.15
+zccs2460	HM	Mature B lymphoma	T-cell/histiocyte-rich large B cell lymphoma	D1	-1.75321574608857	0.05
+zccs2500	Sarcoma	Sarcoma other	CIC-rearranged sarcoma, non-CNS	D1	-0.541089579382965	0.74
+zccs2525	HM	TALL/lymphoma	T-lymphoblastic lymphoma	D1	0.512740555028034	7.62
+zccs2528	CNS	LGG	Pilocytic astrocytoma	D1	0.519798858290078	7.74
+zccs2569	CNS	HGG	Diffuse hemispheric glioma, H3 G34-mutant	D1	0.780586445641018	13.61
+zccs2574	HM	Myeloproliferative neoplasm	Juvenile myelomonocytic leukaemia	D1	-0.978431466686655	0.28
+zccs2603	HM	TALL/lymphoma	T-lymphoblastic leukaemia	D1	0.517184548781246	7.37
+zccs2609	Sarcoma	OST	Osteosarcoma	D1	-1.0251613772314	0.25
+zccs2611	HM	PreB ALL/lymphoma	B-lymphoblastic lymphoma	D1	0	0
+zccs2617	HM	TALL/lymphoma	T-lymphoblastic leukaemia	D1	-0.135336055302072	1.71
+zccs2621	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	R1	-1.8541481386003	0.04
+zccs2637	CNS	LGG	Ganglioglioma	D1	-0.318911326235337	1.13
+zccs512	Sarcoma	OST	Osteosarcoma	P4	-1.08933556967921	0.2
+zccs2654	Solid tumour	Peripheral nerve sheath tumour	Schwannoma	D1	0.286223013916734	4.33
+zccs2712	Solid tumour	Giant cell tumour	Central giant cell granuloma	D1	-0.680654025358788	0.5
+zccs2716	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.14340322697283	0.17
+zccs2735	HM	AML	Acute myeloid leukaemia	D1	-1.79715123610686	0.04
+zccs2738	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.10466475121764	0.19
+zccs2742	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.559537712493953	0.63
+zccs2751	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.990127712159063	0.24
+zccs2780	Solid tumour	Giant cell tumour	Giant cell tumour of bone	D1	-0.778310220033047	0.39
+zccs2784	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.372971214764079	0.97
+zccs2785	CNS	ETMR	Embryonal tumour with multilayered rosettes, NOS	D1	1.71488884909896	105.93
+zccs2789	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.12227581276865	0.18
+zccs2790	Solid tumour	Fibroblastic and myofibroblastic tumour	Spindle cell neoplasm	D1	-0.759665233498513	0.4
+zccs2800	Sarcoma	EWS	Ewing sarcoma, soft tissue	D1	-0.0367181226592982	2.03
+zccs1366	Sarcoma	OST	Osteosarcoma	P3	-0.523691948178247	0.68
+zccs2810	HM	AML	Acute myeloid leukaemia	D1	-1.33377295948507	0.11
+zccs2827	HM	TALL/lymphoma	T-lymphoblastic lymphoma	D1	-0.305234510971207	1.11
+zccs2838	Solid tumour	WT	Wilms tumour	D1	1.5089093478505	65.23
+zccs2865	Solid tumour	Germ cell tumour	Mature teratoma, non-CNS	D1	-0.886834211490507	0.3
+zccs2880	CNS	HGG	Pleomorphic xanthoastrocytoma WHO G3	D1	-0.133970671833761	1.64
+zccs2894	CNS	LGG	Pilocytic astrocytoma	D1	0.199657604522076	3.45
+zccs2902	CNS	LGG	Pilocytic astrocytoma	D1	0.378628224917941	5.17
+zccs2915	Solid tumour	Hepatoblastoma/HCC	Hepatoblastoma	D1	-1.03877159311411	0.21
+zccs2919	CNS	Rhabdoid tumour	Atypical teratoid rhabdoid tumour	D1	0.0938175413730827	2.71
+zccs3006	CNS	LGG	Ganglioglioma	D1	-0.138187753178	1.6
+zccs3011	HM	Burkitt lymphoma	Burkitt lymphoma	D1	-1.32086896113717	0.11
+zccs2983	Solid tumour	WT	Wilms tumour	D1	0.938161830957233	17.84
+zccs1412	Sarcoma	RMS FOXO1 fusion positive	Alveolar rhabdomyosarcoma	R2	0.950203459782172	18.49
+zccs3000	CNS	Craniopharyngioma	Adamantinomatous craniopharyngioma	D1	0.972510899327344	19.51
+zccs3007	Sarcoma	EWS	Ewing sarcoma, bone	D1	-0.484426057129932	0.72
+zccs3012	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D2	-1.35781646257324	0.1
+zccs3026	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.00772582613548	0.22
+zccs3028	HM	AML	Myeloid leukaemia associated with Down Syndrome	D1	0.83044606937283	13.99
+zccs3035	HM	TALL/lymphoma	T-lymphoblastic leukaemia	D1	0.367601257380531	4.93
+zccs3038	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.26941594361585	0.12
+zccs1416	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	R6	-1.27724256994313	0.12
+zccs3059	Sarcoma	OST	Osteosarcoma	D1	-0.787516849768621	0.36
+zccs3065	HM	TALL/lymphoma	T-lymphoblastic leukaemia	D1	0.897537680711686	16.47
+zccs3079	Solid tumour	Germ cell tumour	Yolk sac tumour, non-CNS	D1	1.1355998032865	28.06
+zccs3122	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.0854101661370508	1.77
+zccs3146	Sarcoma	RMS FOXO1 fusion negative	Embryonal rhabdomyosarcoma	R1	0.454666725218968	6.01
+zccs1449	CNS	LGG	Rosette-forming glioneuronal tumour	D1	0.316816064561039	4.33
+zccs3150	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.828901753023041	0.33
+zccs3151	HM	Mature T lymphoma	Anaplastic large cell lymphoma, ALK fusion-positive	D1	-0.841563164782696	0.32
+zccs3161	CNS	LGG	Pilocytic astrocytoma	D1	-0.232289313477399	1.27
+zccs3162	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.05003230316873	0.2
+zccs3175	Solid tumour	WT	Wilms tumour	D1	1.50101870451016	63.82
+zccs3181	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.35092266837202	0.1
+zccs3236	HM	Hodgkin lymphoma	Hodgkin lymphoma	D1	-0.855667734211935	0.31
+zccs3283	Solid tumour	Non-diagnostic	Non-diagnostic	D1	0.253162253990541	3.75
+zccs3285	HM	TALL/lymphoma	T-lymphoblastic leukaemia	D1	0.338204163629914	4.48
+zccs3293	HM	TALL/lymphoma	T-lymphoblastic leukaemia	D1	-1.42716735084091	0.08
+zccs3305	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	R1	-1.85856864776781	0.03
+zccs3317	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.892156268251269	0.27
+zccs3322	CNS	Meningioma	Meningioma WHO G2	D1	-1.63721337650813	0.05
+zccs3332	HM	TALL/lymphoma	T-lymphoblastic lymphoma	D1	-0.881720215969847	0.28
+zccs3340	HM	TALL/lymphoma	T-lymphoblastic leukaemia	D1	0.829995935629999	13.68
+zccs3345	HM	AML	Acute promyelocytic leukaemia	D1	0.253129342667609	3.58
+zccs3368	HM	Hodgkin lymphoma	Hodgkin lymphoma	D1	-0.654174947319565	0.47
+zccs3385	Sarcoma	Rhabdoid tumour	Malignant rhabdoid tumour, non-renal/hepatic	D1	-0.270842112120632	1.09
+zccs3387	Sarcoma	Sarcoma other	BCOR-rearranged sarcoma	D1	0.323228879265147	4.28
+zccs3410	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.933713984175109	0.24
+zccs3411	Solid tumour	WT	Wilms tumour	D1	1.15218986767917	27.56
+zccs3431	CNS	LGG	Pilocytic astrocytoma	D1	-0.465699904099795	0.69
+zccs3478	Solid tumour	Carcinoma	Papillary thyroid carcinoma	D1	-0.252120730606292	1.13
+zccs3484	CNS	Germ cell tumour	Germinoma, CNS	D1	0.949533358972881	17.29
+zccs3493	HM	TALL/lymphoma	T-lymphoblastic leukaemia	D1	-1.85039391548427	0.03
+zccs3510	HM	Acute leukaemia	Burkitt leukaemia	D1	-0.417850400808672	0.77
+zccs3527	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.03559439128914	0.19
+zccs3588	CNS	MB-non WNT/non-SHH	Medulloblastoma, non-WNT/non-SHH	D1	0.429916345319404	5.18
+zccs3592	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.897149392654276	0.26
+zccs3602	Sarcoma	Synovial sarcoma	Synovial sarcoma	D1	1.08954817540869	23.43
+zccs3603	HM	Hodgkin lymphoma	Hodgkin lymphoma	D1	-0.593826592874317	0.52
+zccs3607	Solid tumour	Hepatoblastoma/HCC	Hepatoblastoma	D1	0.58989880232813	7.54
+zccs3609	Solid tumour	Solid other	Lipoblastoma	D1	-0.775208786079047	0.34
+zccs3614	CNS	MB-non WNT/non-SHH	Medulloblastoma, non-WNT/non-SHH	D1	0.59068137872774	7.57
+zccs3616	CNS	Craniopharyngioma	Adamantinomatous craniopharyngioma	D1	0.174555087513321	2.94
+zccs3624	Solid tumour	Germ cell tumour	Dysgerminoma	D1	1.03087671838883	20.4
+zccs3630	Solid tumour	Solid other	Juvenile fibroadenoma	D1	-0.299167060220561	1
+zccs1420	Solid tumour	Hepatoblastoma/HCC	Hepatoblastoma	R1	-0.261123729265541	1.09
+zccs3649	CNS	Choroid plexus tumour	Atypical choroid plexus papilloma	D1	0.559859631412117	7.03
+zccs3655	CNS	DMG	Diffuse midline glioma, H3 K27-altered, H3 K27M mutation	D1	0.624290867788342	8.1
+zccs3656	CNS	Meningioma	Meningioma WHO G2	D1	-0.762963692314897	0.35
+zccs3674	HM	AML	Acute myeloid leukaemia	D1	1.78261833184707	110.35
+zccs3687	Sarcoma	EWS	Ewing sarcoma, soft tissue	D1	-0.678100878448394	0.42
+zccs3720	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.499351030466552	0.63
+zccs3725	HM	AML	Acute myeloid leukaemia	D1	-0.354582655493399	0.87
+zccs3729	CNS	LGG	Pilocytic astrocytoma	D1	0.239205714203256	3.34
+zccs3737	CNS	MB	Medulloblastoma, histologically defined	D1	0.657586163856491	8.64
+zccs3759	Sarcoma	EWS	Ewing sarcoma, bone or soft tissue	D1	0.262250097180586	3.53
+zccs3783	CNS	LGG	Glioneuronal tumour, NOS, low grade	R4	0.723452582989597	10.1
+zccs3784	CNS	HGG	Diffuse high grade glioma, H3-wildtype and IDH-wildtype	P1	0.310635939993105	3.97
+zccs3802	CNS	LGG	Myxoid glioneuronal tumour	D1	0.840115946686166	13.15
+zccs3809	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.16808830743133	0.14
+zccs3817	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.846145217451432	0.29
+zccs3819	Sarcoma	RMS FOXO1 fusion positive	Alveolar rhabdomyosarcoma	D1	1.88037178640005	138.3
+zccs3842	Sarcoma	Sarcoma other	Chondrosarcoma	D1	0.559617412183177	6.97
+zccs3840	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.23600387775696	0.12
+zccs3847	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.47342494701276	0.07
+zccs3858	Solid tumour	Carcinoma	Papillary thyroid carcinoma	D1	-0.622632846485685	0.48
+zccs3868	CNS	LGG	Pilocytic astrocytoma	D1	0.750186300132229	10.73
+zccs3885	Sarcoma	Synovial sarcoma	Synovial sarcoma	D1	-0.0669254715924769	1.69
+zccs3890	CNS	MB-non WNT/non-SHH	Medulloblastoma, non-WNT/non-SHH	D1	0.708336289430312	9.72
+zccs3895	CNS	Pineal tumour	Pineocytoma	D1	-0.287327161345924	1.02
+zccs3898	HM	Mature T lymphoma	Anaplastic large cell lymphoma, ALK fusion-negative	D1	-0.0954961859807141	1.58
+zccs3917	CNS	MB-non WNT/non-SHH	Medulloblastoma, non-WNT/non-SHH	D1	0.839942474761153	12.89
+zccs3962	CNS	LGG	Pilocytic astrocytoma	D1	0.745968011069646	10.54
+zccs3983	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	R1	-0.403658464322988	0.77
+zccs3991	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.715445634341344	0.38
+zccs3993	HM	Hodgkin lymphoma	Hodgkin lymphoma	D1	-0.455065514793128	0.69
+zccs3994	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	0.0647209055945097	2.23
+zccs4005	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.70628026531494	0.04
+zccs4019	CNS	LGG	Angiocentric glioma	D1	-0.601363374493126	0.49
+zccs4022	CNS	DMG	Diffuse midline glioma, H3 K27-altered, H3 K27M mutation	D1	0.332278546267865	4.1
+zccs4024	CNS	EPN-ZFTA	Supratentorial ependymoma, ZFTA fusion-positive, WHO G3	D1	0.79154753829498	11.62
+zccs4027	Solid tumour	Giant cell tumour	Tenosynovial giant cell tumour	D1	-0.155690424650832	1.34
+zccs4086	HM	Hodgkin lymphoma	Hodgkin lymphoma	D1	-0.446110925802237	0.7
+zccs4108	Solid tumour	Fibroblastic and myofibroblastic tumour	Spindle cell neoplasm	D1	0.0731574255818206	2.25
+zccs1152	Sarcoma	EWS	Ewing sarcoma, bone	P1	0.419989810736838	7.19
+zccs1154	Solid tumour	Sex cord stromal tumour	Sertoli cell ovarian tumour	D1	0.743064980955958	15.13
+zccs1155	CNS	DMG	Diffuse midline glioma, H3 K27-altered, H3 K27M mutation	D1	0.0582993534904396	3.12
+zccs1159	Solid tumour	Carcinoma	Poorly-differentiated thyroid carcinoma	D1	0.340913537000047	5.9
+zccs1160	Solid tumour	Carcinoma	Follicular thyroid carcinoma	D1	-0.197922480638657	1.79
+zccs1162	CNS	MB-non WNT/non-SHH	Medulloblastoma, non-WNT/non-SHH	D1	0.373290121832088	6.32
+zccs1752	Sarcoma	OST	Osteosarcoma	D1	-1.14652536028284	0.22
+zccs1773	Sarcoma	OST	Osteosarcoma	D1	-0.707728041239465	0.57
+zccs1785	HM	AML	Acute myeloid leukaemia	P1	-2.54992337490851	0.01
+zccs1827	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.980585291107766	0.32
+zccs1250	Sarcoma	EWS	Ewing sarcoma, bone	R1	-0.559469508215584	0.81
+zccs1893	CNS	MB-non WNT/non-SHH	Medulloblastoma, non-WNT/non-SHH	D1	0.462072582092227	7.57
+zccs1886	CNS	LGG	Angiocentric glioma	D1	0.480704731904919	7.85
+zccs1889	CNS	DMG	Diffuse midline glioma, H3 K27-altered, H3 K27M mutation	D1	0.0710146163744526	3.19
+zccs1936	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.18335333764223	0.2
+zccs1937	CNS	MB-non WNT/non-SHH	Medulloblastoma, non-WNT/non-SHH	D1	0.614368807260869	10.33
+zccs1938	HM	Burkitt lymphoma	Burkitt lymphoma	D1	-0.87871069239523	0.39
+zccs1942	CNS	EPN-PFB	Posterior fossa B ependymoma, group PFB, WHO G2	D1	0.454773719934529	7.24
+zccs1215	Sarcoma	OST	Osteosarcoma	R2	-0.853274150605277	0.4
+zccs2040	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.04280764465377	0.26
+zccs2044	Solid tumour	Giant cell tumour	Tenosynovial giant cell tumour	D1	-1.53033109873939	0.09
+zccs2047	Solid tumour	Carcinoma	Colorectal carcinoma	D1	-1.48246801322832	0.1
+zccs2051	CNS	EPN	Myxopapillary ependymoma	D1	-0.509397239827071	0.78
+zccs2129	Solid tumour	WT	Wilms tumour	D1	1.67154208915563	102.18
+zccs2169	CNS	MB-SHH	Medulloblastoma, SHH-activated and TP53-wildtype	D1	1.61147513213194	89.87
+zccs2222	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.0289581519069681	2.41
+zccs2238	Sarcoma	EWS	Ewing sarcoma, bone	P3	-0.572198850466584	0.72
+zccs2239	Solid tumour	Solid other	Solid pseudopapillary neoplasm of pancreas	D1	-0.721720888997599	0.52
+zccs2359	CNS	Pituitary tumour	Pituitary adenoma	D1	-1.85665474778766	0.04
+zccs2363	Sarcoma	Sarcoma other	Alveolar soft part sarcoma	D1	-0.83191022442038	0.39
+zccs2437	Sarcoma	EWS	Ewing sarcoma, bone	D1	0.533565879539129	8.06
+zccs2438	Sarcoma	RMS FOXO1 fusion positive	Alveolar rhabdomyosarcoma	D1	1.16777162197987	33.05
+zccs2439	HM	MDS	Myelodysplastic syndrome	D1	0.173483803331984	3.62
+zccs2452	Solid tumour	Solid other	Cystic nephroma	D1	0.0403821017253635	2.69
+zccs2490	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.08647298099406	0.22
+zccs2532	Sarcoma	Synovial sarcoma	Synovial sarcoma	D1	0.389457226458099	5.8
+zccs2552	HM	Hodgkin lymphoma	Hodgkin lymphoma	D1	-0.890710912902539	0.34
+zccs2588	CNS	MB-non WNT/non-SHH	Medulloblastoma, non-WNT/non-SHH	D1	0.181037738018246	3.59
+zccs2591	CNS	HGG	Infant-type hemispheric glioma fusion-positive	E1	-0.404501432203466	0.93
+zccs1226	CNS	CNS other	Intracranial mesenchymal tumour, FET-CREB fusion-positive	D2	-0.957971409414674	0.29
+zccs1290	Sarcoma	RMS FOXO1 fusion positive	Alveolar rhabdomyosarcoma	R1	1.11749120181865	28.41
+zccs2641	CNS	EPN-PFA	Posterior fossa A ependymoma, group PFA, WHO G3	D1	-0.531750036191621	0.7
+zccs2660	Sarcoma	RMS FOXO1 fusion negative	Embryonal rhabdomyosarcoma	D1	0.231246256632193	3.89
+zccs2697	Sarcoma	OST	Osteosarcoma	P1	-0.890134439344566	0.3
+zccs2702	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.49933659740525	0.08
+zccs2711	Sarcoma	MPNST	Malignant peripheral nerve sheath tumour	D1	0.0265455410241971	2.45
+zccs2762	HM	TALL/lymphoma	T-lymphoblastic leukaemia	R1	-0.0844797728840667	1.88
+zccs2839	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.91137918691105	0.03
+zccs2868	CNS	ETMR	Embryonal tumour with multilayered rosettes, C19MC-altered	D1	1.64778581236312	89.37
+zccs2869	Sarcoma	Sarcoma other	CIC-rearranged sarcoma, non-CNS	D1	0.675269735789621	10.08
+zccs2870	Solid tumour	WT	Wilms tumour	D1	0.992060052061506	20.52
+zccs2874	CNS	Schwannoma	Vestibular schwannoma	P4	-0.26948271273928	1.21
+zccs2908	Sarcoma	Fibroblastic and myofibroblastic tumour	Inflammatory myofibroblastic tumour	D1	-0.701562203505743	0.45
+zccs2909	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.13226544677374	0.17
+zccs3001	Sarcoma	OST	Osteosarcoma	D1	-1.28191621809886	0.12
+zccs3013	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.250696569203598	1.23
+zccs3021	CNS	LGG	Pilocytic astrocytoma	D1	0.305375713890426	4.3
+zccs3075	HM	Burkitt lymphoma	Burkitt lymphoma	D1	-1.88967421407618	0.03
+zccs3077	HM	AML	Acute myeloid leukaemia	D1	0.724163414308181	11.09
+zccs3082	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.08832128360124	0.17
+zccs3110	HM	AML	Acute myeloid leukaemia	D1	0.612917704058092	8.59
+zccs3119	HM	AML	Acute myeloid leukaemia	D1	-0.291775111253054	1.11
+zccs3120	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.45275348528964	0.08
+zccs3133	HM	AML	Acute myeloid leukaemia	D1	-2.069348050141	0.02
+zccs3138	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.731204737023913	0.41
+zccs3153	Solid tumour	WT	Wilms tumour	D1	1.01609033366984	20.99
+zccs3154	Solid tumour	WT	Wilms tumour	R1	0.998165418296066	20.36
+zccs3156	CNS	MB-non WNT/non-SHH	Medulloblastoma, non-WNT/non-SHH	D1	-0.0928079543293807	1.74
+zccs3157	Sarcoma	EWS	Ewing sarcoma, soft tissue	D1	-0.37452150591793	0.92
+zccs3169	HM	Hodgkin lymphoma	Hodgkin lymphoma	D1	-1.31442676681428	0.11
+zccs3170	Sarcoma	EWS	Ewing sarcoma, bone	D1	0.635415703020562	9.02
+zccs3189	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.870469199461353	0.3
+zccs3192	Sarcoma	EWS	Ewing sarcoma, bone	D1	0.51227230557541	6.83
+zccs3210	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.93356694355784	0.26
+zccs3237	Solid tumour	Germ cell tumour	Yolk sac tumour, non-CNS	D1	1.38080374754097	48.91
+zccs3266	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.808534814474528	0.34
+zccs3275	Solid tumour	Solid other	NUTM1-rearranged neoplasm	D1	-0.675578665146887	0.46
+zccs3292	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.00117885667951	0.22
+zccs3295	CNS	Choroid plexus tumour	Atypical choroid plexus papilloma	D1	0.351843018453564	4.68
+zccs3318	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.43301815529001	0.08
+zccs3310	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.285146124311048	1.11
+zccs3341	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.524857690196546	0.63
+zccs3350	HM	Myeloproliferative neoplasm	Chronic myeloid leukaemia	D1	-0.566567769824855	0.55
+zccs3373	Sarcoma	OST	Osteosarcoma	D1	-0.943961161082644	0.24
+zccs3376	Solid tumour	WT	Wilms tumour	D1	1.00003314761371	19.94
+zccs3381	CNS	EPN-YAP1	Supratentorial ependymoma, YAP1 fusion-positive, WHO Grade unknown	D1	-0.307558113487765	1.02
+zccs3394	HM	Burkitt lymphoma	Burkitt lymphoma	D1	-1.1718108487086	0.14
+zccs3396	CNS	CNS lymphoma	Primary diffuse large B-cell lymphoma of the CNS	D1	-0.866015883610119	0.28
+zccs3409	Solid tumour	Solid other	Cystic nephroma	D1	-0.162349855999976	1.39
+zccs3442	Solid tumour	WT	Wilms tumour	D1	1.38172796692337	46.35
+zccs3449	Solid tumour	WT	Wilms tumour	D1	1.39683000599802	47.97
+zccs3454	CNS	MB-SHH	Medulloblastoma, SHH-activated and TP53-wildtype	R1	1.72010474702057	100.08
+zccs3469	CNS	LGG	Pilocytic astrocytoma	D1	0.752591254548929	11.11
+zccs3471	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.03554691532358	0.19
+zccs3473	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.11154753949765	0.16
+zccs3480	Solid tumour	Solid other	Myofibroma	D1	-0.576759717147516	0.54
+zccs3506	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.76745848551121	0.35
+zccs3515	Solid tumour	Neuroendocrine tumour	Medullary thyroid carcinoma	D1	0.294868820980415	3.9
+zccs3519	HM	Mature B lymphoma	Primary mediastinal large B cell lymphoma	D1	-0.149215266975585	1.42
+zccs3537	Sarcoma	OST	Osteosarcoma	D1	-0.462306571059576	0.7
+zccs3552	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.765764892908732	0.35
+zccs3591	Solid tumour	Sex cord stromal tumour	Juvenile granulosa cell tumour of the testis	D1	0.852723857207577	13.7
+zccs3648	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.27327236494041	0.11
+zccs3659	CNS	LGG	Ganglioglioma	D1	0.176274370583576	2.94
+zccs3699	CNS	LGG	Glioneuronal tumour, NOS, low grade	D1	0.606524289829667	7.73
+zccs3750	HM	Acute leukaemia	Burkitt leukaemia	D1	-0.243809849009422	1.13
+zccs3757	Solid tumour	Hepatoblastoma/HCC	Hepatoblastoma	D1	1.05981881223693	21.48
+zccs3758	HM	TALL/lymphoma	T-lymphoblastic leukaemia	D1	0.308533801620322	3.92
+zccs3773	CNS	LGG	Papillary glioneuronal tumour	D1	0.47956655335063	5.8
+zccs3777	HM	TALL/lymphoma	T-lymphoblastic lymphoma	D1	-0.586048714400662	0.52
+zccs3793	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.672029107205097	0.43
+zccs3839	CNS	CNS embryonal	CNS neuroblastoma, FOXR2-activated	D1	-0.274192607626294	1.05
+zccs3832	Sarcoma	EWS	Ewing sarcoma, soft tissue	D1	-1.05322173327481	0.18
+zccs3872	CNS	LGG	Pilocytic astrocytoma	D1	0.39799411106001	4.82
+zccs3875	HM	Histiocytosis	Histiocytosis, NOS	P1	-0.468015348749861	0.67
+zccs3911	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.892482443832134	0.26
+zccs3915	HM	AML	Acute myeloid leukaemia	D1	-1.36216085047999	0.09
+zccs3977	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-4.35961456489981	0
+zccs3986	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.46247282113322	0.07
+zccs4011	Solid tumour	WT	Wilms tumour	D1	1.69109310632658	89.21
+zccs4028	CNS	LGG	Glioneuronal tumour, NOS, low grade	D1	-0.726833077459202	0.37
+zccs4034	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.25988983581509	0.11
+zccs4049	HM	MDS	Myelodysplastic syndrome	D1	-1.8348164332655	0.03
+zccs4103	CNS	LGG	Pilocytic astrocytoma	D1	0.28631587749659	3.66
+zccs4107	Solid tumour	Germ cell tumour	Yolk sac tumour, non-CNS	P1	0.140383711354561	2.62
+zccs4114	CNS	HGG	Diffuse hemispheric glioma, H3 G34-mutant	D1	-0.0206588703934161	1.82
+zccs1163	CNS	HGG	Diffuse high grade glioma, H3-wildtype and IDH-wildtype	D1	0.860325532944971	19.79
+zccs1504	CNS	DMG	Diffuse midline glioma, H3 K27-altered, H3 K27M mutation	R1	0.178225599970934	4.11
+zccs1823	CNS	LGG	Desmoplastic infantile ganglioglioma and astrocytoma	D1	-0.459845001951629	1.01
+zccs2172	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-0.874478646113583	0.37
+zccs2796	CNS	Craniopharyngioma	Adamantinomatous craniopharyngioma	R1	0.927683223150007	17.95
+zccs3023	CNS	LGG	Pilocytic astrocytoma	D1	0.353918656263982	4.81
+zccs3176	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.14891799768654	0.16
+zccs3177	CNS	Pituitary tumour	Pituitary adenoma	D1	-0.594042258051563	0.56
+zccs3196	Solid tumour	Hepatoblastoma/HCC	Hepatoblastoma	D1	0.693903595403895	10.3
+zccs3272	Solid tumour	Solid other	Parathyroid adenoma	D1	-0.440394818749728	0.72
+zccs3306	Solid tumour	Solid other	Myofibroma	D1	-0.309743823987878	1.05
+zccs3439	CNS	DMG	Diffuse midline glioma, H3 K27-altered, no H3 K27M mutation	D1	0.701199404615834	9.86
+zccs3563	CNS	LGG	Diffuse low grade glioma, MAPK pathway altered	D1	-0.208888080790867	1.24
+zccs3846	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-2.01529131084512	0.02
+zccs3941	Solid tumour	Hepatoblastoma/HCC	Hepatocellular carcinoma	D1	0.0793960016816745	2.3
+zccs3960	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-2.0144601818013	0.02
+zccs2489	Sarcoma	Sarcoma other	Clear cell sarcoma of kidney	R1	0.446850598656715	6.63
+zccs2886	Solid tumour	Fibroblastic and myofibroblastic tumour	Spindle cell neoplasm	D1	0.00419603375817884	2.24
+zccs2917	Solid tumour	Solid other	Kidney tumour, NEC	D1	0.871758857627339	15.49
+zccs3168	Sarcoma	RMS FOXO1 fusion positive	Alveolar rhabdomyosarcoma	P1	1.10742182256124	26.27
+zccs3311	Sarcoma	RMS FOXO1 fusion positive	Alveolar rhabdomyosarcoma	P1	0.84071162408285	14.05
+zccs3458	Sarcoma	Rhabdoid tumour	Malignant rhabdoid tumour, renal	D1	-0.409135289171976	0.79
+zccs3675	Solid tumour	Melanocytic tumour	Melanocytic naevus	D1	-0.0327776119872581	1.83
+zccs3763	Sarcoma	RMS FOXO1 fusion positive	Alveolar rhabdomyosarcoma	R1	1.57632522476524	69.08
+zccs3891	Sarcoma	RMS FOXO1 fusion positive	Alveolar rhabdomyosarcoma	R1	1.10043106137575	23.41
+zccs3933	Sarcoma	RMS FOXO1 fusion positive	Alveolar rhabdomyosarcoma	R1	1.46546575156298	53.76
+zccs3956	Solid tumour	Hepatoblastoma/HCC	Hepatoblastoma	D1	0.800892715859509	11.98
+zccs4083	CNS	HGG	Diffuse high grade glioma, H3-wildtype and IDH-wildtype	P1	0.787485275822953	11.39
+zccs2831	Solid tumour	Melanocytic tumour	PRKAR1A-inactivated melanocytic neoplasm	P1	-1.62194669490516	0.05
+zccs3730	Sarcoma	RMS FOXO1 fusion negative	Embryonal rhabdomyosarcoma	R1	0.334779022995882	4.16
+zccs4096	HM	Acute leukaemia	Mixed phenotype acute leukaemia	D1	1.23613339047019	31.47
+zccs1	CNS	DMG	Diffuse midline glioma, H3 K27-altered, H3 K27M mutation	P1	1.21	46.64
+zccs6	CNS	CNS embryonal	CNS embryonal tumour with BCOR internal tandem duplication	R4	0.78	17.63
+zccs7	Sarcoma	OST	Osteosarcoma	D1	-1.82	0.05
+zccs8	Solid tumour	WT	Wilms tumour	R1	1.37	67.08
+zccs9	Solid tumour	Hepatoblastoma/HCC	Hepatocellular carcinoma	R1	-0.67	0.67
+zccs10	CNS	MB-SHH	Medulloblastoma, SHH-activated and TP53-mutant	R1	1.5	89.42
+zccs11	Sarcoma	EWS	Ewing sarcoma, bone or soft tissue	R1	-0.33	1.42
+zccs12	Sarcoma	Angiosarcoma	Angiosarcoma	D1	-0.27	1.64
+zccs13	Sarcoma	EWS	Ewing sarcoma, bone or soft tissue	R2	-0.46	1.07
+zccs15	Sarcoma	GIST	Gastrointestinal stromal tumour	R4	0.56	10.62
+zccs16	CNS	DMG	Diffuse midline glioma, H3 K27-altered, H3 K27M mutation	D1	0.72	15.53
+zccs17	Solid tumour	Fibroblastic and myofibroblastic tumour	Spindle cell neoplasm	D1	-0.833318004442779	0.3
+zccs18	CNS	HGG	Diffuse high grade glioma, H3-wildtype and IDH-wildtype	D1	0.84	20.2
+zccs19	Sarcoma	Sarcoma other	Epithelioid sarcoma	P3	-0.94	0.36
+zccs20	Sarcoma	EWS	Ewing sarcoma, bone or soft tissue	R2	-0.89	0.4
+zccs21	HM	AML	Therapy-related acute myeloid leukaemia	D2	-0.13	2.24
+zccs26	Solid tumour	Fibroblastic and myofibroblastic tumour	Desmoid fibromatosis	D1	-0.62	0.75
+zccs27	Sarcoma	RMS FOXO1 fusion positive	Alveolar rhabdomyosarcoma	R1	0.97	26.81
+zccs28	Sarcoma	Rhabdoid tumour	Malignant rhabdoid tumour, non-renal/hepatic	D1	-0.05	2.72
+zccs29	CNS	HGG	Diffuse high grade glioma, H3-wildtype and IDH-wildtype	P2	1.78	168.9
+zccs30	Sarcoma	EWS	Ewing sarcoma, bone or soft tissue	D1	-0.57	0.84
+zccs34	Solid tumour	Fibroblastic and myofibroblastic tumour	Spindle cell neoplasm	D1	0.6	11.68
+zccs35	Solid tumour	WT	Wilms tumour	R3	1.19	44.75
+zccs36	Sarcoma	Rhabdoid tumour	Malignant rhabdoid tumour, renal	D1	-1.3	0.16
+zccs37	CNS	HGG	Diffuse hemispheric glioma, H3 G34-mutant	D1	0.63	12.62
+zccs38	Sarcoma	EWS	Ewing sarcoma, bone or soft tissue	R2	-0.32	1.47
+zccs40	Sarcoma	RMS FOXO1 fusion positive	Alveolar rhabdomyosarcoma	D1	1.28	54.13
+zccs42	Solid tumour	Carcinoma	Non small cell lung carcinoma	D1	0.35	6.69
+zccs43	Sarcoma	OST	Osteosarcoma	D1	-1.27	0.17
+zccs44	CNS	Melanocytic tumour	Malignant melanoma, primary CNS	D1	0.11	3.86
+zccs45	CNS	HGG	Diffuse high grade glioma, H3-wildtype and IDH-wildtype	D1	0.55	10.54
+zccs46	CNS	HGG	Diffuse high grade glioma, H3-wildtype and IDH-wildtype	P3	0.38	7.08
+zccs47	CNS	DMG	Diffuse midline glioma, H3 K27-altered, H3 K27M mutation	D1	0.03	3.21
+zccs50	CNS	Meningioma	Meningioma WHO G2	P1	-1.02	0.3
+zccs52	CNS	Choroid plexus tumour	Choroid plexus carcinoma, TP53-mutant	P1	-0.03	2.81
+zccs53	Sarcoma	Synovial sarcoma	Synovial sarcoma	P1	0.55	10.5
+zccs54	Sarcoma	RMS FOXO1 fusion positive	Alveolar rhabdomyosarcoma	D1	1.42	73.92
+zccs55	CNS	EPN-ZFTA	Supratentorial ependymoma, ZFTA fusion-positive, WHO Grade unknown	P1	0.92	24.3
+zccs56	CNS	MB-non WNT/non-SHH	Medulloblastoma, non-WNT/non-SHH	R1	-0.06	2.61
+zccs57	Solid tumour	Hepatoblastoma/HCC	Hepatocellular malignant neoplasm, NOS	R1	0.8	18.3
+zccs58	CNS	HGG	Diffuse high grade glioma, H3-wildtype and IDH-wildtype	R1	0.21	4.83
+zccs59	Sarcoma	EWS	Ewing sarcoma, bone or soft tissue	R2	-0.39	1.25
+zccs60	Sarcoma	MPNST	Malignant peripheral nerve sheath tumour	R1	-0.41	1.2
+zccs61	HM	AML	Acute myeloid leukaemia	R2	0.63	12.42
+zccs62	CNS	DMG	Diffuse midline glioma, H3 K27-altered, H3 K27M mutation	D2	0.74	16.15
+zccs63	CNS	MB-non WNT/non-SHH	Medulloblastoma, non-WNT/non-SHH	P1	0.27	5.51
+zccs64	CNS	Rhabdoid tumour	Atypical teratoid rhabdoid tumour	D1	-1.18	0.21
+zccs65	HM	Burkitt lymphoma	Burkitt lymphoma	P1	-1.39	0.13
+zccs261	CNS	CNS embryonal	CNS embryonal tumour, NOS	D1	0.66	13.48
+zccs66	CNS	EPN-PFA	Posterior fossa A ependymoma, group PFA, WHO G3	R5	0.87	21.63
+zccs67	CNS	HGG	Glioblastoma, IDH wild-type	S1	0.58	11.22
+zccs68	CNS	ETMR	Embryonal tumour with multilayered rosettes, C19MC-altered	D1	0.92	24.36
+zccs70	HM	Burkitt lymphoma	Burkitt lymphoma	R1	-2.23	0.02
+zccs71	CNS	ETMR	Embryonal tumour with multilayered rosettes, C19MC-altered	D1	1.36	65.37
+zccs262	Sarcoma	Sarcoma other	Undifferentiated sarcoma	R1	-0.4	1.23
+zccs74	HM	AML	Acute myeloid leukaemia	R1	1.42	74.26
+zccs75	Sarcoma	EWS	Ewing sarcoma, bone or soft tissue	D1	1.14	39.99
+zccs76	CNS	EPN-ZFTA	Supratentorial ependymoma, ZFTA fusion-positive, WHO Grade unknown	R1	0.63	12.44
+zccs263	HM	Mature T lymphoma	Hepatosplenic T-cell lymphoma	D1	-1.3	0.16
+zccs78	Solid tumour	Germ cell tumour	Yolk sac tumour, non-CNS	R1	0.65	13.28
+zccs79	CNS	CNS embryonal	CNS embryonal tumour, NOS	R1	-0.24	1.75
+zccs80	HM	TALL/lymphoma	T-lymphoblastic leukaemia	R1	0.47	8.69
+zccs82	CNS	CNS embryonal	CNS neuroblastoma, FOXR2-activated	D1	-0.04	2.77
+zccs83	HM	AML	Acute myeloid leukaemia	S1	0.88	22.25
+zccs84	Solid tumour	Adrenal cortical tumour	Adrenocortical carcinoma	D1	-1.18	0.21
+zccs85	CNS	HGG	Glioblastoma, IDH wild-type	P2	0.61	11.87
+zccs86	CNS	LGG	Pilocytic astrocytoma	P1	-0.09	2.47
+zccs87	Sarcoma	Desmoplastic small round cell tumour	Desmoplastic small round cell tumour	D1	-0.71	0.6
+zccs88	CNS	HGG	Diffuse hemispheric glioma, H3 G34-mutant	D1	0.74	15.96
+zccs91	CNS	EPN-ZFTA	Supratentorial ependymoma, ZFTA fusion-positive, WHO Grade unknown	D1	-0.71	0.6
+zccs92	CNS	DMG	Diffuse midline glioma, H3 K27-altered, H3 K27M mutation	D1	1.08	34.33
+zccs93	Sarcoma	RMS FOXO1 fusion negative	Embryonal rhabdomyosarcoma	P1	0.35	6.61
+zccs94	Solid tumour	Hepatoblastoma/HCC	Hepatocellular carcinoma	D1	-0.46	1.06
+zccs95	CNS	HGG	Diffuse high grade glioma, H3-wildtype and IDH-wildtype	D1	1.29	55.18
+zccs96	CNS	LGG	Glioneuronal tumour, NOS, low grade	P1	0.51	9.64
+zccs97	Sarcoma	OST	Osteosarcoma	R3	-1.22	0.19
+zccs98	HM	AML	Acute myeloid leukaemia	D1	0.98	27.68
+zccs265	Sarcoma	OST	Osteosarcoma	R1	-0.99	0.32
+zccs100	CNS	DMG	Diffuse midline glioma, H3 K27-altered, H3 K27M mutation	R1	-0.49	0.99
+zccs101	Sarcoma	OST	Osteosarcoma	D1	-0.35	1.38
+zccs102	Sarcoma	RMS FOXO1 fusion positive	Alveolar rhabdomyosarcoma	R1	1.25	51.47
+zccs103	CNS	Rhabdoid tumour	Atypical teratoid rhabdoid tumour	D1	-0.45	1.09
+zccs104	HM	TALL/lymphoma	T-lymphoblastic leukaemia	D1	0.19	4.61
+zccs267	Sarcoma	EWS	Ewing sarcoma, bone or soft tissue	R1	-0.95	0.35
+zccs105	HM	AML	Acute myeloid leukaemia	R1	-4.64	0
+zccs106	CNS	LGG	Ganglioglioma	R1	0.53	9.94
+zccs108	CNS	CNS embryonal	CNS embryonal tumour, NOS	D1	1.47	84.38
+zccs110	Sarcoma	Sarcoma other	CIC-rearranged sarcoma, non-CNS	D1	0.37	7.03
+zccs112	HM	Mature T lymphoma	Hepatosplenic T-cell lymphoma	D1	-2.54	0.01
+zccs269	CNS	HGG	Diffuse high grade glioma, H3-wildtype and IDH-wildtype	D1	0.55	10.44
+zccs113	Sarcoma	Rhabdoid tumour	Malignant rhabdoid tumour, non-renal/hepatic	D1	1.06	33.08
+zccs114	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	R1	-2.23	0.02
+zccs115	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	R2	-1.56	0.09
+zccs116	CNS	HGG	Diffuse high grade glioma, H3-wildtype and IDH-wildtype	D1	-0.21	1.87
+zccs271	CNS	DMG	Diffuse midline glioma, H3 K27-altered, H3 K27M mutation	D1	0.48	8.86
+zccs485	Sarcoma	OST	Osteosarcoma	R1	-0.63	0.73
+zccs272	HM	TALL/lymphoma	T-lymphoblastic leukaemia	R1	0.84	20.13
+zccs120	CNS	DMG	Diffuse midline glioma, H3 K27-altered, no H3 K27M mutation	D1	0.99	28.01
+zccs273	HM	TALL/lymphoma	T-lymphoblastic leukaemia	R1	-0.17	2.05
+zccs121	Sarcoma	EWS	Ewing sarcoma, bone or soft tissue	R1	0.12	4
+zccs123	HM	Hodgkin lymphoma	Hodgkin lymphoma	R2	-0.93	0.37
+zccs1209	Solid tumour	Neuroendocrine tumour	Pheochromocytoma	D1	-0.38	1.27
+zccs124	Sarcoma	EWS	Ewing sarcoma, bone or soft tissue	R1	0.09	3.67
+zccs125	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	R1	-1.16	0.22
+zccs1211	CNS	Sarcoma other	CNS sarcoma, NOS	D1	0.2	4.79
+zccs128	Sarcoma	Sarcoma other	CIC-rearranged sarcoma, non-CNS	D1	-0.45	1.09
+zccs275	CNS	EPN-PFA	Posterior fossa A ependymoma, group PFA, WHO G3	P1	0.47	8.74
+zccs129	Sarcoma	Angiosarcoma	Angiosarcoma	D1	-1.22	0.19
+zccs277	Solid tumour	Adrenal cortical tumour	Adrenocortical carcinoma	R1	0.42	7.8
+zccs500	CNS	DMG	Diffuse midline glioma, H3 K27-altered, H3 K27M mutation	D1	0.1	3.77
+zccs131	Sarcoma	MPNST	Malignant peripheral nerve sheath tumour	R1	-0.5	0.98
+zccs1212	Solid tumour	WT	Nephroblastomatosis	D1	0.93	24.97
+zccs133	HM	Histiocytosis	Malignant histiocytosis (M group)	D1	-0.53	0.91
+zccs134	CNS	EPN-PFA	Posterior fossa A ependymoma, group PFA, WHO G3	D1	0.22	4.92
+zccs282	CNS	EPN-PFA	Posterior fossa A ependymoma, group PFA, WHO G2	D1	-0.82	0.47
+zccs135	CNS	DMG	Diffuse midline glioma, H3 K27-altered, H3 K27M mutation	D1	0.62	12.22
+zccs1214	HM	AML	Therapy-related acute myeloid leukaemia	SMN	-4.64	0
+zccs136	Sarcoma	RMS FOXO1 fusion negative	Spindle cell rhabdomyosarcoma	P1	0.98	27.6
+zccs284	CNS	DMG	Diffuse midline glioma, H3 K27-altered, H3 K27M mutation	D1	-0.5	0.97
+zccs137	CNS	HGG	Neuro-epithelial tumour with PATZ1 fusion	D1	0.23	5.09
+zccs139	HM	TALL/lymphoma	T-lymphoblastic leukaemia	R1	0.34	6.48
+zccs140	Sarcoma	RMS FOXO1 fusion negative	Embryonal rhabdomyosarcoma	R1	-1.25	0.18
+zccs141	CNS	HGG	Diffuse high grade glioma, H3-wildtype and IDH-wildtype	D1	0.38	7.08
+zccs1216	CNS	Rhabdoid tumour	Atypical teratoid rhabdoid tumour	D1	-0.59	0.8
+zccs1217	CNS	MB-non WNT/non-SHH	Medulloblastoma, non-WNT/non-SHH	D1	0.25	5.34
+zccs144	Sarcoma	MPNST	Malignant peripheral nerve sheath tumour	D1	-0.45	1.08
+zccs291	CNS	EPN-PFA	Posterior fossa A ependymoma, group PFA, WHO G3	D1	0.41	7.7
+zccs292	CNS	HGG	Diffuse high grade glioma, H3-wildtype and IDH-wildtype	R1	0.05	3.35
+zccs1218	Sarcoma	EWS	Ewing sarcoma, bone or soft tissue	D1	-0.65	0.7
+zccs146	Sarcoma	RMS FOXO1 fusion negative	Embryonal rhabdomyosarcoma	D1	0.59	11.36
+zccs147	Sarcoma	OST	Osteosarcoma	R1	-1.33	0.15
+zccs1220	Solid tumour	Carcinoma	Cholangiocarcinoma	R1	-1.16	0.22
+zccs149	HM	AML	Acute myeloid leukaemia	R1	0.12	3.95
+zccs150	CNS	HGG	Diffuse hemispheric glioma, H3 G34-mutant	D1	0.61	11.88
+zccs296	Sarcoma	RMS FOXO1 fusion positive	Alveolar rhabdomyosarcoma	R1	1.39	70.3
+zccs298	CNS	CNS embryonal	CNS neuroblastoma, FOXR2-activated	R1	-0.54	0.89
+zccs299	Solid tumour	Melanocytic tumour	Malignant melanoma	D1	-0.89	0.4
+zccs1222	Sarcoma	RMS FOXO1 fusion positive	Alveolar rhabdomyosarcoma	R1	1.07	33.93
+zccs151	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	P1	-1.82	0.05
+zccs463	Sarcoma	RMS FOXO1 fusion positive	Alveolar rhabdomyosarcoma	R1	1.25	50.62
+zccs300	CNS	DMG	Diffuse midline glioma, H3 K27-altered, no H3 K27M mutation	D1	0.58	11.2
+zccs153	Sarcoma	RMS FOXO1 fusion positive	Alveolar rhabdomyosarcoma	D1	0.67	13.74
+zccs1223	Sarcoma	Fibroblastic and myofibroblastic tumour	Inflammatory myofibroblastic tumour	D1	-0.53	0.92
+zccs155	HM	Hodgkin lymphoma	Hodgkin lymphoma	P1	-0.89	0.4
+zccs1224	Sarcoma	Sarcoma other	Undifferentiated round cell sarcomas of infancy with BCOR ITD	D1	0.42	7.86
+zccs302	CNS	HGG	Diffuse high grade glioma, H3-wildtype and IDH-wildtype	P1	0.35	6.66
+zccs157	HM	AML	Acute myeloid leukaemia	R1	-2.23	0.02
+zccs303	CNS	HGG	Pleomorphic xanthoastrocytoma WHO G3	D1	0.5	9.26
+zccs1225	HM	AML	Acute myeloid leukaemia	R2	0.35	6.68
+zccs158	CNS	HGG	Infant-type hemispheric glioma fusion-positive	R2	0.5	9.33
+zccs160	CNS	EPN-PFA	Posterior fossa A ependymoma, group PFA, WHO G3	P2	0.34	6.48
+zccs304	Solid tumour	Adrenal cortical tumour	Adrenocortical carcinoma	D1	-1.74	0.06
+zccs1228	CNS	HGG	Diffuse high grade glioma, H3-wildtype and IDH-wildtype	SMN	-0.06	2.62
+zccs161	Sarcoma	Rhabdoid tumour	Malignant rhabdoid tumour, renal	D1	-0.43	1.15
+zccs162	CNS	Rhabdoid tumour	Atypical teratoid rhabdoid tumour	D1	0.01	3.1
+zccs497	Sarcoma	EWS	Ewing sarcoma, bone or soft tissue	R1	-0.54	0.89
+zccs163	CNS	HGG	Diffuse high grade glioma, H3-wildtype and IDH-wildtype	S1	0.2	4.8
+zccs305	Sarcoma	EWS	Ewing sarcoma, bone or soft tissue	D1	-0.54	0.9
+zccs306	Sarcoma	OST	Osteosarcoma	R1	-0.39	1.26
+zccs1229	CNS	MB-non WNT/non-SHH	Medulloblastoma, non-WNT/non-SHH	D1	0.41	7.61
+zccs165	CNS	DMG	Diffuse midline glioma, H3 K27-altered, H3 K27M mutation	D1	0.47	8.65
+zccs1230	Sarcoma	Synovial sarcoma	Synovial sarcoma	D1	0.73	15.85
+zccs307	CNS	EPN-PFA	Posterior fossa A ependymoma, group PFA, WHO G3	R1	0.13	4.03
+zccs308	HM	AML	Therapy-related acute myeloid leukaemia	D1	-0.44	1.11
+zccs1231	CNS	MB-non WNT/non-SHH	Medulloblastoma, non-WNT/non-SHH	R1	0.19	4.66
+zccs167	Sarcoma	Rhabdoid tumour	Malignant rhabdoid tumour, liver	D1	-1.16	0.22
+zccs168	Sarcoma	Rhabdoid tumour	Malignant rhabdoid tumour, non-renal/hepatic	D1	-1.05	0.28
+zccs1232	CNS	Pineoblastoma	Pineoblastoma, MYC/FOXR2-activated	D1	0.41	7.68
+zccs309	CNS	LGG	Pilocytic astrocytoma	P2	0.18	4.58
+zccs310	Sarcoma	EWS	Ewing sarcoma, bone or soft tissue	D1	-0.02	2.86
+zccs1233	Sarcoma	EWS	Ewing sarcoma, bone or soft tissue	P1	-0.15	2.13
+zccs170	Sarcoma	RMS FOXO1 fusion negative	Embryonal rhabdomyosarcoma	R1	-0.2	1.91
+zccs172	CNS	HGG	Diffuse high grade glioma, H3-wildtype and IDH-wildtype	R1	0.38	7.18
+zccs173	HM	AML	Acute myeloid leukaemia	R1	-1.04	0.29
+zccs174	Solid tumour	WT	Wilms tumour	R1	1.48	85.81
+zccs1236	Solid tumour	Solid other	Primitive neuroectodermal tumour	D1	1.06	33.09
+zccs175	Sarcoma	Sarcoma other	Alveolar soft part sarcoma	D1	-0.36	1.33
+zccs470	CNS	Choroid plexus tumour	Choroid plexus carcinoma, TP53-mutant	D1	0.92	24.39
+zccs177	Sarcoma	MPNST	Malignant peripheral nerve sheath tumour	D1	-0.1	2.39
+zccs654	CNS	DMG	Diffuse midline glioma, H3 K27-altered, H3 K27M mutation	D1	0.51	9.67
+zccs1239	Sarcoma	Sarcoma other	Low grade fibromyxoid sarcoma	R1	-1.56	0.09
+zccs179	Solid tumour	Bone tumours other	Osteoblastoma	R1	-0.77	0.53
+zccs1240	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.36	0.14
+zccs503	CNS	Choroid plexus tumour	Choroid plexus carcinoma, TP53-mutant	D1	1.05	32.4
+zccs181	Solid tumour	Solid other	Solid pseudopapillary neoplasm of pancreas	R1	-0.83	0.46
+zccs182	CNS	Pineoblastoma	Pineoblastoma, RB1-altered	D1	1.37	66.02
+zccs183	CNS	DMG	Diffuse midline glioma, H3 K27-altered, no H3 K27M mutation	D1	0.65	13.2
+zccs501	Sarcoma	RMS FOXO1 fusion negative	Embryonal rhabdomyosarcoma	D1	0.26	5.48
+zccs1242	CNS	Choroid plexus tumour	Choroid plexus carcinoma, TP53-mutant	D1	0.68	14.08
+zccs185	CNS	Rhabdoid tumour	Atypical teratoid rhabdoid tumour	R1	0.33	6.37
+zccs1243	CNS	DMG	Diffuse midline glioma, H3 K27-altered, H3 K27M mutation	D1	0.37	6.99
+zccs319	HM	AML	Acute myeloid leukaemia	P1	1.23	48.82
+zccs187	Sarcoma	MPNST	Malignant peripheral nerve sheath tumour	R1	-0.34	1.41
+zccs188	Solid tumour	Fibroblastic and myofibroblastic tumour	Spindle cell neoplasm	D1	-0.12	2.32
+zccs189	CNS	HGG	Diffuse high grade glioma, H3-wildtype and IDH-wildtype	D1	0.28	5.7
+zccs1247	Sarcoma	Fibroblastic and myofibroblastic tumour	Inflammatory myofibroblastic tumour	R1	0.51	9.66
+zccs190	CNS	Pineoblastoma	Pineoblastoma, NOS	R1	0.32	6.25
+zccs1249	Sarcoma	EWS	Ewing sarcoma, bone or soft tissue	D1	-0.06	2.66
+zccs323	CNS	DMG	Diffuse midline glioma, H3 K27-altered, no H3 K27M mutation	D1	0.58	11.18
+zccs324	HM	Myeloproliferative neoplasm	Juvenile myelomonocytic leukaemia	D1	-0.83	0.46
+zccs192	CNS	DMG	Diffuse midline glioma, H3 K27-altered, H3 K27M mutation	D1	0.54	10.35
+zccs1252	Solid tumour	Carcinoma	Nasopharyngeal carcinoma	P1	-0.88	0.41
+zccs326	HM	AML	Acute myeloid leukaemia	R1	0.72	15.28
+zccs193	CNS	DMG	Diffuse midline glioma, H3 K27-altered, H3 K27M mutation	D1	0.89	22.43
+zccs194	CNS	ETMR	Embryonal tumour with multilayered rosettes, C19MC-altered	D1	1.56	103.37
+zccs1253	HM	Mature T lymphoma	Anaplastic large cell lymphoma, ALK fusion-positive	R1	-1.12	0.24
+zccs328	Solid tumour	Adrenal cortical tumour	Adrenocortical carcinoma	R1	0.94	25.1
+zccs329	CNS	DMG	Diffuse midline glioma, H3 K27-altered, H3 K27M mutation	D1	0.74	16.04
+zccs1255	CNS	HGG	Diffuse high grade glioma, H3-wildtype and IDH-wildtype	R1	0.21	4.83
+zccs195	HM	Acute leukaemia	Acute undifferentiated leukaemia	R1	0.98	27.67
+zccs331	Sarcoma	MPNST	Malignant peripheral nerve sheath tumour	P1	-0.06	2.61
+zccs1259	Sarcoma	EWS	Ewing sarcoma, soft tissue	R1	0.06	3.42
+zccs332	Sarcoma	Fibroblastic and myofibroblastic tumour	Infantile fibrosarcoma	R1	-0.98	0.33
+zccs333	CNS	LGG	Ganglioglioma	D1	-0.1	2.43
+zccs1261	Sarcoma	RMS FOXO1 fusion positive	Alveolar rhabdomyosarcoma	D1	1.18	43.05
+zccs334	CNS	DMG	Diffuse midline glioma, H3 K27-altered, H3 K27M mutation	P1	0.59	11.57
+zccs484	HM	AML	Acute myeloid leukaemia	D1	0.54	10.21
+zccs196	HM	TALL/lymphoma	T-lymphoblastic leukaemia	R1	-4.64	0
+zccs335	Sarcoma	OST	Osteosarcoma	R1	-0.45	1.08
+zccs1263	Sarcoma	Fibroblastic and myofibroblastic tumour	Inflammatory myofibroblastic tumour	D1	-1.47	0.11
+zccs336	CNS	LGG	Pilocytic astrocytoma	D1	0.42	7.77
+zccs1264	CNS	EPN-PFA	Posterior fossa A ependymoma, group PFA, WHO G3	D1	-0.15	2.17
+zccs481	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	R1	-1.74	0.06
+zccs338	CNS	ETMR	Embryonal tumour with multilayered rosettes, NOS	D1	1.4	71.23
+zccs340	Sarcoma	EWS	Ewing sarcoma, bone or soft tissue	R1	0.08	3.65
+zccs480	Solid tumour	Adrenal cortical tumour	Adrenocortical carcinoma	D1	-1.61	0.08
+zccs1267	CNS	HGG	Diffuse hemispheric glioma, H3 G34-mutant	D1	1.02	29.22
+zccs198	HM	TALL/lymphoma	T-lymphoblastic leukaemia	R2	0.62	12.41
+zccs342	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	P1	-0.75	0.56
+zccs343	Sarcoma	Sarcoma other	Undifferentiated sarcoma	P2	0.82	19.19
+zccs489	Sarcoma	EWS	Ewing sarcoma, bone or soft tissue	D1	-0.37	1.3
+zccs1269	Sarcoma	OST	Osteosarcoma	R1	-0.37	1.28
+zccs344	Sarcoma	RMS FOXO1 fusion positive	Alveolar rhabdomyosarcoma	D1	1.24	50.21
+zccs1271	Sarcoma	Fibroblastic and myofibroblastic tumour	Infantile fibrosarcoma	D1	-0.8	0.5
+zccs345	HM	AML	Therapy-related acute myeloid leukaemia	P1	-2.54	0.01
+zccs491	HM	AML	Acute myeloid leukaemia	R1	-0.07	2.58
+zccs346	CNS	LGG	Pilocytic astrocytoma	P3	0.07	3.53
+zccs1273	Solid tumour	Hepatoblastoma/HCC	Hepatoblastoma	D1	0.65	13.01
+zccs347	Sarcoma	Desmoplastic small round cell tumour	Desmoplastic small round cell tumour	D1	0.13	4.08
+zccs1274	Solid tumour	Solid other	Mesothelioma	P1	-1.3270845559661	0.14
+zccs496	HM	AML	Acute myeloid leukaemia	D1	0.63	12.5
+zccs1275	CNS	DMG	Diffuse midline glioma, H3 K27-altered, H3 K27M mutation	D1	0.674805903666328	13.39
+zccs349	Sarcoma	Sarcoma other	EWSR1-rearranged sarcoma, non-ETS fusion	P1	-1.05	0.28
+zccs1277	CNS	DMG	Diffuse midline glioma, H3 K27-altered, H3 K27M mutation	D1	0.48	8.97
+zccs507	CNS	LGG	Diffuse low grade glioma, MAPK pathway altered	P1	0.31	6.08
+zccs202	Sarcoma	Rhabdoid tumour	Malignant rhabdoid tumour, non-renal/hepatic	D1	-0.59	0.79
+zccs352	CNS	HGG	Infant-type hemispheric glioma fusion-positive	D1	-0.03	2.8
+zccs1278	Solid tumour	Peripheral nerve sheath tumour	Neurofibroma	P1	-0.7	0.61
+zccs353	Sarcoma	EWS	Ewing sarcoma, bone or soft tissue	R2	0.15	4.23
+zccs354	CNS	DMG	Diffuse midline glioma, H3 K27-altered, H3 K27M mutation	D1	0.07	3.5
+zccs203	CNS	DMG	Diffuse midline glioma, H3 K27-altered, H3 K27M mutation	D1	0.04	3.31
+zccs355	CNS	DMG	Diffuse midline glioma, H3 K27-altered, H3 K27M mutation	D1	0.62	12.18
+zccs1280	Sarcoma	RMS FOXO1 fusion positive	Alveolar rhabdomyosarcoma	P1	1.12987916734568	37.17
+zccs356	Solid tumour	WT	Wilms tumour	R1	1.16	41.97
+zccs1281	Sarcoma	Rhabdoid tumour	Malignant rhabdoid tumour, liver	D1	-1.07	0.27
+zccs357	CNS	EPN-PFA	Posterior fossa A ependymoma, group PFA, WHO G3	R2	0.01	3.12
+zccs1282	HM	TALL/lymphoma	T-lymphoblastic lymphoma	R1	-1.05	0.28
+zccs1283	Sarcoma	Synovial sarcoma	Synovial sarcoma	R1	-0.165383931816264	2.01
+zccs204	HM	TALL/lymphoma	T-lymphoblastic lymphoma	D1	-0.89	0.4
+zccs358	CNS	MB-non WNT/non-SHH	Medulloblastoma, non-WNT/non-SHH	R1	0.58	11.29
+zccs1284	CNS	DMG	Diffuse midline glioma, H3 K27-altered, H3 K27M mutation	D1	0.170206679572402	4.2
+zccs359	CNS	MB-non WNT/non-SHH	Medulloblastoma, non-WNT/non-SHH	R1	2.84	1788.36
+zccs1285	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	R3	-1.43	0.12
+zccs360	Sarcoma	EWS	Ewing sarcoma, bone or soft tissue	R1	0.11	3.91
+zccs1286	HM	Acute leukaemia	Mixed phenotype acute leukaemia	D1	1.5	89.7
+zccs205	Solid tumour	Carcinoma	Upper gastrointestinal carcinoma	D1	-0.53	0.91
+zccs361	CNS	CNS embryonal	CNS embryonal tumour, NOS	R1	1.02	30.58
+zccs1288	Sarcoma	Sarcoma other	CIC-rearranged sarcoma, non-CNS	D1	-0.404386331772122	1.15
+zccs362	HM	AML	Acute myeloid leukaemia	P1	0.14	4.19
+zccs363	Solid tumour	WT	Wilms tumour	R2	1.39	70.4
+zccs1289	Sarcoma	RMS FOXO1 fusion positive	Alveolar rhabdomyosarcoma	D1	1.54	97.8
+zccs365	Sarcoma	OST	Osteosarcoma	D1	-1.3	0.16
+zccs366	Sarcoma	EWS	Ewing sarcoma, bone or soft tissue	R2	0.86	21.16
+zccs1293	HM	Histiocytosis	Cutaneous non-LCH (C group)	D1	-0.38	1.28
+zccs367	Sarcoma	EWS	Ewing sarcoma, bone or soft tissue	D1	-0.75	0.55
+zccs532	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	R2	-0.57	0.84
+zccs368	CNS	Pineoblastoma	Pineoblastoma, NOS	D1	1.25	50.67
+zccs369	CNS	CNS embryonal	Primary diffuse leptomeningeal PNET	D1	2.3	540.01
+zccs1295	HM	TALL/lymphoma	T-lymphoblastic leukaemia	R1	0.58601428214258	10.58
+zccs370	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	R2	-1.3	0.16
+zccs1296	CNS	HGG	Diffuse high grade glioma, H3-wildtype and IDH-wildtype	D1	0.55	10.49
+zccs371	HM	Mature B lymphoma	Diffuse large B cell lymphoma	R1	-0.46	1.06
+zccs1298	HM	AML	Therapy-related acute myeloid leukaemia	SMN	-1.55008151944191	0.08
+zccs372	CNS	HGG	Diffuse high grade glioma, H3-wildtype and IDH-wildtype	R1	-0.97	0.34
+zccs374	Solid tumour	Neuroendocrine tumour	Medullary thyroid carcinoma	D1	-0.77	0.53
+zccs1299	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	R3	-1.2	0.2
+zccs375	Sarcoma	RMS FOXO1 fusion negative	Embryonal rhabdomyosarcoma	D1	0.56	10.74
+zccs1301	CNS	Pineoblastoma	Pineoblastoma, miRNA processing-altered_1	D1	0.072705203382437	3.28
+zccs376	HM	AML	Acute myeloid leukaemia	R1	-2.23	0.02
+zccs1302	HM	TALL/lymphoma	T-lymphoblastic lymphoma	R1	-1.92	0.04
+zccs377	CNS	EPN-PFB	Posterior fossa B ependymoma, group PFB, WHO G2	R1	-0.54	0.9
+zccs1304	CNS	EPN-ZFTA	Supratentorial ependymoma, ZFTA fusion-positive, WHO G3	R1	0.02	3.13
+zccs379	CNS	HGG	Diffuse high grade glioma, H3-wildtype and IDH-wildtype	P1	0.61	11.88
+zccs1307	Sarcoma	RMS FOXO1 fusion positive	Alveolar rhabdomyosarcoma	R1	1.00753260159809	27.28
+zccs382	Sarcoma	OST	Osteosarcoma	R1	-0.99	0.32
+zccs383	Solid tumour	WT	Wilms tumour	R2	1	29.29
+zccs384	Sarcoma	Sarcoma other	CIC-rearranged sarcoma, non-CNS	P1	-0.29	1.55
+zccs1310	Solid tumour	Giant cell tumour	Giant cell rich tumour, HMGA2-NCOR2 fusion positive	D1	-1.43	0.12
+zccs385	Sarcoma	EWS	Ewing sarcoma, bone or soft tissue	P1	-0.74	0.57
+zccs386	HM	TALL/lymphoma	T-lymphoblastic lymphoma	D1	-1.22	0.19
+zccs387	CNS	HGG	Diffuse high grade glioma, H3-wildtype and IDH-wildtype	D1	0.41	7.63
+zccs388	CNS	EPN-PFA	Posterior fossa A ependymoma, group PFA, WHO G2	R1	-0.64	0.71
+zccs1311	CNS	HGG	Infant-type hemispheric glioma fusion-positive	D1	0.24	5.16
+zccs389	Sarcoma	Sarcoma other	Ameloblastic fibrosarcoma	D1	-0.62	0.74
+zccs390	Sarcoma	OST	Osteosarcoma	D1	-0.97	0.34
+zccs391	HM	Burkitt lymphoma	Burkitt lymphoma	R1	-2.23	0.02
+zccs1312	HM	TALL/lymphoma	T-lymphoblastic leukaemia	D1	-0.3	1.53
+zccs392	CNS	DMG	Diffuse midline glioma, H3 K27-altered, H3 K27M mutation	D1	0.68	14.02
+zccs1315	Sarcoma	MPNST	Malignant peripheral nerve sheath tumour	D1	-0.37	1.3
+zccs394	HM	Mature T lymphoma	T cell lymphoproliferative disorder	R1	-1.74	0.06
+zccs492	HM	AML	Acute myeloid leukaemia	P1	1	28.73
+zccs397	Sarcoma	OST	Osteosarcoma	R2	-0.75	0.55
+zccs1317	Sarcoma	Sarcoma other	Low grade fibromyxoid sarcoma	D1	-0.95	0.35
+zccs398	Sarcoma	GIST	Gastrointestinal stromal tumour	D1	-0.35	1.37
+zccs400	Sarcoma	OST	Osteosarcoma	D1	-1.12	0.24
+zccs1320	Sarcoma	Rhabdoid tumour	Malignant rhabdoid tumour, liver	D1	-0.91	0.39
+zccs402	CNS	DMG	Diffuse midline glioma, H3 K27-altered, H3 K27M mutation	D1	0.95	25.69
+zccs403	Sarcoma	RMS FOXO1 fusion negative	Embryonal rhabdomyosarcoma	D1	0.62	12.38
+zccs404	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	R1	-1.74	0.06
+zccs1325	Sarcoma	OST	Osteosarcoma	R1	-0.95	0.35
+zccs1326	Vascular/lymphatic anomalies	Vascular/lymphatic anomalies	Arteriovenous malformation	D1	0.13	4.01
+zccs1327	Sarcoma	Sarcoma other	Embryonal sarcoma of the liver	D1	-0.07	2.6
+zccs1328	Solid tumour	Germ cell tumour	Mixed germ cell tumour, non-CNS	R1	0.85	20.53
+zccs410	Sarcoma	MPNST	Malignant peripheral nerve sheath tumour	D1	-0.12	2.29
+zccs411	CNS	EPN-ZFTA	Supratentorial ependymoma, ZFTA fusion-positive, WHO G3	R1	0.58	11.34
+zccs1331	Solid tumour	Solid other	Myofibromatosis	D1	-0.83	0.46
+zccs1332	Sarcoma	Sarcoma other	Low grade fibromyxoid sarcoma	R1	-1.16	0.22
+zccs413	CNS	EPN-PFA	Posterior fossa A ependymoma, group PFA, WHO Grade unknown	R1	0.73	15.89
+zccs1333	Sarcoma	OST	Osteosarcoma	R1	-0.884423284164868	0.37
+zccs1334	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	R1	-1.04	0.29
+zccs414	CNS	HGG	Diffuse high grade glioma, H3-wildtype and IDH-wildtype	D1	0.21	4.91
+zccs416	CNS	CNS embryonal	CNS embryonal tumour, NOS	D1	1.39	69.6
+zccs420	CNS	EPN-ZFTA	Supratentorial ependymoma, ZFTA fusion-positive, WHO Grade unknown	D1	0.41	7.63
+zccs1338	CNS	LGG	Papillary glioneuronal tumour	D1	0.01	3.1
+zccs422	CNS	HGG	Diffuse high grade glioma, H3-wildtype and IDH-wildtype	D1	0.58	11.24
+zccs424	CNS	HGG	Glioblastoma, IDH wild-type	D1	0.9	22.87
+zccs425	Sarcoma	RMS FOXO1 fusion negative	Embryonal rhabdomyosarcoma	D1	0.3	5.9
+zccs426	Sarcoma	EWS	Ewing sarcoma, bone or soft tissue	R1	0.21	4.9
+zccs1343	Sarcoma	RMS FOXO1 fusion negative	Embryonal rhabdomyosarcoma	D1	0.79	18.05
+zccs429	CNS	MB-non WNT/non-SHH	Medulloblastoma, non-WNT/non-SHH	R1	0.14	4.17
+zccs430	Sarcoma	Rhabdoid tumour	Rhabdoid tumour of small cell type	R1	1.48	85.91
+zccs431	Sarcoma	Sarcoma other	Liposarcoma	P1	-0.46	1.07
+zccs1346	Sarcoma	Sarcoma other	Pleuropulmonary blastoma	D1	-0.64	0.71
+zccs433	CNS	LGG	Ganglioglioma	D1	-1.43	0.12
+zccs1352	HM	Histiocytosis	Histiocytosis, NOS	D1	-0.76	0.54
+zccs1353	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	R1	-0.48	1.03
+zccs1354	Sarcoma	EWS	Ewing sarcoma, bone or soft tissue	R1	0.21	4.88
+zccs459	Sarcoma	RMS FOXO1 fusion negative	Embryonal rhabdomyosarcoma	R1	-0.36	1.34
+zccs1356	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	R2	-0.73	0.58
+zccs436	CNS	ETMR	Embryonal tumour with multilayered rosettes, C19MC-altered	D1	1.09	35.38
+zccs467	CNS	HGG	Diffuse high grade glioma, H3-wildtype and IDH-wildtype	D1	0.44	8.12
+zccs437	CNS	DMG	Diffuse midline glioma, H3 K27-altered, H3 K27M mutation	D1	0.66	13.43
+zccs475	Solid tumour	Hepatoblastoma/HCC	Hepatoblastoma	P1	1.11	36.76
+zccs1359	HM	Mature T lymphoma	T cell lymphoproliferative disorder	D1	-2.23	0.02
+zccs1360	Solid tumour	WT	Wilms tumour	R1	1.27	53.01
+zccs486	Sarcoma	EWS	Ewing sarcoma, bone or soft tissue	D1	0.3	5.91
+zccs1361	CNS	DMG	Diffuse midline glioma, H3 K27-altered, H3 K27M mutation	D1	0.06	3.45
+zccs439	Solid tumour	Neuroendocrine tumour	Medullary thyroid carcinoma	D1	-1.14	0.23
+zccs493	HM	Acute leukaemia	Mixed phenotype acute leukaemia	D1	-1.61	0.08
+zccs487	CNS	LGG	Pilocytic astrocytoma	D1	0.33	6.38
+zccs1363	Sarcoma	Synovial sarcoma	Synovial sarcoma	R1	-0.5	0.97
+zccs440	HM	AML	Acute myeloid leukaemia	R1	1.34	62.99
+zccs502	CNS	HGG	Diffuse high grade glioma, H3-wildtype and IDH-wildtype	D1	1	29.07
+zccs1365	CNS	DMG	Diffuse midline glioma, H3 K27-altered, H3 K27M mutation	D1	0.74	15.94
+zccs1367	CNS	Meningioma	Meningioma WHO G2	D1	-0.87	0.42
+zccs514	CNS	DMG	Diffuse midline glioma, H3 K27-altered, H3 K27M mutation	D1	0.91	23.8
+zccs505	Sarcoma	EWS	Ewing sarcoma, bone or soft tissue	R1	0.85	20.79
+zccs1368	Sarcoma	EWS	Ewing sarcoma, bone or soft tissue	D1	0.42	7.82
+zccs1369	CNS	MB-WNT	Medulloblastoma, WNT-activated	R1	0.84	20.01
+zccs442	Solid tumour	WT	Wilms tumour	R1	1.41	73.62
+zccs1370	Sarcoma	Sarcoma other	DICER1-associated anaplastic sarcoma of kidney	D1	0.64	12.82
+zccs516	Sarcoma	OST	Osteosarcoma	P1	-1.61	0.08
+zccs1373	HM	Myeloproliferative neoplasm	Juvenile myelomonocytic leukaemia	D1	-0.56	0.86
+zccs1374	Sarcoma	OST	Osteosarcoma	R1	-0.45	1.1
+zccs1375	HM	Acute leukaemia	Mixed phenotype acute leukaemia	R1	1.29	55.42
+zccs1376	CNS	MB-SHH	Medulloblastoma, SHH-activated and TP53-wildtype	D1	1.16	40.5
+zccs1377	Sarcoma	RMS FOXO1 fusion negative	Embryonal rhabdomyosarcoma	R1	0.17	4.39
+zccs1378	HM	AML	Acute myeloid leukaemia	R1	0.49	9.17
+zccs1380	CNS	EPN-PFA	Posterior fossa A ependymoma, group PFA, WHO G3	D1	0.505608308870621	8.65
+zccs1381	CNS	HGG	Glioblastoma, IDH wild-type	P1	0.81	19
+zccs1382	CNS	HGG	Diffuse high grade glioma, H3-wildtype and IDH-wildtype	D1	0.33	6.41
+zccs1383	CNS	Rhabdoid tumour	Atypical teratoid rhabdoid tumour	R1	0.91	23.59
+zccs1385	Solid tumour	Solid other	Parotid secretory carcinoma	D1	-0.82	0.47
+zccs460	CNS	HGG	Diffuse high grade glioma, H3-wildtype and IDH-wildtype	D1	-2.23	0.02
+zccs1386	Sarcoma	Rhabdoid tumour	Malignant rhabdoid tumour, non-renal/hepatic	D1	-0.75	0.56
+zccs1392	Sarcoma	EWS	Ewing sarcoma, bone	P1	-0.158150894232416	1.93
+zccs1393	Sarcoma	EWS	Ewing sarcoma, bone or soft tissue	D1	0.14	4.1
+zccs1396	Sarcoma	RMS FOXO1 fusion negative	Pleomorphic rhabdomyosarcoma	D1	-1.61	0.08
+zccs1397	Solid tumour	WT	Wilms tumour	R1	1.1537234940919	39.6
+zccs1398	Sarcoma	RMS FOXO1 fusion negative	Embryonal rhabdomyosarcoma	P1	0.2	4.7
+zccs1401	Sarcoma	OST	Osteosarcoma	R1	-1.13903136596438	0.23
+zccs1402	CNS	LGG	Desmoplastic infantile ganglioglioma and astrocytoma	R1	-0.07	2.56
+zccs1403	CNS	CNS embryonal	CNS neuroblastoma, FOXR2-activated	D1	-0.3	1.54
+zccs1405	Sarcoma	RMS FOXO1 fusion positive	Alveolar rhabdomyosarcoma	R1	1.53	95.5
+zccs1406	Vascular/lymphatic anomalies	Vascular/lymphatic anomalies	Lymphangioma	D1	-0.64	0.71
+zccs1409	HM	TALL/lymphoma	T-lymphoblastic leukaemia	D1	0.5	9.37
+zccs1410	Solid tumour	Fibroblastic and myofibroblastic tumour	Spindle cell neoplasm	D1	-1.47	0.11
+zccs1413	Sarcoma	EWS	Ewing sarcoma, bone or soft tissue	D1	-0.43	1.14
+zccs1414	Solid tumour	Carcinoma	Renal cell carcinoma	D1	-1.92	0.04
+zccs490	HM	Acute leukaemia	Mixed phenotype acute leukaemia	P1	0.81	18.98
+zccs1417	Sarcoma	OST	Osteosarcoma	P2	-1.81230771541744	0.05
+zccs1418	CNS	HGG	Astrocytoma, NOS WHO G3	D1	-0.36	1.33
+zccs1419	CNS	Sarcoma other	CIC-rearranged sarcoma, CNS	D1	0.07	3.57
+zccs1421	Sarcoma	RMS FOXO1 fusion positive	Alveolar rhabdomyosarcoma	D1	1.54	97.39
+zccs1422	Solid tumour	WT	Wilms tumour	R1	0.95	26.11
+zccs1424	CNS	CNS embryonal	CNS embryonal tumour with BCOR internal tandem duplication	D1	0.48	8.91
+zccs1425	CNS	EPN-PFA	Posterior fossa A ependymoma, group PFA, WHO G3	P1	-0.0597488130190141	2.4
+zccs508	Sarcoma	RMS FOXO1 fusion negative	Embryonal rhabdomyosarcoma	R2	-1.82	0.05
+zccs1426	CNS	ETMR	Embryonal tumour with multilayered rosettes, C19MC-altered	D1	1.24	49.21
+zccs1427	Solid tumour	Fibroblastic and myofibroblastic tumour	Juvenile nasopharyngeal angiofibroma	D1	-0.04	2.74
+zccs1428	Solid tumour	Adrenal cortical tumour	Adrenocortical carcinoma	R1	-2.54	0.01
+zccs1429	Overgrowth syndrome	Overgrowth syndrome	Epidermal naevus	P1	-0.14	2.21
+zccs1430	CNS	DMG	Diffuse midline glioma, H3 K27-altered, H3 K27M mutation	D1	0.46	8.6
+zccs1431	CNS	Sarcoma other	CIC-rearranged sarcoma, CNS	D1	-1.25	0.18
+zccs1432	HM	Hodgkin lymphoma	Hodgkin lymphoma	R2	-1.27	0.17
+zccs1433	Sarcoma	RMS FOXO1 fusion positive	Alveolar rhabdomyosarcoma	D1	1.22	47.19
+zccs1434	CNS	MB-WNT	Medulloblastoma, WNT-activated	D1	0.57	10.94
+zccs632	HM	AML	Acute myeloid leukaemia	R1	0.67	13.73
+zccs1435	HM	Myeloproliferative neoplasm	Juvenile myelomonocytic leukaemia	D1	-0.481624186095419	0.94
+zccs1436	CNS	Pituitary tumour	Pituitary adenoma	P1	-2.23	0.02
+zccs1438	HM	Histiocytosis	L group other than Langerhans cell histiocytosis	D1	-1.36	0.14
+zccs1439	HM	AML	Acute myeloid leukaemia	R1	0.25	5.31
+zccs1441	CNS	LGG	Dysembryoplastic neuroepithelial tumour	R1	0.2	4.72
+zccs1442	CNS	HGG	Diffuse high grade glioma, H3-wildtype and IDH-wildtype	D1	-0.05	2.71
+zccs1445	CNS	DMG	Diffuse midline glioma, H3 K27-altered, H3 K27M mutation	D1	1.17	42.24
+zccs1446	Sarcoma	EWS	Ewing sarcoma, bone or soft tissue	R1	-0.78	0.52
+zccs1447	CNS	DMG	Diffuse midline glioma, H3 K27-altered, H3 K27M mutation	D1	0.35	6.72
+zccs1448	HM	Mature T lymphoma	Subcutaneous panniculitis-like T-cell lymphoma	D1	-0.05	2.72
+zccs1450	CNS	HGG	Diffuse high grade glioma, H3-wildtype and IDH-wildtype	R1	0.26	5.38
+zccs1452	Sarcoma	EWS	Ewing sarcoma, soft tissue	D1	0.49	9.1
+zccs1453	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D1	-1.61800586063372	0.07
+zccs1454	HM	Hodgkin lymphoma	Hodgkin lymphoma	R3	-0.55	0.88
+zccs1455	HM	AML	Acute myeloid leukaemia	R1	-0.37	1.3
+zccs1459	CNS	Rhabdoid tumour	Atypical teratoid rhabdoid tumour	D1	-1.36	0.14
+zccs1460	Sarcoma	OST	Osteosarcoma	R1	-1.3	0.16
+zccs1461	Sarcoma	Fibroblastic and myofibroblastic tumour	Infantile fibrosarcoma	D1	-0.53	0.91
+zccs1462	Solid tumour	WT	Wilms tumour	D1	-1.16	0.22
+zccs1464	Solid tumour	Hepatoblastoma/HCC	Hepatocellular malignant neoplasm, NOS	D1	1.06	32.86
+zccs1468	CNS	Germ cell tumour	Germinoma, CNS	R1	1.42	74.26
+zccs1469	Sarcoma	Fibroblastic and myofibroblastic tumour	Inflammatory myofibroblastic tumour	D1	0.27	5.54
+zccs1470	CNS	Rhabdoid tumour	Atypical teratoid rhabdoid tumour	D1	-0.75	0.56
+zccs1471	CNS	HGG	Diffuse hemispheric glioma, H3 G34-mutant	D1	0.48	8.92
+zccs1472	CNS	DMG	Diffuse midline glioma, H3 K27-altered, no H3 K27M mutation	D1	-0.09	2.46
+zccs1473	Solid tumour	Fibroblastic and myofibroblastic tumour	Spindle cell neoplasm	D1	-1.1	0.25
+zccs1474	Sarcoma	Sarcoma other	Chordoma	D1	-0.19	1.97
+zccs1475	CNS	HGG	Diffuse hemispheric glioma, H3 G34-mutant	R1	1.02	30.26
+zccs1476	Sarcoma	OST	Osteosarcoma	P1	-0.98	0.33
+zccs1477	Sarcoma	Sarcoma other	EBV-associated smooth muscle tumour	D1	-0.44	1.11
+zccs1478	Sarcoma	EWS	Ewing sarcoma, bone	D1	0.25	5.28
+zccs1479	HM	AML	Therapy-related acute myeloid leukaemia	D1	0.67	13.76
+zccs1480	Solid tumour	Solid other	Lipoblastoma	R1	-1.18	0.21
+zccs1481	HM	Myeloproliferative neoplasm	Juvenile myelomonocytic leukaemia	D1	-0.27	1.63
+zccs1483	Sarcoma	OST	Osteosarcoma	R1	-1.47	0.11
+zccs1484	Sarcoma	RMS FOXO1 fusion negative	Embryonal rhabdomyosarcoma	R1	0.67	13.67
+zccs1486	Sarcoma	OST	Osteosarcoma	P1	-0.7	0.62
+zccs1487	Sarcoma	OST	Osteosarcoma	P2	-0.75	0.56
+zccs1490	CNS	HGG	Diffuse high grade glioma, H3-wildtype and IDH-wildtype	P1	0.76	16.7
+zccs1493	CNS	LGG	Diffuse leptomeningeal glioneuronal tumour	D1	0.31	6.03
+zccs1496	CNS	EPN-PFA	Posterior fossa A ependymoma, group PFA, WHO G3	R1	-0.03	2.8
+zccs1498	Solid tumour	Peripheral nerve sheath tumour	Neurofibroma	P2	-0.46	1.06
+zccs1499	Solid tumour	Carcinoma	Colorectal carcinoma	P1	-0.5	0.95
+zccs1500	Solid tumour	Giant cell tumour	Pigmented villonodular synovitis	D1	-0.63	0.73
+zccs1501	Solid tumour	Neuroendocrine tumour	Pheochromocytoma	D1	0.74	16.12
+zccs1502	CNS	DMG	Diffuse midline glioma, H3 K27-altered, H3 K27M mutation	D1	0.27	5.51
+zccs1503	CNS	HGG	Diffuse high grade glioma, H3-wildtype and IDH-wildtype	D1	1.02	30.63
+zccs227	Sarcoma	EWS	Ewing sarcoma, bone or soft tissue	R2	-0.39	1.24
+zccs1511	Sarcoma	OST	Osteosarcoma	P1	-1.42	0.12
+zccs1513	CNS	Choroid plexus tumour	Choroid plexus carcinoma, TP53-mutant	P1	0.45	8.39
+zccs1514	HM	Histiocytosis	Cutaneous non-LCH (C group)	D1	-1.25	0.18
+zccs1515	Solid tumour	Fibroblastic and myofibroblastic tumour	Spindle cell neoplasm	D1	-2.05	0.03
+zccs1516	CNS	Rhabdoid tumour	Atypical teratoid rhabdoid tumour	D1	0.47	8.82
+zccs1517	Solid tumour	Hepatoblastoma/HCC	Hepatoblastoma	D1	0.55	10.51
+zccs1518	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	R1	-4.64	0
+zccs1519	Solid tumour	Fibroblastic and myofibroblastic tumour	Desmoid fibromatosis	D1	-0.9	0.39
+zccs1520	CNS	MB-non WNT/non-SHH	Medulloblastoma, non-WNT/non-SHH	D1	-0.28	1.6
+zccs1521	CNS	Pineoblastoma	Pineoblastoma, miRNA processing-altered_1	R1	1.48	85.67
+zccs1522	Sarcoma	Sarcoma other	Pleuropulmonary blastoma	D1	1.98	261.53
+zccs1523	Sarcoma	Fibroblastic and myofibroblastic tumour	Inflammatory myofibroblastic tumour	R1	-0.93	0.37
+zccs1525	Sarcoma	EWS	Ewing sarcoma, bone or soft tissue	D1	0.46	8.55
+zccs1529	HM	AML	Acute myeloid leukaemia	R1	-0.34	1.41
+zccs1530	Solid tumour	Sex cord stromal tumour	Sertoli-Leydig cell ovarian tumour	D1	0.33	6.3
+zccs1533	HM	AML	Acute myeloid leukaemia	R2	0.21	4.85
+zccs1534	CNS	EPN-PFA	Posterior fossa A ependymoma, group PFA, WHO G3	R1	-0.37	1.31
+zccs1535	CNS	HGG	Infant-type hemispheric glioma fusion-positive	D1	-0.72	0.58
+zccs1536	Solid tumour	Germ cell tumour	Mature teratoma, non-CNS	D1	-0.09	2.48
+zccs1537	CNS	HGG	Glioblastoma, IDH wild-type	D1	-1.39	0.13
+zccs1538	Solid tumour	Hepatoblastoma/HCC	Hepatocellular carcinoma	D1	-0.97	0.34
+zccs1539	Sarcoma	Sarcoma other	CIC-rearranged sarcoma, non-CNS	D1	-0.34	1.38
+zccs1540	Sarcoma	EWS	Ewing sarcoma, bone or soft tissue	D1	0.87	21.59
+zccs1543	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	R1	-1.2	0.2
+zccs1544	Sarcoma	Rhabdoid tumour	Malignant rhabdoid tumour, liver	D1	-1.25	0.18
+zccs1547	Sarcoma	Fibroblastic and myofibroblastic tumour	Infantile fibrosarcoma	D1	-0.59	0.79
+zccs1548	CNS	LGG	Pilocytic astrocytoma	D1	-0.01	2.97
+zccs1549	CNS	HGG	Infant-type hemispheric glioma fusion-positive	D1	0.41	7.49
+zccs1550	Sarcoma	EWS	Ewing sarcoma, bone or soft tissue	D1	0.08	3.6
+zccs1552	Sarcoma	Synovial sarcoma	Synovial sarcoma	R1	0.68	13.92
+zccs1553	Sarcoma	EWS	Ewing sarcoma, bone	R1	-0.869887715300207	0.42
+zccs1555	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	R1	-1.25	0.18
+zccs1556	CNS	LGG	Diffuse low grade glioma, MAPK pathway altered	P1	0.48	8.95
+zccs1558	Sarcoma	Desmoplastic small round cell tumour	Desmoplastic small round cell tumour	D1	1.03	31.13
+zccs1559	CNS	DMG	Diffuse midline glioma, H3 K27-altered, H3 K27M mutation	D1	0.6	11.72
+zccs1561	HM	AML	Acute myeloid leukaemia	P1	1.2	45.47
+zccs1563	Sarcoma	GIST	Gastrointestinal stromal tumour	D1	-1.47	0.11
+zccs1564	Solid tumour	Carcinoma	Papillary thyroid carcinoma	P2	-0.841225646757649	0.44
+zccs1567	Solid tumour	Solid other	Myoepithelial tumour	P2	-1.00528949905538	0.29
+zccs1568	Solid tumour	Peripheral nerve sheath tumour	Schwannoma	D1	-1.61	0.08
+zccs1572	CNS	Schwannoma	Vestibular schwannoma	P1	-0.57	0.83
+zccs1577	CNS	DMG	Diffuse midline glioma, H3 K27-altered, H3 K27M mutation	D1	0.53	10
+zccs1579	HM	AML	Acute myeloid leukaemia	R1	0.83	19.76
+zccs840	CNS	DMG	Diffuse midline glioma, H3 K27-altered, H3 K27M mutation	D1	-0.2	1.93
+zccs1580	CNS	HGG	Glioblastoma, IDH wild-type	D1	0.62	12.26
+zccs1581	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	R1	-0.876060958427879	0.41
+zccs1582	CNS	HGG	Infant-type hemispheric glioma fusion-positive	D1	-0.01	2.93
+zccs1583	Sarcoma	RMS FOXO1 fusion negative	Embryonal rhabdomyosarcoma	D1	0.71	15.14
+zccs1584	CNS	Choroid plexus tumour	Choroid plexus carcinoma, TP53-wildtype	R1	0.95	25.64
+zccs1586	HM	AML	Myeloid leukaemia associated with Down Syndrome	P1	-0.21	1.89
+zccs1587	Sarcoma	OST	Osteosarcoma	P2	-1.43	0.12
+zccs1588	CNS	Rhabdoid tumour	Atypical teratoid rhabdoid tumour	D1	-0.05	2.71
+zccs1589	CNS	DMG	Diffuse midline glioma, H3 K27-altered, H3 K27M mutation	D1	0.715001303784415	14.69
+zccs1591	CNS	HGG	Diffuse high grade glioma, H3-wildtype and IDH-wildtype	D1	0.54	10.25
+zccs1592	Sarcoma	Sarcoma other	BCOR-rearranged sarcoma	D1	0.22	4.96
+zccs1597	CNS	HGG	Infant-type hemispheric glioma fusion-positive	D1	-0.189060736854096	1.87
+zccs1599	HM	Histiocytosis	Cutaneous non-LCH (C group)	D1	-0.6	0.78
+zccs1600	Sarcoma	Sarcoma other	BCOR-rearranged sarcoma	D1	0.16	4.32
+zccs1601	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	D0	-0.5	0.98
+zccs1602	CNS	LGG	Glioneuronal tumour, NOS, low grade	D1	0.26	5.44
+zccs1603	CNS	MB-non WNT/non-SHH	Medulloblastoma, non-WNT/non-SHH	R1	0.06	3.42
+zccs1607	CNS	EPN	Myxopapillary ependymoma	P1	0.08	3.6
+zccs1608	Vascular/lymphatic anomalies	Vascular/lymphatic anomalies	Arteriovenous malformation	D1	0.11	3.87
+zccs1609	Solid tumour	Hepatoblastoma/HCC	Hepatocellular malignant neoplasm, NOS	R1	-0.2	1.94
+zccs1610	Sarcoma	Fibroblastic and myofibroblastic tumour	Infantile fibrosarcoma	D1	-1.2	0.2
+zccs1611	Sarcoma	OST	Osteosarcoma	P1	-1.08	0.26
+zccs1613	Sarcoma	Sarcoma other	BCOR-rearranged sarcoma	R1	0.22	4.85
+zccs1614	Sarcoma	RMS FOXO1 fusion negative	Embryonal rhabdomyosarcoma	D1	0.6	11.64
+zccs1615	Sarcoma	OST	Osteosarcoma	R1	-0.39	1.25
+zccs1616	Solid tumour	Adrenal cortical tumour	Adrenocortical carcinoma	D1	-0.44	1.1
+zccs1617	CNS	HGG	Diffuse high grade glioma, H3-wildtype and IDH-wildtype	D1	0.67	13.71
+zccs1618	CNS	HGG	Diffuse high grade glioma, H3-wildtype and IDH-wildtype	R1	0.24	5.16
+zccs1619	Solid tumour	Solid other	Pancreatic acinar cell carcinoma	D1	-2.22	0.02
+zccs1620	HM	Mature B lymphoma	Diffuse large B cell lymphoma	P1	-1.22	0.19
+zccs1624	Sarcoma	OST	Osteosarcoma	D1	-1.67	0.07
+zccs1625	Solid tumour	Hepatoblastoma/HCC	Hepatoblastoma	R1	1.12331099445237	37.3
+zccs1626	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	R1	-1.47	0.11
+zccs1628	Solid tumour	Carcinoma	Colorectal carcinoma	D1	-0.52	0.91
+zccs1634	Sarcoma	Sarcoma other	Chordoma	D1	0.36	6.81
+zccs1635	CNS	LGG	Ganglioglioma	D1	0.20767043236392	4.7
+zccs759	CNS	DMG	Diffuse midline glioma, H3 K27-altered, H3 K27M mutation	D1	0.88	21.98
+zccs1637	Sarcoma	RMS FOXO1 fusion negative	Embryonal rhabdomyosarcoma	P2	-0.991402243488699	0.32
+zccs1639	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	R1	-1.03	0.29
+zccs1641	HM	Acute leukaemia	Mixed phenotype acute leukaemia	R1	-0.105173381625731	2.3
+zccs1642	Sarcoma	EWS	Ewing sarcoma, bone	R1	-0.59	0.8
+zccs1644	HM	TALL/lymphoma	T-lymphoblastic leukaemia	R2	1.65	126.6
+zccs1647	CNS	HGG	Diffuse high grade glioma, H3-wildtype and IDH-wildtype	D1	2.14	369.36
+zccs1649	CNS	DMG	Diffuse midline glioma, H3 K27-altered, H3 K27M mutation	P1	-0.43	1.15
+zccs1650	CNS	DMG	Diffuse midline glioma, H3 K27-altered, H3 K27M mutation	D1	0.12	3.84
+zccs1653	CNS	DMG	Diffuse midline glioma, H3 K27-altered, H3 K27M mutation	D1	0.67334743969674	13.19
+zccs1655	HM	PreB ALL/lymphoma	B-lymphoblastic leukaemia	R1	-0.15	2.09
+zccs1658	Sarcoma	Sarcoma other	Clear cell sarcoma of kidney	D1	0.36	6.63
+zccs1659	HM	AML	Acute myeloid leukaemia	R1	-1.47489334714286	0.1
+zccs1661	Solid tumour	Germ cell tumour	Yolk sac tumour, non-CNS	R1	0.897210112898591	21.87
+zccs238	CNS	DMG	Diffuse midline glioma, H3 K27-altered, H3 K27M mutation	R1	-0.25	1.7
+zccs1662	CNS	HGG	Astrocytoma, IDH-mutant WHO G4	D1	0.94	24.91
+zccs1663	CNS	MB-WNT	Medulloblastoma, WNT-activated	D1	1.40224217607959	68.92
+zccs1664	HM	Myeloproliferative neoplasm	Juvenile myelomonocytic leukaemia	P1	-0.962003551899488	0.32
+zccs1665	CNS	DMG	Diffuse midline glioma, H3 K27-altered, H3 K27M mutation	D1	0.1093003763472	3.78
+zccs1669	CNS	DMG	Diffuse midline glioma, H3 K27-altered, no H3 K27M mutation	D1	0.81	18.78
+zccs1670	Sarcoma	Rhabdoid tumour	Malignant rhabdoid tumour, non-renal/hepatic	D1	-0.138704652693935	2.14
+zccs1671	CNS	LGG	Pilocytic astrocytoma	D1	0.258535386528412	5.2
+zccs1672	Vascular/lymphatic anomalies	Vascular/lymphatic anomalies	Arteriovenous malformation	D1	-0.68	0.65
+zccs1673	HM	TALL/lymphoma	T-lymphoblastic leukaemia	R1	1.1506192602796	38.86
+zccs1676	Sarcoma	Sarcoma other	EBV-associated smooth muscle tumour	P1	-1.217681484625	0.19
+zccs1677	Vascular/lymphatic anomalies	Vascular/lymphatic anomalies	Kaposiform haemangioendothelioma	D1	-0.251010668500846	1.55
+zccs1678	Sarcoma	EWS	Ewing sarcoma, bone or soft tissue	R1	-0.44	1.11
+zccs1681	CNS	Rhabdoid tumour	Atypical teratoid rhabdoid tumour	D1	-0.07	2.58
+zccs1682	HM	TALL/lymphoma	T-lymphoblastic leukaemia	R1	-4.57731342175144	0
+zccs1683	Sarcoma	Rhabdoid tumour	Malignant rhabdoid tumour, liver	D1	1.34	61.89
+zccs1685	Sarcoma	MPNST	Malignant peripheral nerve sheath tumour	D1	-1.03689080000587	0.27
+zccs1686	HM	AML	Acute myeloid leukaemia	P1	-0.76	0.54
+zccs1687	Solid tumour	Carcinoma	Colorectal carcinoma	D1	-1.09237780873415	0.24
+zccs1690	Sarcoma	EWS	Ewing sarcoma, bone	D1	-0.77	0.53
+zccs1692	CNS	Schwannoma	Vestibular schwannoma	P1	-0.5	0.97
+zccs1693	CNS	LGG	Pilocytic astrocytoma	D1	0.16	4.34
+zccs1694	Sarcoma	OST	Osteosarcoma	D1	-0.149480614652112	1.97
+zccs1695	CNS	DMG	Diffuse midline glioma, H3 K27-altered, H3 K27M mutation	D1	0.32	6.26
+zccs1698	Sarcoma	MPNST	Malignant peripheral nerve sheath tumour	D1	-0.49	0.99
+zccs1699	Sarcoma	OST	Osteosarcoma	R1	-1.36	0.14
+zccs1700	CNS	Craniopharyngioma	Adamantinomatous craniopharyngioma	R1	0.79	17.97
+zccs1701	CNS	HGG	Diffuse hemispheric glioma, H3 G34-mutant	D1	-0.02	2.86
+zccs1703	CNS	HGG	High-grade astrocytoma with piloid features	D1	-0.19	1.97
+zccs1705	CNS	DMG	Diffuse midline glioma, H3 K27-altered, H3 K27M mutation	P1	0.16	4.3
+zccs1706	Solid tumour	Adrenal cortical tumour	Adrenocortical carcinoma	D1	-1.82	0.05
+zccs1708	Sarcoma	RMS FOXO1 fusion negative	Embryonal rhabdomyosarcoma	D1	0.44	7.99
+zccs1710	Sarcoma	RMS FOXO1 fusion positive	Alveolar rhabdomyosarcoma	D1	0.69	14.01
+zccs1712	Sarcoma	EWS	Ewing sarcoma, bone	R1	-0.22383223267201	1.76
+zccs1714	HM	AML	Acute myeloid leukaemia	D1	-0.8	0.49
+zccs1715	CNS	LGG	Pilocytic astrocytoma	D1	-0.05	2.63
+zccs1716	CNS	LGG	Ganglioglioma	D1	-0.128160671413586	2.22
+zccs1717	HM	AML	Acute myeloid leukaemia	D1	-2.53513408819278	0.01
+zccs1718	Sarcoma	EWS	Ewing sarcoma, bone or soft tissue	D1	0.516598259536936	9.35
+zccs1719	HM	TALL/lymphoma	T-lymphoblastic leukaemia	P1	0.10962381478821	3.72
+zccs1721	HM	Histiocytosis	Mixed histiocytosis	P1	-0.442587700372491	1.08
+zccs1723	Solid tumour	Neuroendocrine tumour	Serotonin-producing pancreatic neuroendocrine tumour	D1	-0.898029523472617	0.37
+zccs918	Neuroblastoma	NBL	Ganglioneuroma	D1	-0.461927191540056	0.98
+zccs443	Neuroblastoma	NBL	Neuroblastoma	P3	0.463523557346872	8.05
+zccs945	Neuroblastoma	NBL	Neuroblastoma	D1	-0.530145559337009	0.82
+zccs954	Neuroblastoma	NBL	Neuroblastoma	D1	1.2419727639579	44.65
+zccs959	Neuroblastoma	NBL	Neuroblastoma	D1	-0.905663081638886	0.37
+zccs967	Neuroblastoma	NBL	Neuroblastoma	D1	0.754339218229806	14.86
+zccs2272	Neuroblastoma	NBL	Neuroblastoma	R1	-1.09128880898699	0.22
+zccs2281	Neuroblastoma	NBL	Neuroblastoma	D1	1.41168425424299	57.78
+zccs2474	Neuroblastoma	NBL	Ganglioneuroblastoma, NOS	D1	-0.466586466871908	0.87
+zccs2501	Neuroblastoma	NBL	Neuroblastoma	D1	0.887426680152309	17.59
+zccs2674	Neuroblastoma	NBL	Neuroblastoma	D1	1.13599912113523	29.88
+zccs2872	Neuroblastoma	NBL	Neuroblastoma	D1	1.12042901276124	27.37
+zccs2884	Neuroblastoma	NBL	Neuroblastoma	D1	1.41508020857883	53.05
+zccs3240	Neuroblastoma	NBL	Neuroblastoma	D1	0.553965104907993	7.55
+zccs3554	Neuroblastoma	NBL	Neuroblastoma	P1	0.629663717243937	8.33
+zccs3558	Neuroblastoma	NBL	Ganglioneuroma	D1	-0.188085377887254	1.3
+zccs3765	Neuroblastoma	NBL	Neuroblastoma	D1	-0.499351030466552	0.63
+zccs3899	Neuroblastoma	NBL	Neuroblastoma	D1	0.344498130355818	4.25
+zccs995	Neuroblastoma	NBL	Neuroblastoma	R1	0.617573329915183	10.91
+zccs1003	Neuroblastoma	NBL	Neuroblastoma	D1	0.526003922378429	8.87
+zccs2107	Neuroblastoma	NBL	Neuroblastoma	D1	0.392158835927765	6.11
+zccs2388	Neuroblastoma	NBL	Neuroblastoma	D1	0.27523423208299	4.57
+zccs2425	Neuroblastoma	NBL	Neuroblastoma	R1	0.758316934899753	13.26
+zccs2571	Neuroblastoma	NBL	Neuroblastoma	R1	0.183702688326069	3.68
+zccs2592	Neuroblastoma	NBL	Ganglioneuroblastoma, NOS	D1	0	0
+zccs2995	Neuroblastoma	NBL	Neuroblastoma	D1	0.506313891622042	6.79
+zccs3039	Neuroblastoma	NBL	Neuroblastoma	D1	1.1922156689322	32.13
+zccs3080	Neuroblastoma	NBL	Neuroblastoma	D1	0.543041298244269	7.33
+zccs3352	Neuroblastoma	NBL	Neuroblastoma	D1	0.698679154772595	10.05
+zccs3483	Neuroblastoma	NBL	Neuroblastoma	D1	0.392853084403032	4.9
+zccs3621	Neuroblastoma	NBL	Neuroblastoma	D1	0.931495364771761	16.33
+zccs3940	Neuroblastoma	NBL	Neuroblastoma	D1	1.2751399945621	34.78
+zccs4026	Neuroblastoma	NBL	Neuroblastoma	D1	1.12886926849679	24.88
+zccs1809	Neuroblastoma	NBL	Neuroblastoma	R1	0.257347411410046	4.95
+zccs3093	Neuroblastoma	NBL	Neuroblastoma	D1	1.37479635581875	48.05
+zccs3118	Neuroblastoma	NBL	Ganglioneuroblastoma, nodular	D1	-0.508108300259804	0.68
+zccs3121	Neuroblastoma	NBL	Ganglioneuroma	D1	-0.845815212496553	0.3
+zccs1508	Neuroblastoma	NBL	Olfactory neuroblastoma	R1	0.559032269525751	9.91
+zccs1056	Neuroblastoma	NBL	Neuroblastoma	R1	1.66943771776877	117.03
+zccs1069	Neuroblastoma	NBL	Neuroblastoma	D1	0.658337261034968	11.99
+zccs1632	Neuroblastoma	NBL	Neuroblastoma	P1	0.696330045894343	11.81
+zccs2258	Neuroblastoma	NBL	Neuroblastoma	D1	-1.09033743212483	0.22
+zccs2671	Neuroblastoma	NBL	Neuroblastoma	D1	0.643698817488267	9.85
+zccs2973	Neuroblastoma	NBL	Neuroblastoma	D1	-0.450688154335921	0.79
+zccs2981	Neuroblastoma	NBL	Neuroblastoma	D1	0.573868268351666	7.92
+zccs3346	Neuroblastoma	NBL	Neuroblastoma	D1	2.21524096767259	318.79
+zccs3516	Neuroblastoma	NBL	Neuroblastoma	D1	1.55292155888162	67.93
+zccs3535	Neuroblastoma	NBL	Ganglioneuroma	D1	-0.882123134061951	0.27
+zccs3549	Neuroblastoma	NBL	Neuroblastoma	R1	-0.0399561790905224	1.82
+zccs3633	Neuroblastoma	NBL	Ganglioneuroma	D1	-0.160439840947472	1.38
+zccs3760	Neuroblastoma	NBL	Ganglioneuroma	D1	0.0312666020862564	2.09
+zccs3770	Neuroblastoma	NBL	Neuroblastoma	D1	0.982734755720332	18.04
+zccs3963	Neuroblastoma	NBL	Ganglioneuroblastoma, intermixed	D1	-0.412792491734654	0.76
+zccs1913	Neuroblastoma	NBL	Neuroblastoma	D1	-0.737092481839789	0.54
+zccs2537	Neuroblastoma	NBL	Ganglioneuroblastoma, NOS	D1	-0.538862121917195	0.65
+zccs3139	Neuroblastoma	NBL	Neuroblastoma	D1	1.35976533692357	46.48
+zccs3482	Neuroblastoma	NBL	Neuroblastoma	R1	2.15264357755395	264.34
+zccs3561	Neuroblastoma	NBL	Neuroblastoma	D1	0.360521147835502	4.52
+zccs3601	Neuroblastoma	NBL	Neuroblastoma	D1	2.39112840702597	443.6
+zccs3815	Neuroblastoma	NBL	Neuroblastoma	D1	1.15929027153355	26.75
+zccs1091	Neuroblastoma	NBL	Neuroblastoma	D1	0.140311635325385	3.8
+zccs1095	Neuroblastoma	NBL	Neuroblastoma	R1	1.53083707852684	88.7
+zccs1119	Neuroblastoma	NBL	Ganglioneuroblastoma, NOS	D1	-1.11501550347928	0.22
+zccs1130	Neuroblastoma	NBL	Neuroblastoma	D1	0.852000708567998	18.42
+zccs1140	Neuroblastoma	NBL	Neuroblastoma	D1	0.960636196418779	23.26
+zccs1813	Neuroblastoma	NBL	Neuroblastoma	D1	0.881523211488995	19.13
+zccs1896	Neuroblastoma	NBL	Neuroblastoma	D1	0.444183281145366	7.29
+zccs2045	Neuroblastoma	NBL	Neuroblastoma	D1	0.620782124162326	10.25
+zccs2227	Neuroblastoma	NBL	Neuroblastoma	D1	2.38010466577822	478.95
+zccs2529	Neuroblastoma	NBL	Neuroblastoma	D1	2.71217929633123	992.06
+zccs2625	Neuroblastoma	NBL	Ganglioneuroma	D1	-1.00675539631127	0.26
+zccs2692	Neuroblastoma	NBL	Neuroblastoma	D1	1.31633287016307	44.38
+zccs2753	Neuroblastoma	NBL	Ganglioneuroblastoma, NOS	D1	-0.0367055222611415	2.04
+zccs184	Neuroblastoma	NBL	Neuroblastoma	P1	-0.568598636679592	0.57
+zccs3374	Neuroblastoma	NBL	Neuroblastoma	D1	0.53771892576851	6.97
+zccs3407	Neuroblastoma	NBL	Neuroblastoma	D1	-0.368129134205345	0.87
+zccs3433	Neuroblastoma	NBL	Neuroblastoma	D1	0.883821594567348	14.95
+zccs3446	Neuroblastoma	NBL	Neuroblastoma	D1	1.91288927916892	155.17
+zccs3523	Neuroblastoma	NBL	Neuroblastoma	D1	2.26622953985222	343.32
+zccs3553	Neuroblastoma	NBL	Neuroblastoma	D1	1.08681658582217	23.53
+zccs3571	Neuroblastoma	NBL	Neuroblastoma	D1	1.36044921311362	43.52
+zccs3581	Neuroblastoma	NBL	Ganglioneuroblastoma, NOS	D1	0.324513611930183	4.14
+zccs3797	Neuroblastoma	NBL	Ganglioneuroma	D1	0.118515932336157	2.57
+zccs3805	Neuroblastoma	NBL	Neuroblastoma	D1	0.559477023420076	6.97
+zccs3959	Neuroblastoma	NBL	Neuroblastoma	D1	1.41224138379784	47.59
+zccs4124	Neuroblastoma	NBL	Neuroblastoma	D1	1.02712675575868	19.52
+zccs1779	Neuroblastoma	NBL	Neuroblastoma	D1	0.844660186765909	17.88
+zccs1875	Neuroblastoma	NBL	Neuroblastoma	P1	1.11359841494713	30.48
+zccs1943	Neuroblastoma	NBL	Neuroblastoma	D1	0.458842179684964	7.21
+zccs2137	Neuroblastoma	NBL	Neuroblastoma	R1	0.60994598677587	9.84
+zccs2513	Neuroblastoma	NBL	Ganglioneuroma	D1	0.325515139427262	4.83
+zccs2620	Neuroblastoma	NBL	Neuroblastoma	D1	1.14561619924728	30.65
+zccs2643	Neuroblastoma	NBL	Neuroblastoma	D1	1.09228959103561	27.18
+zccs2696	Neuroblastoma	NBL	Neuroblastoma	D1	0.89012757759984	17.04
+zccs2817	Neuroblastoma	NBL	Neuroblastoma	D1	0.870679478059296	15.64
+zccs2829	Neuroblastoma	NBL	Neuroblastoma	D1	1.07083996538405	24.51
+zccs3052	Neuroblastoma	NBL	Neuroblastoma	D1	-0.167151712551473	1.48
+zccs3386	Neuroblastoma	NBL	Ganglioneuroma	D1	-0.31626796698357	1
+zccs3700	Neuroblastoma	NBL	Neuroblastoma	D1	1.19478139433348	29.25
+zccs3785	Neuroblastoma	NBL	Neuroblastoma	D1	1.13299401798884	25.48
+zccs3996	Neuroblastoma	NBL	Ganglioneuroblastoma, intermixed	D1	-0.249738540070819	1.1
+zccs4029	Neuroblastoma	NBL	Neuroblastoma	D1	1.13310252404347	25.12
+zccs1157	Neuroblastoma	NBL	Neuroblastoma	D1	0.208312145730906	4.38
+zccs1158	Neuroblastoma	NBL	Neuroblastoma	D1	1.47002854151167	73.33
+zccs1753	Neuroblastoma	NBL	Neuroblastoma	D1	0.477056718894361	7.96
+zccs1808	Neuroblastoma	NBL	Neuroblastoma	D1	0.854706812816212	18.17
+zccs1812	Neuroblastoma	NBL	Neuroblastoma	D1	1.31562470064456	50.05
+zccs1816	Neuroblastoma	NBL	Neuroblastoma	D1	0.274153288374911	5.08
+zccs2678	Neuroblastoma	NBL	Neuroblastoma	D1	0.804725212211376	14.11
+zccs2816	Neuroblastoma	NBL	Neuroblastoma	D1	1.17708088835297	31.09
+zccs2979	Neuroblastoma	NBL	Neuroblastoma	D1	0.0973584595016892	2.7
+zccs3190	Neuroblastoma	NBL	Neuroblastoma	D1	2.09993243133146	247.9
+zccs3479	Neuroblastoma	NBL	Neuroblastoma	D1	1.03350629064352	21.04
+zccs3661	Neuroblastoma	NBL	Neuroblastoma	D1	-0.346396865670514	0.89
+zccs3747	Neuroblastoma	NBL	Neuroblastoma	D1	2.53056519134831	600.12
+zccs3779	Neuroblastoma	NBL	Neuroblastoma	D1	0.774241400077705	11.31
+zccs3794	Neuroblastoma	NBL	Neuroblastoma	D1	2.15395618814729	256.79
+zccs4001	Neuroblastoma	NBL	Neuroblastoma	D1	-0.0959215072760962	1.56
+zccs3893	Neuroblastoma	NBL	Neuroblastoma	D1	1.26132338111641	33.92
+zccs5	Neuroblastoma	NBL	Neuroblastoma	R1	2.51	861.53
+zccs51	Neuroblastoma	NBL	Neuroblastoma	D1	0.5	9.31
+zccs72	Neuroblastoma	NBL	Neuroblastoma	P2	-0.27	1.65
+zccs126	Neuroblastoma	NBL	Neuroblastoma	R1	-1.14	0.23
+zccs280	Neuroblastoma	NBL	Neuroblastoma	R1	1.14	39.73
+zccs511	Neuroblastoma	NBL	Neuroblastoma	R1	2.06	313.23
+zccs301	Neuroblastoma	NBL	Neuroblastoma	R1	0.65	13.11
+zccs1227	Neuroblastoma	NBL	Neuroblastoma	R2	0.84	20.24
+zccs315	Neuroblastoma	NBL	Neuroblastoma	R1	0.3	5.94
+zccs321	Neuroblastoma	NBL	Neuroblastoma	R1	0.42	7.87
+zccs1265	Neuroblastoma	NBL	Neuroblastoma	P1	-0.45	1.07
+zccs339	Neuroblastoma	NBL	Neuroblastoma	R1	2.61	1072.86
+zccs199	Neuroblastoma	NBL	Neuroblastoma	R1	0.81	18.76
+zccs350	Neuroblastoma	NBL	Neuroblastoma	P1	-0.19	1.97
+zccs1287	Neuroblastoma	NBL	Neuroblastoma	R1	0.751168679516008	15.73
+zccs1297	Neuroblastoma	NBL	Neuroblastoma	P1	1.12	38.36
+zccs373	Neuroblastoma	NBL	Neuroblastoma	R1	2.54	918.19
+zccs1300	Neuroblastoma	NBL	Neuroblastoma	R1	2.61	1061.53
+zccs393	Neuroblastoma	NBL	Neuroblastoma	P1	2.23	458.94
+zccs1323	Neuroblastoma	NBL	Neuroblastoma	R2	0.88	21.91
+zccs1351	Neuroblastoma	NBL	Neuroblastoma	R2	1.09	35.55
+zccs435	Neuroblastoma	NBL	Neuroblastoma	R1	0.95	25.82
+zccs513	Neuroblastoma	NBL	Neuroblastoma	R1	2.47	779.51
+zccs445	Neuroblastoma	NBL	Neuroblastoma	R1	0.69	14.24
+zccs1408	Neuroblastoma	NBL	Neuroblastoma	R1	2.12521202461388	358.7
+zccs1423	Neuroblastoma	NBL	Neuroblastoma	R1	2.3	536.28
+zccs1456	Neuroblastoma	NBL	Neuroblastoma	P1	0.93	24.56
+zccs1485	Neuroblastoma	NBL	Neuroblastoma	P1	1.19	44.92
+zccs1509	Neuroblastoma	NBL	Neuroblastoma	D1	0.63	12.58
+zccs1512	Neuroblastoma	NBL	Neuroblastoma	D1	1.02	30.13
+zccs1526	Neuroblastoma	NBL	Neuroblastoma	D1	0.24	5.19
+zccs1542	Neuroblastoma	NBL	Neuroblastoma	P1	0.23	5.03
+zccs1575	Neuroblastoma	NBL	Neuroblastoma	R1	1.21169225399685	44.1
+zccs1596	Neuroblastoma	NBL	Neuroblastoma	P1	2.23	456.83
+zccs1636	Neuroblastoma	NBL	Neuroblastoma	R1	0.35	6.66
+zccs1656	Neuroblastoma	NBL	Neuroblastoma	P1	0.169271693063801	4.26
+zccs1679	Neuroblastoma	NBL	Neuroblastoma	R1	-0.341756719703293	1.31
+zccs1689	Neuroblastoma	NBL	Neuroblastoma	D1	-1.62145738318671	0.07
+zccs4051	Neuroblastoma	NBL	Neuroblastoma	D1	0.0424190108806125	2.12

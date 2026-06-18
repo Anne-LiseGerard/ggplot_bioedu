@@ -30,30 +30,6 @@ MYCN_ALK <- inner_join(MYCN, ALK %>% dplyr::select(X,ALK_zscore,ALK_TPM.Values))
 
 ```
 
-# Example plots 
-Currently just a code vomit of plots - comments include ideas of what we can use to introduce different ggplot concepts and their utility.
-
-```{r}
-#boxplot
-ggplot(MYCN_ALK, aes(x = log2(MYCN_TPM.Values), y = category))+ geom_boxplot() + theme_bw()
-
-#violin
-ggplot(MYCN_ALK, aes(x = log2(MYCN_TPM.Values), y = category))+ geom_violin() + theme_bw()
-
-#correlations
-ggplot(MYCN_ALK, aes(x = log2(MYCN_TPM.Values), y = log2(ALK_TPM.Values))) + geom_point() + theme_bw()
-# can use this to add line on top and do quick linear regression?
-
-#facet
-ggplot(MYCN_ALK, aes(log2(MYCN_TPM.Values), log2(ALK_TPM.Values))) + geom_hex() + facet_wrap(~category) + theme_bw()
-
-#barplot
-ggplot(MYCN_ALK, aes(x = category, fill = category)) + geom_bar() + theme_bw()
-# this is good example to introduce theme components & show how to change axis labels 90 degrees
-ggplot(MYCN_ALK, aes(x = category, fill = category)) + geom_bar() + theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
-```
-
-
 # Plots for slides
 ## 1. Why ggplot?
 ```{r}

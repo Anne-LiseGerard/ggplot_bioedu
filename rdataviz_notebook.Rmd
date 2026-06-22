@@ -73,7 +73,7 @@ ggplot(MYCN_ALK, aes(x = category, y = MYCN_TPM))
 
 #### Exercise: How do the expression of MYCN and ALK correlate with each other across the different disease categories?
 
-So we're interested in now the expression of MYC and ALK. Set up the base ggplot() function.
+So we're interested in now the expression of MYC and ALK. Set up the base ggplot() function. 
 
 ```{r ggplot_ex}
 ### ENTER CODE HERE ###
@@ -83,10 +83,10 @@ So we're interested in now the expression of MYC and ALK. Set up the base ggplot
 
 ### Step 2: Choosing a geom function - what kind of plot do you want to make?
 
-The geom_function() tell ggplot what shape to use to represent your data. There is a large array of geom functions, from geom_point() for a simple dotplot to package specific functions (check out <https://ggplot2.tidyverse.org/reference/index.html> and <https://github.com/erikgahner/awesome-ggplot2>).
+The geom_function() tells ggplot what shape to use to represent your data. There is a large array of geom functions, from geom_point() for a simple dotplot to package specific functions (check out <https://ggplot2.tidyverse.org/reference/index.html> and <https://github.com/erikgahner/awesome-ggplot2>).
 
 #### Example: How does expression of MYCN differ with the different disease categories?
-Lets try plotting a dotplot, a boxplot, a violin plot and a density plot for our example. The first three have the same syntax except a different geom function. Also note the log2 in front of MYCN_TPM() - without that tranformation the data is too skewed for any meaningful comparison.
+Lets try plotting a dotplot, a boxplot, a violin plot and a density plot for our example. The first three have the same syntax except a different geom function. Also note the log2 in front of MYCN_TPM() - without that transformation the data is too skewed for any meaningful comparison.
 
 ```{r geom}
 #violin plot of log2(tpm values)
@@ -99,18 +99,17 @@ ggplot(MYCN_ALK, aes(y = log2(MYCN_TPM + 1), x = category))+ geom_boxplot()
 ggplot(MYCN_ALK, aes(y = log2(MYCN_TPM + 1), x = category))+ geom_violin()
 
 #violin plot of tpm values without transformation
-ggplot(MYCN_ALK, aes(y = (MYCN_TPM + 1), x = category))+ geom_violin()
+ggplot(MYCN_ALK, aes(y = (MYCN_TPM), x = category))+ geom_violin()
 ```
 
-A density plot can tell us the distribution of expression values as well. Here, are our x is expression and we can pass "group = " in aes() to seperate distributions lines for each category.
+A density plot can tell us the distribution of expression values as well. Here, our x is expression and we can pass "group = " in aes() to get seperate distributions for each category.
 
 ```{r density}
 #density plot with colour
 ggplot(MYCN_ALK, aes(x = log2(MYCN_TPM + 1), group = category))+ geom_density()
-
 ```
 
-Now its impossible to tell which line belongs to which category, and this where color comes. In our base ggplot2 function, we can define how variables map to the different visual properties like color. Below we passing color = group to aes() below, thus specifying that each group should have a different color. Additionally, the geom_vline() geom functions adds a dashed line at where TPM = 10 at the x-axis. 
+Now, its impossible to tell which line belongs to which category, and this is where colour comes in. In our base ggplot2 function, we can define how variables map to the different visual properties, such as color. Below we pass "color = group" to the aes() function, thus specifying that each group should have a different colour. Additionally, the geom_vline() function adds a dashed line at where TPM = 10. 
 
 ```{r densitycol}
 #density plot with colour
@@ -118,7 +117,7 @@ ggplot(MYCN_ALK, aes(x = log2(MYCN_TPM + 1), group = category, color = category)
 
 ```
 
-The code below adds colour the violin plot - note the difference between using colour and fill.
+The code below adds colour to the violin plot - note the difference between using colour and fill.
 
 ```{r violincol}
 #violin plot with color 
@@ -147,10 +146,10 @@ You have set up your base function. Now think about what geom function will help
 
 ### Step 3: The scale functions
 
-The scale() functions allow you to specify how data values maps to the different visual properties. For instance, you can specify
+The scale() functions allow you to specify *how* data values map to the different visual properties of your plot. You have already mapped your different variables to different visual properties (x, y, colour etc.), you can use scale to specify attributes such as
 
 - The limits and breaks of your axes (e.g. scale_x_continous())
-- Colours that are used with custom palettes.
+- Which colours are used
 - Transformations of your axes (e.g. log, square-root)
 
 #### Example: How does expression of MYCN differ with the different disease categories?
@@ -205,7 +204,7 @@ ggplot(MYCN_ALK, aes(y = (MYCN_TPM + 1), x = category, color = category))+ geom_
 Do the following to the your MYCN/ALK plot:
 1. Transform the axis/axes by taking the square-root. 
 2. Adjust the breaks of the axis/axes. 
-3. Color by disease category, using a colour blind friendly RColorBrewer paletted (hint: use display.brewer.all(colorblindFriendly = T))
+3. Color by disease category, using a colour blind friendly RColorBrewer palette (hint: use display.brewer.all(colorblindFriendly = T))
 
 ```{r scale_ex}
 ### ENTER CODE HERE ###
@@ -215,11 +214,11 @@ Do the following to the your MYCN/ALK plot:
 
 ### Step 4: Themes! (and labels and coord())
 
-Themes control the non-data visual elements of your plot the things that aren't directly representing your data but affect how it looks overall - so the important stuff. 
+Themes control the non-data visual elements of your plot. These are things things that aren't directly representing your data but affect how it looks overall, for example, the colour and size of your axes labels. 
 
 #### Example: How does expression of MYCN differ with the different disease categories?
 
-+ Built-in themes are ready to use - theme_bw() is my (Navya's) favourite function because I hate the default grey, theme_barbie() comes as a recommendation from Anne-Lise (also check out https://github.com/MatthewBJane/ThemePark and https://ggplot2.tidyverse.org/reference/ggtheme.html) 
++ Built-in themes are ready to use - theme_bw() is my (Navya's) favourite function, theme_barbie() comes as a recommendation from Anne-Lise (also check out https://github.com/MatthewBJane/ThemePark and https://ggplot2.tidyverse.org/reference/ggtheme.html) 
 
 ```{r theme}
 #black and white
@@ -306,7 +305,7 @@ MYCN_ALK_2 <- MYCN_ALK %>%
 head(MYCN_ALK_2)
 ```
 
-Now that we have this new table, lets make a ggplot how the expression distribution of the two genes differs broadly for the whole cohort. The table to use is MYCN_ALK_2, which has the columns "patient_id", "category", "gene" and "tpm". 
+Now that we have this new table, lets make a plot of the expression distribution of the two genes for the whole cohort. The table to use is MYCN_ALK_2, which has the columns "patient_id", "category", "gene" and "tpm". 
 
 ```{r geneviolin}
 ggplot(MYCN_ALK_2, aes(x = gene, y = log2(tpm + 1))) + geom_violin() + theme_bw()
@@ -314,7 +313,7 @@ ggplot(MYCN_ALK_2, aes(x = gene, y = log2(tpm + 1))) + geom_violin() + theme_bw(
 
 Ok to now lets look at what these distributions look like for each disease category with a facet_wrap. The code below
   + Maps the gene column to the x axes and the (transformed) tpm to the y axes. 
-  + And then seperates the plot by disease category using facet_wrap()
+  + And then separates the plot by disease category using facet_wrap()
   
 ```{r facet}
 ggplot(MYCN_ALK_2, aes(x = gene, y = log2(tpm + 1), fill = gene)) + geom_violin() + facet_wrap(~category) + theme_bw()
@@ -392,7 +391,7 @@ ggplot(MYCN_ALK_2, aes(x = gene, y = log2(tpm + 1), fill = gene)) +
     map_signif_level = TRUE   
   ) +
   facet_wrap(~ category) + theme_bw() + 
-scale_y_continuous(expand = expansion(mult = c(0.05, 0.15)))
+scale_y_continuous(expand = expansion(mult = c(0.05, 0.15))) #expanding the y axes scales so that the signficance bars are actually visible
 
 ```
 

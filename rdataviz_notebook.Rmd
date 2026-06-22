@@ -354,6 +354,7 @@ MYCN_expression_violin + ALK_expression_violin + plot_layout(nrow = 2, #two rows
                                                   plot_annotation(tag_levels = "A")
 
 ```
+
 #### Exercise 
 
 Trying adding the MYCN ALK correlation plot to the violin plots. 

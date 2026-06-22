@@ -166,7 +166,7 @@ ggplot(MYCN_ALK, aes(y = log2(MYCN_TPM + 1), x = category, color = category))+ g
 
 ```{r breaksy}
 #2. Changing y-axis breaks
-ggplot(MYCN_ALK, aes(y = log2(MYCN_TPM + 1), x = category, color = category))+ geom_violin() + scale_y_continuous(breaks = c(-6,-4,-2,0,2,4,6,8,10))
+ggplot(MYCN_ALK, aes(y = log2(MYCN_TPM + 1), x = category, color = category))+ geom_violin() + scale_y_continuous(breaks = c(0,2,4,6,8,10))
 ```
 
 ```{r abbrx}
@@ -240,7 +240,7 @@ ggplot(MYCN_ALK, aes(y = log2(MYCN_TPM + 1), x = category, color = category)) +
 ggplot(MYCN_ALK, aes(y = log2(MYCN_TPM + 1), x = category, color = category)) + 
   geom_violin() +
   scale_colour_brewer(palette = "Dark2") + theme_bw() + 
-  theme(panel.grid.major = element_line(colour = "grey80", linewidth = 0.5, linetype = "dashed"), #change features of major gridlines
+  theme(panel.grid.major = element_line(colour = "grey80", linewidth = 1, linetype = "dashed"), #change features of major gridlines
         panel.grid.minor = element_blank(), #remove minor grid lines
         axis.text.x = element_text(size = 8, angle = 45, hjust = 1), #rotate and adjust x-axis labels so they are not overlapping
         axis.text.y = element_text(color = "purple"), #change color of the y-axis text
@@ -255,8 +255,7 @@ ggplot(MYCN_ALK, aes(y = log2(MYCN_TPM + 1), x = category, color = category)) +
 ggplot(MYCN_ALK, aes(y = log2(MYCN_TPM + 1), x = category, color = category)) + 
   geom_violin() +
   scale_colour_brewer(palette = "Dark2") + theme_bw() + 
-    theme(panel.grid.major = element_line(colour = "grey80", linewidth = 0.5, linetype = "dashed"), #change features of major gridlines
-        panel.grid.minor = element_blank(), #remove minor grid lines
+    theme(panel.grid = element_line(colour = "grey80", linewidth = 0.5, linetype = "dashed"), #change features of major gridlines
         axis.text.x = element_text(size = 8, angle = 45, hjust = 1), #rotate and adjust x-axis labels so they are not overlapping
         axis.text.y = element_text(color = "purple"), #change color of the y-axis text
         axis.ticks = element_blank(), #remove all axis ticks
@@ -275,7 +274,7 @@ Make the following changes to your MYCN/ALK plot:
   + Font size of 12 and bold face for your plot title
   + Font size of 8 for your legend text and 10 for your legend title. 
   + Legend position to the left of the plot
-  + Remove all major gridlines
+  + Remove all gridlines
   
 ```{r theme_ex}
 ### ENTER CODE HERE ###
